@@ -1,13 +1,13 @@
 # Bruce (Bartender, *Skewered Dragon*)
-Bruce is the middle-aged human bartender at the Skewered Dragon. What you know so far: When they arrived at the Dragon around four in the afternoon, Bruce was already half in the bag.
+Bruce is the middle-aged human bartender at the Skewered Dragon. **What you know so far**: When they arrived at the Dragon around four in the afternoon, Bruce was already half in the bag.
 
 
 # Marion (Barmaid, *Skewered Dragon*)
-Marion is a human bar maid who works at the Skewered Dragon. What you know so far:  She was one of two bar maids who were on staff at the Dragon when they arrived. She had been sitting at the bar, nursing a hangover from the previous shift while her counterpart left Thaggus and the Crimson Sail merchants to their business. She is fond of Jarik, at least his money and the ale that it buys.
+Marion is a human bar maid who works at the Skewered Dragon. **What you know so far**:  She was one of two bar maids who were on staff at the Dragon when they arrived. She had been sitting at the bar, nursing a hangover from the previous shift while her counterpart left Thaggus and the Crimson Sail merchants to their business. She is fond of Jarik, at least his money and the ale that it buys.
 
 
 # Boris ("Bouncer", *Skewered Dragon*)
-Boris is an overweight, large human who serves as the Skewered Dragon’s bouncer. Unenthusiastic and untrained, he relies on his bulk to maintain order in the Dragon. Which is to say if things ever get really out of hand, he just tries to direct it outside. Or hides. What you know so far:  Boris told them that Floon and Neverember were jumped by five members of the Zhentarim and most likely took them back to their hangout on Candle Lane. He was a little reluctant, especially in the presence of the Crimson Sail merchants, but spilled his beans for the promise of future tidings from Jarik and his patron.
+Boris is an overweight, large human who serves as the Skewered Dragon’s bouncer. Unenthusiastic and untrained, he relies on his bulk to maintain order in the Dragon. Which is to say if things ever get really out of hand, he just tries to direct it outside. Or hides. **What you know so far**:  Boris told them that Floon and Neverember were jumped by five members of the Zhentarim and most likely took them back to their hangout on Candle Lane. He was a little reluctant, especially in the presence of the Crimson Sail merchants, but spilled his beans for the promise of future tidings from Jarik and his patron.
 
 
 # Chella
@@ -16,7 +16,7 @@ Boris is an overweight, large human who serves as the Skewered Dragon’s bounce
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Chella.jpg)
 
 # Cricket 
-Cricket is a small, mousey human male, in the employ of Thaggus. He looks like a bookkeeper or a librarian. In fact, he is one of Thaggus’ most trusted allies, managing many of the complex contracts, liens and arrangements with the underbelly of the docks. Despite his fragile appearance, because of his role in the Harbor Master’s organization he is treated with a deference by those who know who him. Even so, he is seldom seen without at least one of the Harbor Master’s retainers as an escort and is never far from his huge wooden briefcase. What you know so far: Cricket knew of Neverember’s disappearance, but did not know that Floon was with him. He seemed genuinely interested in Floon’s return or to know who was responsible for his disappearance. He also recognized Barakka’s noble plumage. He gave the party an open invitation to bring information to them at the Harbor Master’s office. He distinctly stopped short of employing them or making any formal arrangement with them. Even in the Thaggus'  presence, Cricket seemed comfortable speaking for and making overtures to the party for the Harbor Master, without directly checking with him.
+Cricket is a small, mousey human male, in the employ of Thaggus. He looks like a bookkeeper or a librarian. In fact, he is one of Thaggus’ most trusted allies, managing many of the complex contracts, liens and arrangements with the underbelly of the docks. Despite his fragile appearance, because of his role in the Harbor Master’s organization he is treated with a deference by those who know who him. Even so, he is seldom seen without at least one of the Harbor Master’s retainers as an escort and is never far from his huge wooden briefcase. **What you know so far**: Cricket knew of Neverember’s disappearance, but did not know that Floon was with him. He seemed genuinely interested in Floon’s return or to know who was responsible for his disappearance. He also recognized Barakka’s noble plumage. He gave the party an open invitation to bring information to them at the Harbor Master’s office. He distinctly stopped short of employing them or making any formal arrangement with them. Even in the Thaggus'  presence, Cricket seemed comfortable speaking for and making overtures to the party for the Harbor Master, without directly checking with him.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Cricket.jpg?raw=true)
 
@@ -29,7 +29,7 @@ Cricket is a small, mousey human male, in the employ of Thaggus. He looks like a
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Jubble%20Xeleon%2001.jpg?raw=true)
 
 # Ktchcck
-Ktchcck a claw-foot raptor who is frequently seen with Chella. What you know so far: Ktchcck appeared to have an affinity for Cricket, moving to a defensive position near him when there was the possibility of danger.
+Ktchcck a claw-foot raptor who is frequently seen with Chella. **What you know so far**: Ktchcck appeared to have an affinity for Cricket, moving to a defensive position near him when there was the possibility of danger.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ktchcck%20v2.jpg)
 
