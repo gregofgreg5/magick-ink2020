@@ -2,7 +2,7 @@
 
 **Jubble Xeleon** the "mature," "retired adventurer" that was your first point-of-contact from your employers, in Waterdeep.  What you know so far: He's not from Waterdeep, but can be reached by leaving messages with Durnan (proprietor) or Bonnie (the barmaid) of The Yawning Portal.
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/Jubble%20Xeleon.jpg?raw=true)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Jubble%20Xeleon.jpg?raw=true)
 
 # Krentz 
 Krentz was the leader of the Zhentarim thugs who were harassing Yagra at the Yawning Portal, your party dispatched them. Krentz and one of his men were allowed to retreat. *I’m sure that will go well for you*.
