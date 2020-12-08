@@ -1,5 +1,15 @@
+# Chella
+**Chella** is a large tortle and is a valued member of Thaggus’ permanent crew. Soft spoken and wildly intelligent, he will sometimes even stand in for Thaggus when the Harbor Master is otherwise occupied. Chella is always in the company of ***Ktchcck***, a claw-footed raptor. **What you know so far**: Despite initially intercepting the party and keeping them from talking to the Harbor Master directly, Chella was cordial and friendly. He, and the Thaggus, seemed appreciate the party’s straightforward and respectful approach. He even called Luzeiros friend, appreciating his acerbic wit.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Chella.jpg)
+
+# Gurth
+**Gurth** is a gigantic grey hipottan. **What you know so far**:You met him, while he was left in charge of the Harbor Master’s office. He looks like he’s very strong and you’ve seen him move very very fast.  What you know so far: He ransacked the office and is likely to get chewed out for that, more than the paperwork that he lost. He didn’t strike you (luckily) as very smart.
+
+
+
 # Jubble Xeleon
-**Jubble Xeleon** the "mature," "retired adventurer" that was your first point-of-contact from your employers, in Waterdeep.  What you know so far: He's not from Waterdeep, but can be reached by leaving messages with Durnan (proprietor) or Bonnie (the barmaid) of The Yawning Portal.
+**Jubble Xeleon** the "mature," "retired adventurer" that was your first point-of-contact from your employers, in Waterdeep.  **What you know so far**: He's not from Waterdeep, but can be reached by leaving messages with Durnan (proprietor) or Bonnie (the barmaid) of The Yawning Portal.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Jubble%20Xeleon%2001.jpg?raw=true)
 
@@ -7,6 +17,11 @@
 Krentz was the leader of the Zhentarim thugs who were harassing Yagra at the Yawning Portal, your party dispatched them. Krentz and one of his men were allowed to retreat. *I’m sure that will go well for you*.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Krentz.jpg?raw=true)
+
+# Thaggus
+**Thaggus, the Harbor Master**, is a tall and handsome gull aarakocra. Thaggus is always clothed in expensive business attire and cuts a commanding appearance in any room. He is a calm, collected and measured presence in any setting. He sits at the head of a network of enterprises whose chief business is scheduling and organizing all business that occurs on or around the Dockward. Despite his direct connections with organized and unorganized crime, he serves more like an unofficial city supervisor than a crimelord. While he has a small (usually exotic) retainer of agents on hand at all times, he employs retired, off-duty and sometimes on-duty members of the City Watch to keep order on the docks. A skilled diplomat he is also a valuable asset to many of the city’s Lords. What you know so far: He has no use for the whole dragon business and sees it as more disruptive than useful or lucrative. He likewise seems to have no interest or concern for Renaer Neverember. He does have some kind of arrangement with the merchants from the Crimson Sail that was just brokered. He also seems to be sizing up your party’s value.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Thaggus.jpg?raw=true)
 
 # Volothamp Geddarm ("Volo")
 "Volo" famous scibe of Volo's Guide to Monsters, he makes his "base of operations" at The Yawning Portal. Volo is currently working on his next book Volo's Guides to Spirits and Spectres, which he tells everyone all the time, leaving some to wonder when he actually his time to work on it! **What you know so far**: He's famous for his work, he seems to revel in his own celebrity and seemed very eager to hire you to find his friend Floon. Volo tells the party he can be reached here at the Yawning Portal or messages can be left for him with Durnan and/or Bonnie.
