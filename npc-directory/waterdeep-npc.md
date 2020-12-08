@@ -11,7 +11,7 @@ Boris is an overweight, large human who serves as the Skewered Dragon’s bounce
 
 
 # Chella
-**Chella** is a large tortle and is a valued member of Thaggus’ permanent crew. Soft spoken and wildly intelligent, he will sometimes even stand in for Thaggus when the Harbor Master is otherwise occupied. Chella is always in the company of ***Ktchcck***, a claw-footed raptor. **What you know so far**: Despite initially intercepting the party and keeping them from talking to the Harbor Master directly, Chella was cordial and friendly. He, and the Thaggus, seemed appreciate the party’s straightforward and respectful approach. He even called Luzeiros friend, appreciating his acerbic wit.
+**Chella** is a large tortle and is a valued member of Thaggus’ permanent crew. Soft spoken and wildly intelligent, he will sometimes even stand in for Thaggus when the Harbor Master is otherwise occupied. Chella is always in the company of [Ktchcck](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/waterdeep-npc.md#ktchcck), a claw-footed raptor. **What you know so far**: Despite initially intercepting the party and keeping them from talking to the Harbor Master directly, Chella was cordial and friendly. He, and the Thaggus, seemed appreciate the party’s straightforward and respectful approach. He even called Luzeiros friend, appreciating his acerbic wit.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Chella.jpg)
 
