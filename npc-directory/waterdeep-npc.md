@@ -6,12 +6,15 @@
 # Gurth
 **Gurth** is a gigantic grey hipottan. **What you know so far**:You met him, while he was left in charge of the Harbor Master’s office. He looks like he’s very strong and you’ve seen him move very very fast.  What you know so far: He ransacked the office and is likely to get chewed out for that, more than the paperwork that he lost. He didn’t strike you (luckily) as very smart.
 
-
-
 # Jubble Xeleon
 **Jubble Xeleon** the "mature," "retired adventurer" that was your first point-of-contact from your employers, in Waterdeep.  **What you know so far**: He's not from Waterdeep, but can be reached by leaving messages with Durnan (proprietor) or Bonnie (the barmaid) of The Yawning Portal.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Jubble%20Xeleon%2001.jpg?raw=true)
+
+# Ktchcck
+Ktchcck a claw-foot raptor who is frequently seen with Chella. What you know so far: Ktchcck appeared to have an affinity for Cricket, moving to a defensive position near him when there was the possibility of danger.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ktchcck%20v2.jpg)
 
 # Krentz 
 Krentz was the leader of the Zhentarim thugs who were harassing Yagra at the Yawning Portal, your party dispatched them. Krentz and one of his men were allowed to retreat. *I’m sure that will go well for you*.
