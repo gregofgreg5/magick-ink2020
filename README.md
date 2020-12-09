@@ -9,3 +9,7 @@ Welcome to the future.
 
 ### NPC Directory
 #### [Waterdeep NPCs](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/waterdeep-npc.md#waterdeep-npc-directory)
+
+### Who's Who (Player Character Directory)
+
+### Magick Item Inventory
