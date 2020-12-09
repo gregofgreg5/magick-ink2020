@@ -93,7 +93,8 @@ Any smart, non-evil character can join the Harpers of Waterdeep. Bards and wizar
 In the current situation, it doesn't take long for them to suspect that the Zhentarim is wholly or partially responsible for the escalation of violence in Waterdeep. Harper spies might use the adventurers as instruments to get at the truth. Various nobles and guild masters in the city are Harper sympathizers.The Harpers have several secret gathering places in Waterdeep, among them ***Ulbrinter Villa***, an estate located on Delzorin Street between Vhezoar Street and Brondar's Way, in the North Ward Oust south of Trollskull Alley). The elf lady of the house, **Remallia Haventree** ("Remi" to her friends), the widow of Lord Arthagast Ulbrinter, is a high-ranking member of the faction. Other key members include** Renaer Neverember**, the estranged son of Lord Dagult Neverember, and **Mirt**, an advisor to Open Lord Laeral Silverhand.
 >Waterdeep: Dragon Heist Module
 
-Harper Code
+**Harper Code**
+
 1.Harpers work against villainy and wickedness wherever they find it, but they work ever mindful of the consequences of what they do.
 2. All beings should walk free of fear, with the right to live their lives as they wish.
 3. The rule of law aids peace and fosters freedom, so long as the laws are just and those who enforce them honorable and honest.
