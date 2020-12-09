@@ -1,4 +1,4 @@
-# magick-ink2020
+# Magick Ink. 2020
 Welcome to the future.
 
 
