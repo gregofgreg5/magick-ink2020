@@ -25,9 +25,9 @@ Adipiscing elit ut aliquam purus sit amet luctus venenatis. Vel eros donec ac od
 ## Guilds
 [Bregan D'aerthe](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#bregan-daerthe-guild)
 
-**The Xanathar and it's  Thieves Guild**
+[The Xanathar and it's  Thieves Guild](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#the-xanathar-and-its--thieves-guild)
 
-**The Zhentarim**
+[The Zhentarim](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#the-zhentarim-the-black-network)
 
 ## Trollskull Alley
 Viverra justo nec ultrices dui sapien. Ut venenatis tellus in metus vulputate eu scelerisque. Eget nunc scelerisque viverra mauris in aliquam. Urna nunc id cursus metus aliquam eleifend mi in. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Sit amet aliquam id diam maecenas ultricies. Faucibus purus in massa tempor nec feugiat. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Sit amet consectetur adipiscing elit pellentesque. Duis at consectetur lorem donec massa sapien faucibus et. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Ultricies lacus sed turpis tincidunt id aliquet risus. Vestibulum sed arcu non odio. Quis enim lobortis scelerisque fermentum dui faucibus in. Egestas integer eget aliquet nibh praesent. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Nulla posuere sollicitudin aliquam ultrices sagittis. Quam elementum pulvinar etiam non quam. Condimentum mattis pellentesque id nibh tortor id.
