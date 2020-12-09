@@ -47,10 +47,10 @@ Krentz was the leader of the Zhentarim thugs who were harassing Yagra at the Yaw
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Krentz.jpg?raw=true)
 
 # L
+# M
 ### Marion (Barmaid, *Skewered Dragon*)
 Marion is a human bar maid who works at the Skewered Dragon. **What you know so far**:  She was one of two bar maids who were on staff at the Dragon when they arrived. She had been sitting at the bar, nursing a hangover from the previous shift while her counterpart left Thaggus and the Crimson Sail merchants to their business. She is fond of Jarik, at least his money and the ale that it buys.
 
-# M
 # N
 # O
 # P
