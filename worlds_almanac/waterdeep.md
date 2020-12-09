@@ -1,5 +1,32 @@
 # Waterdeep Almanac
 
+[A](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#a)
+[B](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#b)
+[C](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#c)
+[D](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#d)
+[E](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#e)
+[F](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#f)
+[G](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#g)
+[H](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#h)
+[I](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#i)
+[J](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#j)
+[K](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#k)
+[L](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#l)
+[M](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#m)
+[N](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#n)
+[O](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#o)
+[P](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#p)
+[Q](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#q)
+[R](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#r)
+[S](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#s)
+[T](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#t)
+[U](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#u)
+[V](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#v)
+[W](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#w)
+[X](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#x)
+[Y](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#y)
+[Z](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#z)
+
 
 # A
 
@@ -41,11 +68,11 @@ Pellentesque habitant morbi tristique senectus et netus. Est ultricies integer q
 # G
 
 ## The Griffon Cavalry
->The Griffon Cavalry was the air cavalry of the city of Waterdeep in the 13th, 14th and 15th centuries DR. Part of the City Guard, it was a militia organization made up of soldiers responsible for defending and patrolling the great city.
->**History**
->The history of the Griffon Cavalry can perhaps be traced as far back as the second Trollwars when Ilithrew Belabranta rode his griffon into battle. One of his later heirs, Lord Palinor Belabranta, did the same versus the orc hordes of the Black Claw tribe in 1026 DR. House Belabranta had since been a noble family associated with the breeding and training of griffons.
->In 1235 DR Open Lord Ahghairon officially declared the Griffon Cavalry part of the City Guard during a huge orc siege on the city. The riders not only fought the orc hordes again, but were also used to shuttle in much needed supplies to the city.
->The Griffon Cavalry later established a base of operations on the landward side of Mount Waterdeep called Peaktop Aerie, or Peaktop Eyrie. There they stabled over twenty griffons with another half-dozen housed at Castle Waterdeep.
+The Griffon Cavalry was the air cavalry of the city of Waterdeep in the 13th, 14th and 15th centuries DR. Part of the City Guard, it was a militia organization made up of soldiers responsible for defending and patrolling the great city.
+**History**
+The history of the Griffon Cavalry can perhaps be traced as far back as the second Trollwars when Ilithrew Belabranta rode his griffon into battle. One of his later heirs, Lord Palinor Belabranta, did the same versus the orc hordes of the Black Claw tribe in 1026 DR. House Belabranta had since been a noble family associated with the breeding and training of griffons.
+In 1235 DR Open Lord Ahghairon officially declared the Griffon Cavalry part of the City Guard during a huge orc siege on the city. The riders not only fought the orc hordes again, but were also used to shuttle in much needed supplies to the city.
+The Griffon Cavalry later established a base of operations on the landward side of Mount Waterdeep called Peaktop Aerie, or Peaktop Eyrie. There they stabled over twenty griffons with another half-dozen housed at Castle Waterdeep.
 
 >[Ref: Forgotten Realms Fandom](https://forgottenrealms.fandom.com/wiki/Griffon_Cavalry)
 
@@ -59,11 +86,22 @@ Pellentesque habitant morbi tristique senectus et netus. Est ultricies integer q
 # H
 
 ## Harpers (Guild)
-Any smart, non-evil character can join the Harpers of Waterdeep. Bards and wizards are especially welcome.
+Any smart, non-evil character can join the Harpers of Waterdeep. Bards and wizards are especially welcome. Harpers are altruists who work behind the scenes to keep power out of the hands of evil tyrants. In the current situation, it doesn't take long for them to suspect that the Zhentarim is wholly or partially responsible for the escalation of violence in Waterdeep. Harper spies might use the adventurers as instruments to get at the truth. Various nobles and guild masters in the city are Harper sympathizers.The Harpers have several secret gathering places in Waterdeep, among them ***Ulbrinter Villa***, an estate located on Delzorin Street between Vhezoar Street and Brondar's Way, in the North Ward Oust south of Trollskull Alley). The elf lady of the house, **Remallia Haventree** ("Remi" to her friends), the widow of Lord Arthagast Ulbrinter, is a high-ranking member of the faction. Other key members include** Renaer Neverember**, the estranged son of Lord Dagult Neverember, and **Mirt**, an advisor to Open Lord Laeral Silverhand.
+>Waterdeep: Dragon Heist Module
 
-Harpers are altruists who work behind the scenes to keep power out of the hands of evil tyrants. In the current situation, it doesn't take long for them to suspect that the Zhentarim is wholly or partially responsible for the escalation of violence in Waterdeep. Harper spies might use the adventurers as instruments to get at the truth. Various nobles and guild masters in the city are Harper sympathizers.
+Harper Code
+1.Harpers work against villainy and wickedness wherever they find it, but they work ever mindful of the consequences of what they do.
+2. All beings should walk free of fear, with the right to live their lives as they wish.
+3. The rule of law aids peace and fosters freedom, so long as the laws are just and those who enforce them honorable and honest.
+4. No extreme is good. For freedom to flourish, all must be in balance: the powers of realms, the reaches of the cities and the wilderlands into each other, and the influence of one being over another.
+5. Whatever it takes, a Harper will do. Pride never rules the deeds of a true Harper.
+6. Freedom is a multiversal right, though Harpers can spare themselves less freedom than those they work to protect when the need presents itself.
+7. Harpers police their own. A Harper who hears the call of personal power can no longer hear the sweet song of the harp. A Harper who seizes power, and holds it above all else, is a traitor to the harp. Traitors must be stopped for freedom to live.
+8. Without a past, no being can appreciate what they have, and where they may be going.
 
-The Harpers have several secret gathering places in Waterdeep, among them ***Ulbrinter Villa***, an estate located on Delzorin Street between Vhezoar Street and Brondar's Way, in the North Ward Oust south of Trollskull Alley). The elf lady of the house, **Remallia Haventree** ("Remi" to her friends), the widow of Lord Arthagast Ulbrinter, is a high-ranking member of the faction. Other key members include** Renaer Neverember**, the estranged son of Lord Dagult Neverember, and **Mirt**, an advisor to Open Lord Laeral Silverhand.
+Goals
+To gather information throughout Faerûn, discern the political dynamics within each region or realm, and promote freedom and equality by covert means. Act openly as a last resort. Thwart tyrants and any leader, government, or group that abuses its power, and aid the weak, the poor, and the oppressed.
+>[Obsidian Portal: Waterdeep Dragon Heist](https://waterdeepdragonheist-48.obsidianportal.com/wikis/harpers)
 
 # I
 # J
