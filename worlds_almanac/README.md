@@ -1,6 +1,6 @@
 ## Worlds Almanac
 
-#### Waterdeep
+#### [Waterdeep](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#waterdeep-almanac)
 
 [A](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#a)
 [B](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#b)
