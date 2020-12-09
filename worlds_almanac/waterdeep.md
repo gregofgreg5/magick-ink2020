@@ -69,8 +69,10 @@ Pellentesque habitant morbi tristique senectus et netus. Est ultricies integer q
 
 ## The Griffon Cavalry
 The Griffon Cavalry was the air cavalry of the city of Waterdeep in the 13th, 14th and 15th centuries DR. Part of the City Guard, it was a militia organization made up of soldiers responsible for defending and patrolling the great city.
+
 **History**
 The history of the Griffon Cavalry can perhaps be traced as far back as the second Trollwars when Ilithrew Belabranta rode his griffon into battle. One of his later heirs, Lord Palinor Belabranta, did the same versus the orc hordes of the Black Claw tribe in 1026 DR. House Belabranta had since been a noble family associated with the breeding and training of griffons.
+
 In 1235 DR Open Lord Ahghairon officially declared the Griffon Cavalry part of the City Guard during a huge orc siege on the city. The riders not only fought the orc hordes again, but were also used to shuttle in much needed supplies to the city.
 The Griffon Cavalry later established a base of operations on the landward side of Mount Waterdeep called Peaktop Aerie, or Peaktop Eyrie. There they stabled over twenty griffons with another half-dozen housed at Castle Waterdeep.
 
@@ -86,7 +88,9 @@ The Griffon Cavalry later established a base of operations on the landward side 
 # H
 
 ## Harpers (Guild)
-Any smart, non-evil character can join the Harpers of Waterdeep. Bards and wizards are especially welcome. Harpers are altruists who work behind the scenes to keep power out of the hands of evil tyrants. In the current situation, it doesn't take long for them to suspect that the Zhentarim is wholly or partially responsible for the escalation of violence in Waterdeep. Harper spies might use the adventurers as instruments to get at the truth. Various nobles and guild masters in the city are Harper sympathizers.The Harpers have several secret gathering places in Waterdeep, among them ***Ulbrinter Villa***, an estate located on Delzorin Street between Vhezoar Street and Brondar's Way, in the North Ward Oust south of Trollskull Alley). The elf lady of the house, **Remallia Haventree** ("Remi" to her friends), the widow of Lord Arthagast Ulbrinter, is a high-ranking member of the faction. Other key members include** Renaer Neverember**, the estranged son of Lord Dagult Neverember, and **Mirt**, an advisor to Open Lord Laeral Silverhand.
+Any smart, non-evil character can join the Harpers of Waterdeep. Bards and wizards are especially welcome. Harpers are altruists who work behind the scenes to keep power out of the hands of evil tyrants. 
+
+In the current situation, it doesn't take long for them to suspect that the Zhentarim is wholly or partially responsible for the escalation of violence in Waterdeep. Harper spies might use the adventurers as instruments to get at the truth. Various nobles and guild masters in the city are Harper sympathizers.The Harpers have several secret gathering places in Waterdeep, among them ***Ulbrinter Villa***, an estate located on Delzorin Street between Vhezoar Street and Brondar's Way, in the North Ward Oust south of Trollskull Alley). The elf lady of the house, **Remallia Haventree** ("Remi" to her friends), the widow of Lord Arthagast Ulbrinter, is a high-ranking member of the faction. Other key members include** Renaer Neverember**, the estranged son of Lord Dagult Neverember, and **Mirt**, an advisor to Open Lord Laeral Silverhand.
 >Waterdeep: Dragon Heist Module
 
 Harper Code
