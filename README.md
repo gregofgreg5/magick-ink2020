@@ -1,8 +1,8 @@
 # magick-ink2020
-DND campaign
+Welcome to the future.
 
 
 ## Worlds Almanac
-### Waterdeep
+### [Waterdeep](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#waterdeep-almanac)
 
-## NPC Directory
+## [NPC Directory](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/waterdeep-npc.md#waterdeep-npc-directory)
