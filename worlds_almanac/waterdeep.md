@@ -23,7 +23,7 @@ Adipiscing elit ut aliquam purus sit amet luctus venenatis. Vel eros donec ac od
 
 
 ## Guilds
-[Bregan D'aerthe (Guild)**
+[Bregan D'aerthe](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#bregan-daerthe-guild)
 
 **The Xanathar and it's  Thieves Guild**
 
