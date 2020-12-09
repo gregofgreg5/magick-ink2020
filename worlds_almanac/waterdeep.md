@@ -38,6 +38,7 @@ A character must be a drow, preferably a male, to join this faction.
 Bregan D'aerthe is a company of mercenaries originally made up of the much-derided and dishonorable castaways of destroyed drow houses. The group's leader, **Jarlaxle Baenre**, is always looking for new members to fill the ranks, and loyalty is what matters to him most.
 
 Almost all Bregan D'aerthe members are male because female drow rarely condescend to take orders from a male. A female drow can earn a place in the faction by decrying the drow matriarchy and convincing Jarlaxle that she would be an asset to the brotherhood. Jarlaxle employs non-drow operatives as well, none of whom know they're working for him; such individuals aren't considered members of the faction.
+>Waterdeep: Dragon Heist Module
 
 # C
 ## The City Guard
@@ -57,6 +58,8 @@ Whenever Waterdeep has a problem that can't be handled by diplomats or the city'
 Although the Open Lord sets mission goals and parameters whenever the unit is activated, the Force Grey team needed to complete any given assignment is made up of individuals handpicked by the Blackstaff.
 
 If members of Force Grey (and, in some cases, the Gray Hands) are arrested for a crime, the Open Lord or the Blackstaff will usually intervene on their behalf and facilitate their release.
+>Waterdeep: Dragon Heist Module
+
 
 ## The City Watch
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean et tortor at risus viverra adipiscing at in. Augue eget arcu dictum varius duis at consectetur lorem donec. Ac felis donec et odio pellentesque diam volutpat. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Ac ut consequat semper viverra nam libero justo laoreet sit. Congue quisque egestas diam in. Urna et pharetra pharetra massa. Morbi enim nunc faucibus a pellentesque. Egestas fringilla phasellus faucibus scelerisque eleifend donec. Consectetur a erat nam at lectus urna.
@@ -135,6 +138,8 @@ The order's mission is to seek out and destroy evil before it gains a foothold. 
 
 An individual can be a member of the faction and also a member of the clergy or a knight pledged to a specific god or temple. Members of the order act alone or in small groups. Some are Waterdavian natives; others hail from distant settlements and have come to the city on temple business.
 
+>Waterdeep: Dragon Heist Module
+
 # P
 # Q
 # R
@@ -164,6 +169,9 @@ Among low-ranking guild members, rampant speculation goes on about the true natu
 
 Given that the faction is fundamentally evil, advancement is based on one's wiles or one's ability to dispose of rivals. Competition within the organization is fierce and often deadly. Evil characters can thrive in this environment, but the risks are seldom worth the reward.
 
+>Compiled from *random sources* and Waterdeep: Dragon Heist Module
+
+
 # Y
 # Z
 
@@ -175,4 +183,6 @@ The Black Network has an open recruitment policy. Anyone can join. Tenacity and 
 The Zhentarim is a shadow organization that trades mercenaries and goods (including weapons) for profit. It has long sought to gain political influence in Waterdeep, but the strength of the city's Masked Lords, nobility, and professional guilds makes that difficult.
 
 The Zhentarim in Waterdeep is a fractured organization. One particular faction is often pitted against the Xanathar guild and strives to gain control of Waterdeep either politically or through the underworld or both. It is speculated, that at any given time at least one other Zhentarim order operates in Waterdeep. Some have foreign origins and are looking to set-up a power base in the busy port city, while others may have been fledgling guilds that were absorbed, recruited, or are sponsored by some other Zhentarim order operating more prominently outside of Waterdeep.
+
+>Compiled from *random sources* and Waterdeep: Dragon Heist Module
 
