@@ -86,6 +86,10 @@ An individual can be a member of the faction and also a member of the clergy or 
 # Q
 # R
 # S
+## Skewered Dragon
+See also: [Boris](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/waterdeep-npc.md#boris-bouncer-skewered-dragon), [Bruce](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/waterdeep-npc.md#bruce-bartender-skewered-dragon), [Marion](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/waterdeep-npc.md#marion-barmaid-skewered-dragon)
+
+Viverra justo nec ultrices dui sapien. Ut venenatis tellus in metus vulputate eu scelerisque. Eget nunc scelerisque viverra mauris in aliquam. Urna nunc id cursus metus aliquam eleifend mi in. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Sit amet aliquam id diam maecenas ultricies. Faucibus purus in massa tempor nec feugiat. Laoreet non c
 # T
 
 ## Trollskull Alley
