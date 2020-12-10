@@ -65,4 +65,5 @@
 [circle-of-the-moon]: https://forgottenrealms.fandom.com/wiki/Druid#Circle_of_the_Moon
 [ipa]: https://en.wikipedia.org/wiki/Help:IPA/English
 [myth-drannor]: https://forgottenrealms.fandom.com/wiki/Myth_Drannor
+[silvanus]: https://forgottenrealms.fandom.com/wiki/Silvanus
 [waterdeep]: https://forgottenrealms.fandom.com/wiki/Waterdeep
