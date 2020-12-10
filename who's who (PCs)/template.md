@@ -5,6 +5,7 @@
 **Real name:**
 
 
+**Race:**
 
 **Class:**
 
