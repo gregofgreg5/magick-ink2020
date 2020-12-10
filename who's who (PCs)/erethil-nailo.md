@@ -1,32 +1,44 @@
-**Public name:** Erethil Naïlo &mdash; [IPA](https://en.wikipedia.org/wiki/Help:IPA/English) [ɛrɛθɪl nɑːiːloʊ] 
+# Erethil Naïlo
+
+## Monikers
+
+**Pronunciation:** [IPA][ipa] [ɛrɛθɪl nɑːiːloʊ] 
+
+**Public name:** Erethil Naïlo
 
 **Public aliases:** N/A
 
 **Real name:** Erethil Naïlo
 
+## Basics
+
 **Race:** High Elf
 
 **Class:** Druid
 
-**Occupation:**
-
-**Legal status:** *(citizenship, warrants, etc.)*
-
-**Personal wealth:** *(how do you got it, how you spend it)*
-
-**Base of operations:**
-
-**Group affiliations:**
- 
-**Place of birth:**
-
-**Family:**
-
-**Other relationships:** *(romances, enmities, negotiations, business relationships, seductions, etc.)*
-
 **Alignment:**
 
-**Religion/Deity(s):** *(also level of commitment/devotion)*
+## Relationships and responsibilities
+
+**Occupation:** Adventurer for hire, Black Opal
+
+**Legal status:** Citizen of [Waterdeep][waterdeep], citizen of [Myth Drannor][myth-drannor], member of the [Circle of the Moon][circle-of-the-moon]
+
+**Personal wealth:** One-ninth owner of Trollskull manor and minor personal belongings
+
+**Base of operations:** Trollskull manor
+
+**Group affiliations:** Black Opal
+ 
+**Place of birth:** [Myth Drannor][myth-drannor]
+
+**Family:** Father, mother, sister
+
+**Other relationships:** None known
+
+**Religion/Deity(s):** [Silvanus][silvanus] &mdash; minor
+
+## Physical attributes
  
 **Physical description:** *(what do people see when they see you)*
 
@@ -37,14 +49,20 @@
 **Eye color:**
 
 **Hair color:**
+
+## Plot Hooks
  
 **Short term goals:** *(current motivation)*
 
 **Long term goals:** *(what do you want to be when you grow up?)*
 
- 
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)*
  
 **Tell your story:** *(history)*
 
 **Preferred weapon:**
+
+[circle-of-the-moon]: https://forgottenrealms.fandom.com/wiki/Druid#Circle_of_the_Moon
+[ipa]: https://en.wikipedia.org/wiki/Help:IPA/English
+[myth-drannor]: https://forgottenrealms.fandom.com/wiki/Myth_Drannor
+[waterdeep]: https://forgottenrealms.fandom.com/wiki/Waterdeep
