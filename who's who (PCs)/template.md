@@ -44,7 +44,6 @@
 
 **Long term goals:** *(what do you want to be when you grow up?)*
 
- 
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)*
  
 **Tell your story:** *(history)*
