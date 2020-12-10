@@ -19,7 +19,6 @@
 
 **Group affiliations:** Member of the Xanathar Guild, *former* member of Bregan D'aerthe guild (Waterdeep)
 
- 
 **Place of birth:**  Llurth Dreier, the City of Ooze [reference](https://forgottenrealms.fandom.com/wiki/Llurth_Dreier)
 
 **Family:** His mother, ***Sh'iel Alaba Dor*** was  a Warlord Chief and Warlock of Ghaunadaur who had a small enclave of supporters who lived a nomadic live around the Llurth Dreier and principally operated (preyed) on the city. He never knew his father. He was raised with twelve other Drow, whom his mother claimed as her children.
@@ -47,6 +46,8 @@
 **Long term goals:** *(what do you want to be when you grow up?)* 
 
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)* *Well, he's dead*
+If he hadn't gotten killed, it might have been cool to see him embroiled in some dispute with his sister: with an adventuring party caught in between.
+An adventure in which he and the Crimson Sail either crosspaths or are in league might have been on the horizon.
  
 **Tell your story:** *(history)* When his mother's enclave was decimated in a brutal battle with a number of factions, including the Llurth Dreir army, he escaped the underdark and made for the surface. He believed at the time to be the last survivor of the enclave, until he discovered that one of his sibilings (Dor Ralla' Shiel) had also managed to escape. Initially he hid in a number of Drow communities, aping their culture or religion to fit in, while remaining fairly devout to his mother's teachings of Ghaunadaur. he found that he had a knack for leadership, especially with soldiers, thugs and the more physical sort.
 
