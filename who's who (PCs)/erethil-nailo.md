@@ -1,7 +1,5 @@
 # Erethil Naïlo
 
-## Monikers
-
 **Pronunciation:** [IPA][ipa] [ɛrɛθɪl nɑːiːloʊ] 
 
 **Public name:** Erethil Naïlo
