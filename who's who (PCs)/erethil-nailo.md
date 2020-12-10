@@ -16,11 +16,11 @@
 
 **Alignment:** Chaotic Good
 
-## Relationships and responsibilities
+## Affiliations
 
 **Occupation:** Adventurer for hire, Black Opal
 
-**Legal status:** Citizen of [Waterdeep][waterdeep], citizen of [Myth Drannor][myth-drannor], member of the [Circle of the Moon][circle-of-the-moon]
+**Legal status:** Citizen of [Waterdeep][waterdeep], citizen of [Myth Drannor][myth-drannor], member of the [Circle of the Moon][circle-of-the-moon], member of the Waterdeep magic-user's guild
 
 **Personal wealth:** One-ninth owner of Trollskull manor and minor personal belongings
 
