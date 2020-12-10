@@ -14,7 +14,7 @@
 
 **Class:** Druid
 
-**Alignment:**
+**Alignment:** Chaotic Good
 
 ## Relationships and responsibilities
 
@@ -38,15 +38,15 @@
 
 ## Physical attributes
  
-**Physical description:** *(what do people see when they see you)*
+**Physical description:** High elf of slightly above average height about 5'11" and normal build (for an elf) with long golden blonde hair and somewhat bronze-ish skin from being out amongst nature most of the time. Often seen wearing a long forest green cloak and leather garb of muted or natural tones with only a couple pieces of jewelry
 
-**Height:**
+**Height:** 5'11"
 
-**Weight:**
+**Weight:** Normal elven build
 
-**Eye color:**
+**Eye color:** Ice blue
 
-**Hair color:**
+**Hair color:** Golden blonde
 
 ## Plot Hooks
  
