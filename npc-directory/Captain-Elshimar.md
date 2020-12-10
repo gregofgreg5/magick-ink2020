@@ -46,7 +46,6 @@
 
 **Long term goals:** *(what do you want to be when you grow up?)* 
 
- 
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)* *Well, he's dead*
  
 **Tell your story:** *(history)* When his mother's enclave was decimated in a brutal battle with a number of factions, including the Llurth Dreir army, he escaped the underdark and made for the surface. He believed at the time to be the last survivor of the enclave, until he discovered that one of his sibilings (Dor Ralla' Shiel) had also managed to escape. Initially he hid in a number of Drow communities, aping their culture or religion to fit in, while remaining fairly devout to his mother's teachings of Ghaunadaur. he found that he had a knack for leadership, especially with soldiers, thugs and the more physical sort.
@@ -57,4 +56,4 @@ After spending about a decade traveling, he eventually made his way to Waterdeep
 
 It was a continued testament to his good favor in the city that he did not flee, but instead became a mercinary, eventually finding his way into the service of the Xanathar.
 
-**Preferred weapon:**
+**Preferred weapon:** Early in his travels he dispatched the wizard Hrexon and adopted the wizard's prize weapons, the ***Sinster knives***: *osprey, the hand, viper, and edge*, as his own. He is also a marksman with a hand crossbow and specialized with a short sword.
