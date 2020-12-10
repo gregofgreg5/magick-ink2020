@@ -8,7 +8,7 @@
 
 **Class:** Wizard
 
-**Occupation:** Adventurer and Bar Owner
+**Occupation:** Adventurer and Tavern Owner
 
 **Legal status:** *(citizenship, warrants, etc.)*
 
@@ -46,4 +46,4 @@
  
 **Tell your story:** *(history)*
 
-**Preferred weapon:**
+**Preferred weapon:** Spells
