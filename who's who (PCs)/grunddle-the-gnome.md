@@ -1,6 +1,6 @@
 **Public name:** *(Displayed name)* Grunddle
 
-**Public aliases:** Grunddle
+**Public aliases:** Grunddle the Magnificent, The Amazing Grunddle, That Gnome
 
 **Real name:** Grunddle
 
