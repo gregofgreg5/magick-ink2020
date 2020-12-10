@@ -1,4 +1,4 @@
-**Public name:** Erethil Naïlo
+**Public name:** Erethil Naïlo &mdash; [IPA](https://en.wikipedia.org/wiki/Help:IPA/English) [ɛrɛθɪl nɑːiːloʊ] 
 
 **Public aliases:** N/A
 
