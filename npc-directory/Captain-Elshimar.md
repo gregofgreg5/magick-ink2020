@@ -27,9 +27,9 @@
 
 **Alignment:** Neutral Evil
 
-**Religion/Deity(s):** *(also level of commitment/devotion)*
+**Religion/Deity(s):** *(also level of commitment/devotion)* On the surface he still worships Ghaunadaur, as his mother before him. However he does so more in an acknowledgement and search for incresing his own power, rather than any true devotion.
  
-**Physical description:** *(what do people see when they see you)*
+**Physical description:** *(what do people see when they see you)* Elian El'Shimar is a strikingly haandsome and tall-ish drow elf. His features easily switch from an almost unsettling affable (for a drow) to cunning, sinister and dangerous. While tall, he appears of slight build, he is indeed fit and muscular.
 
 **Age:** 212 (*Drow lifespan: ~400 years)
 
