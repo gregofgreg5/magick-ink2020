@@ -1,13 +1,16 @@
-**Public name:** *(Displayed name)* Captain El'Shimar
+# Captain El'Shimar
 
 **Public aliases:**
 
 **Real name:** Elian El'Shimar
 
+## Basics
 
 **Race:** Drow Elf
 
 **Class:** Fighter (Eldritch Knight)
+
+## Affiliations
 
 **Occupation:** Captain in the Xanathar Guild, former Waterdeep City Watch Captain and member of Force Grey
 
@@ -29,6 +32,8 @@
 
 **Religion/Deity(s):** *(also level of commitment/devotion)* On the surface he still worships Ghaunadaur, as his mother before him. However he does so more in an acknowledgement and search for incresing his own power, rather than any true devotion.
  
+## Physical attributes
+ 
 **Physical description:** *(what do people see when they see you)* Elian El'Shimar is a strikingly haandsome and tall-ish drow elf. His features easily switch from an almost unsettling affable (for a drow) to cunning, sinister and dangerous. While tall, he appears of slight build, he is indeed fit and muscular.
 
 **Age:** 212 (*Drow lifespan: ~400 years)
@@ -40,6 +45,8 @@
 **Eye color:** Charcoal grey
 
 **Hair color:** silver/dark blue
+ 
+## Plot Hooks
  
 **Short term goals:** *(current motivation)* On a day-to-day basis he is under the employ of the Xanathar. He does not consider himself a mercinary, rather more identifies as a commander of sorts, reporting to Xanathar's upper leadership eschelon, if not the Xanathar itself. He enjoys the *comfort and security* of being a *key* part of the organization, something that he has constantly sought out since leaving Llurth Dreier. He is not the kind of leader who *makes the big plan*, rather he would rather develop a plan and carry it out with an action squad. Scheming is not his strong suit.
 
