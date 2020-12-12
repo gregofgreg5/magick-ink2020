@@ -1,4 +1,4 @@
-# Archive of Magic Items
+# An Inventory of Magic Items
 
 ## Group of items
 
