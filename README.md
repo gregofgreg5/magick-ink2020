@@ -12,4 +12,5 @@ Welcome to the future.
 
 ### Who's Who (PC Directory)
 
-### [Magic Item Inventory](https://github.com/gregofgreg5/magick-ink2020/blob/main/magic-item-inventory.md#an-inventory-of-magic-items)
+### Magic Items
+[Magic Item Inventory](https://github.com/gregofgreg5/magick-ink2020/blob/main/magic-item-inventory.md#an-inventory-of-magic-items)
