@@ -38,7 +38,7 @@ A small, unassuming knife with a sinister black blade, with a ruby jeweled pomme
 
 A small, unassuming knife with a sinister black blade, with a diamond jeweled pommel.
 
->When you attack a creature with this knife and roll a 20 on the attack roll, that target takes an extra 6 slashing damage. Then roll another d20. If you roll a 20, you lop off a part of the target body, appropriate to the size of the weapon. While unlikely to sever a limb from a medinum+ target, the knife can sever hands, feet, fingers, etc. and/or cleave large open wounds. The effect of such a loss to be determined by the DM (e.g., target loses 1d2 each round, etc.)
+>**When you attack a creature with this knife and roll a 20 on the attack roll, that target takes an extra 6 slashing damage. Then roll another d20. If you roll a 20, you lop off a part of the target body, appropriate to the size of the weapon**. While unlikely to sever a limb from a medinum+ target, the knife can sever hands, feet, fingers, etc. and/or cleave large open wounds. The effect of such a loss to be determined by the DM (e.g., target loses 1d2 each round, etc.)
 
 ### the hand, Sinister Knife
 
@@ -57,7 +57,7 @@ A small, unassuming knife with a sinister black blade, with a jewelled (emerald)
 
 These are the ugliest boots that were ever created. A mix of leather and other thick hides, a clash of bold colors. Upon inspection they are extremely sturdy and well made.
 
-> Worn, these boots proved +1 to the wearer's AC. Once per day they can be activited and cast Fear (Level 3): Projecting a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration. <br> While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature. <br> The effect lasts one minute. During the duration of the effect, the wearer of the boots can move at twice their normal speed and gain an additional +1 to AC, have an advantage on Dexterity saving throws and gain an additional action on each of their turn. This action can only be used to take the attack (single weapon), Dash, Disengage, Hide, or Use an Object action. When the effect wears off, the wearer feels no ill effect.
+> Worn, these boots provide **+1 to the wearer's AC. Once per day they can be activited and cast [Fear (Level 3)](https://www.dndbeyond.com/spells/fear)**
 
 ## Thaan's Arsenel
 
@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi 
 
 ### Thaan's Morningstar Armblade
 
-Unattuned the weapon appears to be an ordinary, if not well-used morningstar (with two spiked metal balls), there are three cloudy emerald-like gems at base of the grip. An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. *To attune to this item, you must hold it against your forearm for the entire attunement period.*
+*Unattuned* the weapon appears to be an ordinary, if not well-used morningstar (with two spiked metal balls), there are three cloudy emerald-like gems at base of the grip. An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. *To attune to this item, you must hold it against your forearm for the entire attunement period.*
 
 > As a bonus action, you can retract the armblade into your forearm or extend it from there. While it is extended, you can use the weapon as if you were holding it, and you can't use that hand for other purposes.<br>Additionally, once attuned, the morningstar armblade **can hold a wizard or artificer spell** Each spell can be cast once per day, for every two character levels (rounded down, with a minimum of once). Spells are at DC 10 (+Int Mod) or at the DC (spellcasting skill) of the wearer if they are the caster who imbued the spells into the bracer. The armblade can only be embued with wizard or artificer spells, with a maximum of 4th level. Spells are cast at the level of the weare if they also embued the spell, or at the base level if they are not the caster. Currently the bracer contains: [Black Tentacles](https://www.dndbeyond.com/spells/black-tentacles#:~:text=Dungeons%20and%20Dragons%20%28D%26D%29%20Fifth%20Edition%20%285e%29%20Spell,on%20ground%20that%20you%20can%20see%20within%20range.)
 
