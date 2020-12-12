@@ -14,7 +14,7 @@
 
 ### Chnnon's Remarkable Spell Cache (bracer)
 
-The bracer is made of a mysterious, underinable precious metal with similarly remarkable and yet unknown gems.
+The bracer is made of a mysterious, undeniable precious metal with similarly remarkable and yet unknown gems.
 
 **Chnnon's Remarkable Spell Cache can hold up to two spells, of up to 6th level**. Each spell can be cast once per day, for every two character levels (rounded down, with a minimum of once). Spells are at DC 12 (+Int Mod) or at the DC (spellcasting skill) of the wearer if they are the caster who imbued the spells into the bracer. Currently the bracer contains: [https://www.dndbeyond.com/spells/mirror-imageImage] (URL) and [Thunder Wave] (https://www.dndbeyond.com/spells/thunderwave)
 
