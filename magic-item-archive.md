@@ -16,7 +16,7 @@
 
 The bracer is made of a mysterious, underinable precious metal with similarly remarkable and yet unknown gems.
 
-**The bracer can hold up to two spells, of up to 6th level**. Each spell can be cast once per day, for every two character levels (rounded down, with a minimum of once). Spells are at DC 12 (+Int Mod) or at the DC (spellcasting skill) of the wearer if they are the caster who imbued the spells into the bracer. Currently the bracer contains: [https://www.dndbeyond.com/spells/mirror-imageImage] (URL) and [Thunder Wave] (https://www.dndbeyond.com/spells/thunderwave)
+**Chnnon's Remarkable Spell Cache can hold up to two spells, of up to 6th level**. Each spell can be cast once per day, for every two character levels (rounded down, with a minimum of once). Spells are at DC 12 (+Int Mod) or at the DC (spellcasting skill) of the wearer if they are the caster who imbued the spells into the bracer. Currently the bracer contains: [https://www.dndbeyond.com/spells/mirror-imageImage] (URL) and [Thunder Wave] (https://www.dndbeyond.com/spells/thunderwave)
 
 
 
@@ -35,26 +35,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi 
 
 ### osprey, Sinister Knife & Sinister Signet Ring
 
-A small, unassuming knife with a sinister black blade, with a ruby jeweled pommel.
+A small, unassuming knife with a sinister black blade, with a **ruby** jeweled pommel.
 
 >The wearer of the Ruby Sinister ring will gain a **+2 bonus to attack and damage rolls made with this magic weapon, when it is thrown**. It will do no damage if used as a melee weapon. A MOVE action can be made to recall this weapon to the wearer or the Ruby Sinister ring and it will return the same round. The knife must be in an unimpeded line-of-sight to return and cannot return if it is contained or held, it can return if it is in a target, from a throw.
 
 ### the edge, Sinister Knife
 
-A small, unassuming knife with a sinister black blade, with a diamond jeweled pommel.
+A small, unassuming knife with a sinister black blade, with a **diamond** jeweled pommel.
 
 >**When you attack a creature with this knife and roll a 20 on the attack roll, that target takes an extra 6 slashing damage. Then roll another d20. If you roll a 20, you lop off a part of the target body, appropriate to the size of the weapon**. While unlikely to sever a limb from a medinum+ target, the knife can sever hands, feet, fingers, etc. and/or cleave large open wounds. The effect of such a loss to be determined by the DM (e.g., target loses 1d2 each round, etc.)
 
 ### the hand, Sinister Knife
 
-A small, unassuming knife with a sinister black blade, with a pearl jeweled pommel.
+A small, unassuming knife with a sinister black blade, with a **pearl** jeweled pommel.
 
 > You gain a **+2 bonus to attack and damage rolls made with this magic weapon**, when used as a melee weapon, this weapon will do no damage if thrown.
 
 
 ### viper, Sinister Knife
 
-A small, unassuming knife with a sinister black blade, with a jewelled (emerald) pommel
+A small, unassuming knife with a sinister black blade, with an **emerald** jewelled pommel
 
 > You gain a **+1 bonus to attack and damage rolls made with this magic weapon.**<br> You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d4 poison damage and become poisoned for 1 minute. The knife can be used this way once per every three levels of a proficient weilder, and the venom cannot be reactivated again until the next dawn.
 
