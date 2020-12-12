@@ -1,5 +1,17 @@
 # Archive of Magic Items
 
+## Group of items
+
+### Single item
+
+*Discription*
+
+*Brief origin*
+
+> Powers/effects
+
+
+
 ### Chnnon's Remarkable Spell Cache (bracer)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi sapien, a tincidunt urna suscipit non. Vestibulum nec congue ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut viverra quam diam, sed tincidunt augue volutpat ullamcorper. Proin finibus tortor velit. Sed placerat venenatis ligula, a suscipit sapien feugiat sed.
