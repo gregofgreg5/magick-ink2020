@@ -65,7 +65,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi 
 
 ### Thaan's Morningstar Armblade
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi sapien, a tincidunt urna suscipit non. Vestibulum nec congue ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut viverra quam diam, sed tincidunt augue volutpat ullamcorper. Proin finibus tortor velit. Sed placerat venenatis ligula, a suscipit sapien feugiat sed.
+Unattuned the weapon appears to be an ordinary, if not well-used morningstar (with two spiked metal balls), there are three cloudy emerald-like gems at base of the grip. An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. *To attune to this item, you must hold it against your forearm for the entire attunement period.*
+
+> As a bonus action, you can retract the armblade into your forearm or extend it from there. While it is extended, you can use the weapon as if you were holding it, and you can't use that hand for other purposes.<br>Additionally, once attuned, the morningstar armblade **can hold a wizard or artificer spell** Each spell can be cast once per day, for every two character levels (rounded down, with a minimum of once). Spells are at DC 10 (+Int Mod) or at the DC (spellcasting skill) of the wearer if they are the caster who imbued the spells into the bracer. The armblade can only be embued with wizard or artificer spells, with a maximum of 4th level. Spells are cast at the level of the weare if they also embued the spell, or at the base level if they are not the caster. Currently the bracer contains: [Black Tentacles](https://www.dndbeyond.com/spells/black-tentacles#:~:text=Dungeons%20and%20Dragons%20%28D%26D%29%20Fifth%20Edition%20%285e%29%20Spell,on%20ground%20that%20you%20can%20see%20within%20range.)
 
 ### Thaan's Traveling Scroll
 
