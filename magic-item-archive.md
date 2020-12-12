@@ -41,20 +41,20 @@ A small, unassuming knife with a sinister black blade, with a **ruby** jeweled p
 
 ### the edge, Sinister Knife
 
-A small, unassuming knife with a sinister black blade, with a **diamond** jeweled pommel.
+A small, unassuming knife with a sinister black blade and a **diamond** jeweled pommel.
 
 >**When you attack a creature with this knife and roll a 20 on the attack roll, that target takes an extra 6 slashing damage. Then roll another d20. If you roll a 20, you lop off a part of the target body, appropriate to the size of the weapon**. While unlikely to sever a limb from a medinum+ target, the knife can sever hands, feet, fingers, etc. and/or cleave large open wounds. The effect of such a loss to be determined by the DM (e.g., target loses 1d2 each round, etc.)
 
 ### the hand, Sinister Knife
 
-A small, unassuming knife with a sinister black blade, with a **pearl** jeweled pommel.
+A small, unassuming knife with a sinister black blade and a **pearl** jeweled pommel.
 
 > You gain a **+2 bonus to attack and damage rolls made with this magic weapon**, when used as a melee weapon, this weapon will do no damage if thrown.
 
 
 ### viper, Sinister Knife
 
-A small, unassuming knife with a sinister black blade, with an **emerald** jewelled pommel
+A small, unassuming knife with a sinister black blade and an **emerald** jewelled pommel
 
 > You gain a **+1 bonus to attack and damage rolls made with this magic weapon.**<br> You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d4 poison damage and become poisoned for 1 minute. The knife can be used this way once per every three levels of a proficient weilder, and the venom cannot be reactivated again until the next dawn.
 
