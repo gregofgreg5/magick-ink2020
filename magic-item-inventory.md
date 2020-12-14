@@ -23,7 +23,8 @@ The bracer is made of a mysterious, undeniable precious metal with similarly rem
 
 ### The Hysterical Mask of Tamon Ra
 
-Hysterical Mask of Tamon Ra was created during a period of fierce battle between the Lords of Faerun and an unusual alliance of three Dukes of Hells: ***Bitru*** (Dis), ***Balan*** (Phlegethos) and ***Abigor*** (Maldomini) [Nine Hells](https://forgottenrealms.fandom.com/wiki/Nine_Hells). Tamon Ra was a gnome sorcerer who created the mask to allow his master, who was in league with Balan, to commuicate with the devils.
+Hysterical Mask of Tamon Ra was created during a period of fierce battle between the Lords of Faerun and an unusual alliance of three Dukes of Hells: ***Bitru*** (Dis), ***Balan*** (Phlegethos) and ***Abigor*** (Maldomini) [Nine Hells](https://forgottenrealms.fandom.com/wiki/Nine_Hells). Tamon Ra was a gnome sorcerer who created the mask to allow his master, who was in league with Balan, to commuicate with the devils. During a parlay gone wrong, the mask became imbued with unparalleled summoning powers. It requires a wearer of supreme dedication and focus and has been known to render its wearer insane.
+
 
 ### Iron Coin of Protection
 
