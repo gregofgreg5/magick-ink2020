@@ -1,36 +1,44 @@
-**Public name:** *(Displayed name)*
+# Character name
 
-**Public aliases:**
+**Pronunciation:** [IPA][ipa] _pronunciation_
 
-**Real name:**
+**Public name:** _name_
 
+**Public aliases:** _list of aliases_
+
+**Real name:** _real name_
+
+## Basics
 
 **Race:**
 
 **Class:**
 
+**Alignment:**
+
+## Affiliations
+
 **Occupation:**
 
-**Legal status:** *(citizenship, warrants, etc.)*
+**Legal status:**
 
-**Personal wealth:** *(how do you got it, how you spend it)*
+**Personal wealth:**
 
 **Base of operations:**
 
 **Group affiliations:**
 
- 
 **Place of birth:**
 
 **Family:**
 
-**Other relationships:** *(romances, enmities, negotiations, business relationships, seductions, etc.)*
+**Other relationships:**
 
-**Alignment:**
+**Religion/Deity(s):**
 
-**Religion/Deity(s):** *(also level of commitment/devotion)*
- 
-**Physical description:** *(what do people see when they see you)*
+## Physical attributes
+
+**Physical description:**
 
 **Height:**
 
@@ -39,13 +47,17 @@
 **Eye color:**
 
 **Hair color:**
- 
-**Short term goals:** *(current motivation)*
 
-**Long term goals:** *(what do you want to be when you grow up?)*
+## Plot Hooks
 
-**Plots You Would Like to See Your Character Experience:** *(where do we go from here?)*
- 
-**Tell your story:** *(history)*
+**Short term goals:** _(current motivation)_
+
+**Long term goals:** _(what do you want to be when you grow up?)_
+
+**Plots You Would Like to See Your Character Experience:** _(where do we go from here?)_
+
+**Tell your story:** _(history)_
 
 **Preferred weapon:**
+
+[ipa]: https://en.wikipedia.org/wiki/Help:IPA/English
