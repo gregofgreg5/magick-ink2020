@@ -38,6 +38,4 @@ There is one other exit from the foyer, a door opposite of the main entry. Ashan
 
 Manny and Gunmetal Grey investigated the bookcases and rest of the foyer throughly for other exits or hidden secrets, but find nothing. All that is left is to go through the door. A careful investigation revealed that it was free of traps, mimics and wasn't locked.
 
-! [image](https://drive.google.com/file/d/1amaZNWgUCCmROMLgLkwv1-kywkutyo8b/view?usp=sharing)
 What was once a Great Hall has been caught up in flames, particularly in the back of the room. A torrential flame engulfed the entire back portion of the room, but the team noticed that, on the other side of the room, some 80 feet, the temperature felt just above *normal*. More investigation was required. Gunmetal send his robo-doggo, who likely sees itself something like this:
-! [image](https://66.media.tumblr.com/b04ba8bb6743c2f97cc9d46ffd026d78/2bf6280a888aee87-79/s640x960/e094e1e385aaaf057244d8691b595aafbfc037f8.jpg)
