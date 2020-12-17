@@ -38,4 +38,10 @@ There is one other exit from the foyer, a door opposite of the main entry. Ashan
 
 Manny and Gunmetal Grey investigated the bookcases and rest of the foyer throughly for other exits or hidden secrets, but find nothing. All that is left is to go through the door. A careful investigation revealed that it was free of traps, mimics and wasn't locked.
 
-What was once a Great Hall has been caught up in flames, particularly in the back of the room. A torrential flame engulfed the entire back portion of the room, but the team noticed that, on the other side of the room, some 80 feet, the temperature felt just above *normal*. More investigation was required. Gunmetal send his robo-doggo, who likely sees itself something like this:
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Entry%2BMain2.jpg)
+
+What was once a Great Hall has been caught up in flames, particularly in the back of the room. A torrential flame engulfed the entire back portion of the room, but the team noticed that, on the other side of the room, some 80 feet, the temperature felt just above *normal*. More investigation was required. Gunmetal send his robo-doggo, who likely sees itself something like this: ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/RoboDog.jpg)
+
+The Steel Defender (aka *Robbo-doggo*) helped to determine that the closer that one got to the fire, the hotter it was, more than normmally so. In other words, it was okay on the other side of the room, but right next to the fire, it was **really hot**. The team also noticed a set of footprints that bisected the room. They seeming started somewhere near one of the doors on the left (the one above the fireplace, if anyone was keeping score) and lead directly to the door on the wall on the right side. The footprints were hard to miss, as they appeared to be steaming. Two options were considered, that they were so hot that they were still burning or that they were somehow wet, producing steam. Further investigation revealed that it was indeed steam and the footprints were frozen.
+
+The door on the right was frozen shut, with a layer of ice, at least two inches thick holding it shut. Goredon did what he does and crashed into it, substantially cracking the ice. Talib used his righteous flame to assist and the two of them took down the ice barrier without much pause.
