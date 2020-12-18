@@ -42,7 +42,7 @@
  
 **Short term goals:** *(current motivation)* Pretty much whatever his patron (lower case, not otherworldly) has for him to do. And annoy the uptight. Usually Barakka and Luzerios.
 
-**Long term goals:** *(what do you want to be when you grow up?)* Grunddle really doesn't have goals so much as an aspiration to be better and increasw his spellcasting abilities to enhance his entertainment value. He lives in the moment and goes where life takes him. If life happens to take him in the direction of a new class, he's open to that, too.
+**Long term goals:** *(what do you want to be when you grow up?)* Grunddle really doesn't have goals so much as an aspiration to be better and increase his spellcasting abilities, thus enhancing his entertainment value. He lives in the moment and goes where life takes him. If life happens to take him in the direction of a new class, he's open to that, too.
  
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)*
  
