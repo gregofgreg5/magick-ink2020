@@ -1,3 +1,5 @@
+!(https://github.com/losttrain68/character-ideas/blob/main/images/Grunddle_portrait.jpg)
+
 **Public name:** *(Displayed name)* Grunddle
 
 **Public aliases:** Grunddle the Magnificent, The Amazing Grunddle, That Gnome
