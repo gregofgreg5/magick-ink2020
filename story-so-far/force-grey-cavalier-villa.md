@@ -50,7 +50,7 @@ The Steel Defender (aka *Robbo-doggo*) helped to determine that the closer that 
 
 The door on the right was indeed frozen shut, with a layer of ice at least two inches thick. Goredon did what he does and crashed into it, substantially cracking the ice. Talib used his righteous flame to assist and the two of them took down the ice barrier without much pause. On the other side of the door they were surprised to see a heavy snow fall and a furnished recreation room covered in ice and snow. The room included a grand piano, a very comfortable sitting area and even a nook where a checkers/chess board had been set up. Also in the room were three frozen skeletons and three strange looking kobolds. These weren't your every day healthy looking greyish, brownish, redish kobold. They were a strange slate blue/grey color, everything about them screamed "cold". 
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ice%20Entry.jpg)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ice%20Library.jpg)
 
 Two of the ice kobolds (*that's what they were*) were playing checkers. The one on the right was "winning" and also cheating, a lot. The third was sitting in the sitting area reading an atlas of Faerun. One of the ice skeletons (*look I just call'em like I see'em*) was banging on the piano. The other two were pulling things out of the cabinets around the room.
 
@@ -68,4 +68,4 @@ With the inferno apparently *hellbent* on cutting off their other exit, the part
 
 Find out on **December 30**
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ice%20Portal.jpg)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ice%20Library.jpg)
