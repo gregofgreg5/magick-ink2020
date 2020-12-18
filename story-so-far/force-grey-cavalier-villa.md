@@ -50,6 +50,8 @@ The Steel Defender (aka *Robbo-doggo*) helped to determine that the closer that 
 
 The door on the right was indeed frozen shut, with a layer of ice at least two inches thick. Goredon did what he does and crashed into it, substantially cracking the ice. Talib used his righteous flame to assist and the two of them took down the ice barrier without much pause. On the other side of the door they were surprised to see a heavy snow fall and a furnished recreation room covered in ice and snow. A grand piano, a very comfortable sitting area and even a nook where a checkers/chess board had been set up. Also in the room were three frozen skeletons and three strange looking kobolds. These weren't your every day healthy looking greyish, brownish, redish kobold. They were a strange slate blue/grey color, everything about them screamed "cold". 
 
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ice%20Entry.jpg)
+
 Two of the ice kobolds (*that's what they were*) were playing checkers. The one on the right was "winning" and also cheating, a lot. The third was sitting in the sitting area reading an atlas of Faerun. One of the ice skeletons (*look I just call'em like I see'em*) was banging on the piano. The other two were pulling things out of the cabinets around the room.
 
 Goredon was able to wander over to the pianist without causing a fuss. Everything seemed copacetic until Talib went over to inspect the checkers players. As soon as they saw his infernal looking form, the two ice kobolds (*yes, we're sticking with that*) leapt up and started screaming obsenities at him. And just like that, it was on. Seriously, though there aren't pages and pages in the rule books of *debate tables* and *synonyms* there's combat tables and weapons. A fierce battle was kinda the expected outcome here.
@@ -61,3 +63,9 @@ For their part, neither Ashani nor Eskander wanted anything to do with going int
 After the ice skeletons and ice kobolds were dispatched and throughly searched, the investigators found nothing of interest on any of them. Clearly they had been set out to perform some task, dressed for action, but unarmored. Fully loaded to bear with both weapons (mundane) and spells. Goredon collected the contraband to make sur that they didn't *fall into the wrong hands* and maybe add them to his collection or sell them as the case may be. After searching the room, they decided to check on the great room, only to find that the flames had indeed spread even further and seemed even hotter. They threw the bodies of the ice skeletons into the fires to see if their cold nature would slow down the flames to no avail.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Entry%2BMain%20v2a.jpg)
+
+With the inferno apparently *hellbent* on cutting off their other exit, the party carefully checked the doors to the south. They were neither magic, trapped nor alive. They did however lead to another frozen room, with even more snow fall and two ominous portals. Surely there couldn't be any other dangers lurking inside, could there?
+
+Find out on **December 30**
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Ice%20Portal.jpg)
