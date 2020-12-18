@@ -18,13 +18,13 @@
 
 **Base of operations:** Trollskull Manor, Waterdeep
 
-**Group affiliations:**
+**Group affiliations:** The Watch of Waterdeep. Caster's Guild. 
  
 **Place of birth:**
 
 **Family:**
 
-**Other relationships:** *(romances, enmities, negotiations, business relationships, seductions, etc.)*
+**Other relationships:** *(romances, enmities, negotiations, business relationships, seductions, etc.)* Grunddle is too much gnome for one female. Many have tried to keep him for themselves only to be disappointed when the sun rises. That's his story and don't let Ellyjoybell Leffery tell you different.
 
 **Alignment:** Chaotic Good
 
@@ -36,20 +36,16 @@
 
 **Weight:**
 
-**Eye color:**
+**Eye color:** Lavender
 
-Lavender
-
-**Hair color:**
-
-White
+**Hair color:** White-ish
  
-**Short term goals:** *(current motivation)*
+**Short term goals:** *(current motivation)* Pretty much whatever his patron (lower case, not otherworldly) has for him to do. And annoy the uptight. Usually Barakka and Luzerios.
 
-**Long term goals:** *(what do you want to be when you grow up?)*
+**Long term goals:** *(what do you want to be when you grow up?)* Grunddle really doesn't have goals so much as an aspiration to be better and increasw his spellcasting abilities to enhance his entertainment value. He lives in the moment and goes where life takes him. If life happens to take him in the direction of a new class, he's open to that, too.
  
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)*
  
 **Tell your story:** *(history)* Grunddle doesn't talk much about his life before joining the crew of adventurers he currently adventures with on adventures. When intoxicated with his comrades, he has been known to say that good luck for him often means no luck or back luck for someone else. Current consensus by the rest of the team is that he somehow profited off of another's misfortune and was urged not to come back to the village one day. 
 
-**Preferred weapon:** Spells
+**Preferred weapon:** Spells. PEW-PEW!
