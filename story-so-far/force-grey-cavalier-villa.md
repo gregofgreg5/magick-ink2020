@@ -38,7 +38,7 @@ There is one other exit from the foyer, a door opposite of the main entry. Ashan
 
 December 17, 2020
 
-Manny and Gunmetal Grey investigated the bookcases and rest of the foyer throughly for other exits or hidden secrets, but find nothing. All that is left is to go through the door. A careful investigation revealed that it was free of traps, mimics and wasn't locked.
+Manny and Gunmetal Grey investigated the bookcases and rest of the foyer throughly for other exits or hidden secrets, but they found nothing. All that was left to do was to go through the door. A careful investigation revealed that it was free of traps, mimics and wasn't locked.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Entry%2BMain%20v1a.jpg)
 
