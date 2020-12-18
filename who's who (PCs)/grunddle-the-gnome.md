@@ -46,6 +46,6 @@
  
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)*
  
-**Tell your story:** *(history)* Grunddle doesn't talk much about his life before joining the crew of adventurers he currently adventures with on adventures. When intoxicated with his comrades, he has been known to say that good luck for him often means no luck or back luck for someone else. Current consensus by the rest of the team is that he somehow profited off of another's misfortune and was urged not to come back to the village one day. 
+**Tell your story:** *(history)* Grunddle doesn't talk much about his life before joining the crew of adventurers he currently adventures with on adventures. When intoxicated with his comrades, he has been known to opine that good luck for him sometimes means no luck or bad luck for someone else. Current consensus by the rest of the team is that he somehow profited off of another's misfortune and was urged not to come back to the village one day. 
 
 **Preferred weapon:** Spells. PEW-PEW!
