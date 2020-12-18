@@ -2,7 +2,7 @@
 
 **Public aliases:** Grunddle the Magnificent, The Amazing Grunddle, That Gnome
 
-**Real name:** Grunddle
+**Real name:** Grunddle Bafflestone
 
 **Race:** Gnome
 
