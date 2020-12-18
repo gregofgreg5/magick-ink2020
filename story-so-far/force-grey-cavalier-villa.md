@@ -40,7 +40,7 @@ December 17, 2020
 
 Manny and Gunmetal Grey investigated the bookcases and rest of the foyer throughly for other exits or hidden secrets, but find nothing. All that is left is to go through the door. A careful investigation revealed that it was free of traps, mimics and wasn't locked.
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Entry%2BMain%20v1.jpg)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/pics/Entry%2BMain%20v1a.jpg)
 
 What was once a Great Hall has been caught up in flames. A torrential fire has engulfed the entire back portion of the room. However the team noticed that, on their  side of the room, only about 80 feet away, the temperature felt just above *normal*. More investigation was required. Gunmetal cast *detect magic* and the fire was indeed magic, as were Ahani and Eskander. To investigate further, he sent his robo-doggo to determine, who likely sees itself something like this: 
 
