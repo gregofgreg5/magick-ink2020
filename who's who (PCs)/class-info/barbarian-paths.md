@@ -1,0 +1,85 @@
+# Barbarian Paths
+
+## Primal Path
+At 3rd level, you choose a path that shapes the nature of your rage. The Path of the Berserker is detailed at the end of the class description, and additional primal paths are available in other sources. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+
+### Path of the Ancesteral Guardian
+
+Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.
+
+Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals. *Source: Xanathar's Guide to Everything*
+
+>**Path Features***<br><br>Ancestral Protectors<br><br>Spirit Shield<br><br>Consult Spirits<br><br>Vengeful Ancestors
+
+[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:ancestral-guardian)
+
+## Path of the Battleranger
+***Not currently available***
+
+
+### Path of the Beast
+
+Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.
+
+Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table. *Source: Tasha's Cauldron of Everything*
+
+>**Origin of the Beast Table**<br>1. One of your parents is a lycanthrope, and you've inherited some of their curse.<br>2. You are descended from an archdruid and inherited the ability to partially change shape.<br> 3. A fey spirit gifted you with the ability to adopt different bestial aspects.<br> 4. An ancient animal spirit dwells within you, allowing you to walk this path.
+
+Remember **YOU** can create your own Beast Origin also
+
+>**Path Features**<br>Form of the Beast (Choose a weapon form **each time** you rage<br><br>Bestial Soul<br><br>Infectious Fury<br><br>Call the Hunt
+
+[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:beast)
+
+
+### Path of the Beserker
+
+For some barbarians, rage is a means to an end – that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being. *Source: Player's Handbook*
+
+>**Path Features**<br>Frenzy<br><br>Mindless Rage<br><br>Intimidating Presence<br><br>Retaliation
+
+[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:berserker)
+
+
+### Path of the Storm Herald
+Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.
+
+Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts. *Source: Xanathar's Guide to Everything*
+
+>**Path Features**<br><br>Storm Aura<br><br>Storm Soul<br><br>Shielding Storm<br><br>Raging Storm
+
+[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:storm-herald)
+
+### Path of the Totem Warrior
+The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
+
+Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist. *Source: Player's Handbook*
+
+>**Path Features**Spirit Seeker<br><br>Totem Spirit<br><br>Aspect of the Beast<br><br>Spirit Walker<br><br>Totemic Attunement
+
+[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:totem-warrior)
+
+### Path of Wild Magic
+Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors. *Source: Tasha's Cauldron of Everything*
+
+>**Path Features*** Magic Awareness<br><br>Wild Surge<br><br>Bolstering Magic<br><br>Unstable Backlash<br><br>Controlled Surge
+
+
+[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:wild-magic)
+
+
+### Path of the Zealot
+
+Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots – warriors who channel their rage into powerful displays of divine power.
+
+A variety of gods across the worlds of D&D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good. *Source: Xanathar's Guide to Everything*
+
+>**Path Features*** Divine Fury<br><br>Warrior of the Gods<br><br>Fanatical Focus<br><br>Zealous Presence<br><br>Rage Beyond Death
+
+
+[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:zealot)
+
+
+
+
+>[The Barbarian Class, *dnd5e.wikidot*](http://dnd5e.wikidot.com/barbarian:berserker)
