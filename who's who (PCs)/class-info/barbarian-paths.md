@@ -60,10 +60,7 @@ Most barbarian tribes consider a totem animal to be kin to a particular clan. In
 ### Path of Wild Magic
 Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors. *Source: Tasha's Cauldron of Everything*
 
->**Path Features*** Magic Awareness<br><br>Wild Surge<br><br>Bolstering Magic<br><br>Unstable Backlash<br><br>Controlled Surge
-
-
-[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:wild-magic)
+>**Path Features**<br>**Magic Awareness**<br>When you choose this path at 3rd level, as an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn’t behind total cover. When you sense a spell, you learn which school of magic it belongs to.<br>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.<br><br>**Wild Surge**<br>Also at 3rd level, the magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.<br>If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.<br><br><br>[Reference: dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:wild-magic)
 
 
 ### Path of the Zealot
@@ -72,12 +69,4 @@ Some deities inspire their followers to pitch themselves into a ferocious battle
 
 A variety of gods across the worlds of D&D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good. *Source: Xanathar's Guide to Everything*
 
->**Path Features*** Divine Fury<br><br>Warrior of the Gods<br><br>Fanatical Focus<br><br>Zealous Presence<br><br>Rage Beyond Death
-
-
-[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:zealot)
-
-
-
-
->[The Barbarian Class, *dnd5e.wikidot*](http://dnd5e.wikidot.com/#toc7)
+>**Path Features**<br><br>**Divine Fury**<br>Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to 1d6 + half your Barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.<br><br>**Warrior of the Gods**<br>At 3rd level, your soul is marked for endless battle. If a spell, such as Raise Dead, has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you.<br><br>**Fanatical Focus**<br>Starting at 6th level, the divine power that fuels your rage can protect you. If you fail a saving throw while raging, you can reroll it, and you must use the new roll. You can use this ability only once per rage.<br><br>**Zealous Presence**<br>At 10th level, you learn to channel divine power to inspire zealotry in others. As a bonus action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain advantage on attack rolls and saving throws until the start of your next turn.<br>Once you use this feature, you can’t use it again until you finish a long rest.<br><br>**Rage Beyond Death**<br>Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.<br>While you're raging, having 0 hit points doesn’t knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don’t die until your rage ends, and you die then only if you still have 0 hit points.<br><br><br>[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:zealot)
