@@ -9,12 +9,17 @@ Some barbarians hail from cultures that revere their ancestors. These tribes tea
 
 Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals. *Source: Xanathar's Guide to Everything*
 
->**Path Features***<br><br>Ancestral Protectors<br><br>Spirit Shield<br><br>Consult Spirits<br><br>Vengeful Ancestors
-
-[Link to details at dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:ancestral-guardian)
+>**Path Features***<br>**Ancestral Protectors**<br>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you’re raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage of the target’s attacks.<br><br>**Spirit Shield**<br>Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and a creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6. When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level.<br><br>**Consult Spirits**<br>At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the Augury or Clairvoyance spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of Clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells. After you cast either spell in this way, you can’t use this feature again until you finish a short or long rest.<br><br>**Vengeful Ancestors**At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage that your Spirit Shield prevents.<br><br><br>[Reference: dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:ancestral-guardian)
 
 ## Path of the Battleranger
-***Not currently available***
+Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle. *Source: Sword Coast Adventurer's Guide*
+
+**Restriction: *Typically* Dwarves Only**
+Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.
+
+If you are not a dwarf, but can explain why this path applies to your barbarian, you can use it.
+
+>**Battlerager Armor**<br>When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon.<br>While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls.<br>Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.<br><br>**Reckless Abandon**<br>Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.<br><br>**Battlerager Charge**<br><br>Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.<br><br>**Spiked Retribution**<br>Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.<br><br><br>[Reference: dnd5e.wikidot](http://dnd5e.wikidot.com/barbarian:battlerager)
 
 
 ### Path of the Beast
@@ -82,4 +87,4 @@ A variety of gods across the worlds of D&D inspire their followers to embrace th
 
 
 
->[The Barbarian Class, *dnd5e.wikidot*](http://dnd5e.wikidot.com/barbarian:berserker)
+>[The Barbarian Class, *dnd5e.wikidot*](http://dnd5e.wikidot.com/#toc7)
