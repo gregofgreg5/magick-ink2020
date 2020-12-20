@@ -1,13 +1,19 @@
 # Magick Ink. 2020
+
 Welcome to the future.
 
-
-
 ## Table of Contents
-#### [Waterdeep Almanac](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#waterdeep-almanac)
 
-#### [Waterdeep NPCs](https://github.com/gregofgreg5/magick-ink2020/blob/main/npc-directory/waterdeep-npc.md#waterdeep-npc-directory)
+### Dramatis Personæ
 
-### Who's Who (PC Directory)
+* [Player Characters][player-characters]
+* [Waterdeep Non-player Characters][waterdeep-npcs]
 
-#### [Magic Item Inventory](https://github.com/gregofgreg5/magick-ink2020/blob/main/magic-item-inventory.md#an-inventory-of-magic-items)
+[player-characters]: player-characters/
+[waterdeep-npcs]: non-player-characters/waterdeep.md
+
+### Worlds' Almanac
+
+* [Waterdeep][waterdeep-almanac]
+
+[waterdeep-almanac]: worlds-almanac/waterdeep.md
