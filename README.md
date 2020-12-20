@@ -17,3 +17,7 @@ Welcome to the future.
 * [Waterdeep][waterdeep-almanac]
 
 [waterdeep-almanac]: worlds-almanac/waterdeep.md
+
+### Miscellaneous
+
+* [Magic Item Inventory](./magic-item-inventory.md)
