@@ -1,10 +1,10 @@
-# The Oathbreakers
+# Valentines Hunters Guild
 
-Though the numbers in the group at any given time are variable, The Dragonborn has assembled a group of bounty hunters to aid in his work and his personal quest. Below are the people who comprise the core of the team.
+Though the numbers in the group at any given time are variable, Viceroy Garn Valentine has assembled a group of bounty hunters to aid in his work and his personal quest. Below are the people who comprise the core of the team. While they typically do not openly recruit members, they have been known to hire local talent to aid in their missions. They frequently work with local guilds, but their business tends to avoid any local official offices.
 
-## The Dragonborn
+## Viceroy Garn Valentine
 
-There are too many folk heroes.
+Dragonborn. There are too many folk heroes.
 
 ## The Changeling
 
