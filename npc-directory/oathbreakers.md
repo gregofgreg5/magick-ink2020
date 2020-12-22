@@ -4,6 +4,8 @@ Though the numbers in the group at any given time are variable, The Dragonborn h
 
 ## The Dragonborn
 
+There are too many folk heroes.
+
 ## The Changeling
 
 The Patron had taken her young daughter to see a troupe of travelling performers when she noticed one member seemed particularly adept at quick changes of costumes and characters. On careful inspection, it became clear that the actor was, in fact, a Changeling - far from their native lands and tribe. The Patron had heard of the mysterious race and hoped one day be able to have one in her employ. What great luck to find one so young that could be molded into exactly what she would need! She made a generous donation to the troupe and whisked The Changeling away to her manor to begin training in spycraft. The Patron's daughter grew fond of the versatile and entertaining creature and, over the years, they became close friends and confidants. When The Patron died (under mysterious circumstances, of course) and the daughter assumed her position, The Changeling was instrumental in rooting out disloyalty and helping to consolidate power in the hands of the new Patron.
@@ -28,4 +30,8 @@ Ejected from the temple after killing a few priests, he roamed the forests and w
 
 ## The Runecaster
 
+The half Drow, half Duergar with runes on their weapons and runic tattoos on their body.
+
 ## The Patron / The Bounty Hunters' Guild
+
+Yes, it's run by a woman. Don't be sexist.
