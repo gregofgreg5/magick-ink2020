@@ -6,7 +6,11 @@ Though the numbers in the group at any given time are variable, The Dragonborn h
 
 ## The Changeling
 
-They work for The Oathbreakers' patron, not The Dragonborn. If the patron commanded, The Changeling would betray The Dragonborn without hesitation. But for now, everyone's goals are aligned and their uneasy alliance holds.
+The Patron had taken her young daughter to see a troupe of travelling performers when she noticed one member seemed particularly adept at quick changes of costumes and characters. On careful inspection, it became clear that the actor was, in fact, a Changeling - far from their native lands and tribe. The Patron had heard of the mysterious race and hoped one day be able to have one in her employ. What great luck to find one so young that could be molded into exactly what she would need! She made a generous donation to the troupe and whisked The Changeling away to her manor to begin training in spycraft. The Patron's daughter grew fond of the versatile and entertaining creature and, over the years, they became close friends and confidants. When The Patron died (under mysterious circumstances, of course) and the daughter assumed her position, The Changeling was instrumental in rooting out disloyalty and helping to consolidate power in the hands of the new Patron.
+
+The Changeling has two main masks that other members of the group have seen and know of: The Confidant and The Adventurer. The Confidant is how they appear with The Patron, usually garbed all in fine gray clothing, with no visible weapons and showing their true face. When members interact with this mask, they should know they are having an official conversation that The Patron will or already knows about. The Adventurer is how they appear when The Oathbreakers assemble as a group and The Changeling is acting as bounty hunter and spy. This mask is armed and armored and appears to be an elf of indeterminate origin. This is the mask for work. Because of The Changeling's skill at deception, members of the group may have encountered other masks and not known they were being spied on or the subjects of inquisition. The temporary identities that The Changeling assumes during the course of a hunt or infiltration are rarely used more than once and not considered masks. 
+
+The Changeling maintains a permanent teleportation circle of inlayed copper on the floor of their quarters at The Patron's manor. They usually draw and hide a temporary matching circle during extended infiltrations for easy extraction. The Changeling works for The Oathbreakers' patron, not The Dragonborn. If The Patron commanded, they would betray The Dragonborn without hesitation. But for now, everyone's goals are aligned and their uneasy alliance holds.
 
 ## The Sorceress
 
@@ -23,3 +27,5 @@ One of the ways the Slaad of the Lower Planes reproduce is by infecting others w
 Ejected from the temple after killing a few priests, he roamed the forests and wild lands on the fringes of civilization learning to hunt people that the whispers in his head told him must be killed. He discovered an affinity for swarms of insects (that were also a large part of his diet) and a cloud of magical Murder Hornets became his to command, constantly buzzing around him, his spells manifesting them as part of their effect. It was there that he was found by The Dragonborn, who also believes that there are some people who simply need to die. Since then The Hunter has followed The Dragonborn in all his pursuits, believing the knight is an unknowing agent of the death god and delighting in the hunts, torture, and death they engage in together.
 
 ## The Runecaster
+
+## The Patron / The Bounty Hunters' Guild
