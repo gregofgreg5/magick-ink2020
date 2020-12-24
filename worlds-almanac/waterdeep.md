@@ -1,31 +1,31 @@
 # Waterdeep Almanac
 
-[A](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#a)
-[B](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#b)
-[C](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#c)
-[D](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#d)
-[E](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#e)
-[F](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#f)
-[G](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#g)
-[H](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#h)
-[I](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#i)
-[J](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#j)
-[K](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#k)
-[L](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#l)
-[M](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#m)
-[N](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#n)
-[O](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#o)
-[P](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#p)
-[Q](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#q)
-[R](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#r)
-[S](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#s)
-[T](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#t)
-[U](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#u)
-[V](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#v)
-[W](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#w)
-[X](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#x)
-[Y](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#y)
-[Z](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#z)
+[A](#a)
+[B](#b)
+[C](#c)
+[D](#d)
+[E](#e)
+[F](#f)
+[G](#g)
+[H](#h)
+[I](#i)
+[J](#j)
+[K](#k)
+[L](#l)
+[M](#m)
+[N](#n)
+[O](#o)
+[P](#p)
+[Q](#q)
+[R](#r)
+[S](#s)
+[T](#t)
+[U](#u)
+[V](#v)
+[W](#w)
+[X](#x)
+[Y](#y)
+[Z](#z)
 
 
 # A
@@ -82,16 +82,16 @@ The Griffon Cavalry later established a base of operations on the landward side 
 >[Ref: Forgotten Realms Fandom](https://forgottenrealms.fandom.com/wiki/Griffon_Cavalry)
 
 ## Guilds
-[Bregan D'aerthe](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#bregan-daerthe-guild)
+[Bregan D'aerthe](#bregan-daerthe-guild)
 
-[The Xanathar and it's  Thieves Guild](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#the-xanathar-and-its--thieves-guild)
+[The Xanathar and it's  Thieves Guild](#the-xanathar-and-its--thieves-guild)
 
-[The Zhentarim](https://github.com/gregofgreg5/magick-ink2020/blob/main/worlds_almanac/waterdeep.md#the-zhentarim-the-black-network)
+[The Zhentarim](#the-zhentarim-the-black-network)
 
 # H
 
 ## Harpers (Guild)
-Any smart, non-evil character can join the Harpers of Waterdeep. Bards and wizards are especially welcome. Harpers are altruists who work behind the scenes to keep power out of the hands of evil tyrants. 
+Any smart, non-evil character can join the Harpers of Waterdeep. Bards and wizards are especially welcome. Harpers are altruists who work behind the scenes to keep power out of the hands of evil tyrants.
 
 In the current situation, it doesn't take long for them to suspect that the Zhentarim is wholly or partially responsible for the escalation of violence in Waterdeep. Harper spies might use the adventurers as instruments to get at the truth. Various nobles and guild masters in the city are Harper sympathizers.The Harpers have several secret gathering places in Waterdeep, among them ***Ulbrinter Villa***, an estate located on Delzorin Street between Vhezoar Street and Brondar's Way, in the North Ward Oust south of Trollskull Alley). The elf lady of the house, **Remallia Haventree** ("Remi" to her friends), the widow of Lord Arthagast Ulbrinter, is a high-ranking member of the faction. Other key members include** Renaer Neverember**, the estranged son of Lord Dagult Neverember, and **Mirt**, an advisor to Open Lord Laeral Silverhand.
 >Waterdeep: Dragon Heist Module
@@ -160,12 +160,12 @@ Viverra justo nec ultrices dui sapien. Ut venenatis tellus in metus vulputate eu
 # W
 # X
 
-## The Xanathar and it's  Thieves Guild 
+## The Xanathar and it's  Thieves Guild
 The Xanathar and it's  Thieves Guild have had a strange-hold on villiany along the Sword Coast, seemingly for centuries. Actual centuries. Renown for their domance in the slave trade, The Xanathar had their stalkes in criminal and some legitimate enterprises along the coast. It has long been suspected that The Xanathar make their home somewhere in or very near Waterdeep.
 
 Anyone can join the Xanathar Guild, which, despite its name, doesn't have official guild status in Waterdeep. Before membership is granted, however, an applicant must pass a test that always involves the perpetration of a serious crime. Possibilities include murdering a guild member who has failed Xanathar in some fashion, kidnapping a Waterdavian citizen, collecting a ransom, robbing a hire-coach, or looting a warehouse.
 
-Among low-ranking guild members, rampant speculation goes on about the true nature of Xanathar. 
+Among low-ranking guild members, rampant speculation goes on about the true nature of Xanathar.
 
 Given that the faction is fundamentally evil, advancement is based on one's wiles or one's ability to dispose of rivals. Competition within the organization is fierce and often deadly. Evil characters can thrive in this environment, but the risks are seldom worth the reward.
 
