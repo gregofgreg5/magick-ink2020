@@ -1,4 +1,4 @@
-![Grunddle](https://github.com/losttrain68/character-ideas/blob/main/images/Grunddle_portrait.jpg)
+![Ursula](https://github.com/losttrain68/character-ideas/blob/main/images/Ursula-full.png)
 
 **Public name:** *(Displayed name)* Ursula
 
