@@ -1,4 +1,4 @@
-# Campaign Notes (December 23, 2020
+# Campaign Notes (December 23, 2020)
 
 ## The End of a Really Bad Week
 **23 Nightal 1492**
