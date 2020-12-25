@@ -18,7 +18,7 @@ She actually pauses for effect. *It works*, "There are some," she very purposefu
 
 "It has therefore been ordered that you be given **a Writ of Parole** which will give you the right to carry arms in the City of Waterdeep, for the expressed purposes of self-defense and to defend other Waterdavians in imminent danger. This writ does not bestow any martial or municipal powers and you are still subject to the laws of our land, with the caveat of the aforementioned **duties**. It has been requested that it be specified that you, as are all who are within our City limits, are forbidden from accosting, harassing or assualting *anyone*. But it is not this Office's intention to render you helpless, when it is clear that you have demonstrated yourselves a great *help* to us already."
 
-And with that Guryon produces *four* official writs and hands out one to each of you. The gathered officer offer you *congratulations, of sorts*, and you are turned out into the street without any further ado.
+And with that Guryon produces **four** official writs and hands out one to each of you. The gathered officer offer you *congratulations, of sorts*, and you are turned out into the street without any further ado.
 
 
 
