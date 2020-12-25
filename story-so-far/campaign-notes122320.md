@@ -1,6 +1,6 @@
 # Campaign Notes (December 23, 2020
 
-##The Really Bad Week
+## The End of a Really Bad Week
 23 Nightal 1492 
 
 It had already been a complicated week that started with a Xantharian firebombing and included half of the adventurers being sent on a mission to the Mere of Dead Men. The journey to the mere alone promised to be at at least twenty days. As if that weren't enough, the party gathered this morning to find that one of their own, the Mon-K'ee, had left. Leaving behind osprey, the Sinister knife and the Sinister ring for Borl. While discussing Mon-K'ee's departure, Borl discovered another package. This one wrapped and hidden underneath a bench, which he quickly passed off to Barakka to inspect.
