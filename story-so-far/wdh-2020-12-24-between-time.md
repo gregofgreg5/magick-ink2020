@@ -1,5 +1,6 @@
 # What happens in between
 
+## Marshoon, WHO...?
 **Jarik**
 
 Jarik can't shake *this whole Manshoon thing*, aside from being the creepiest thing that he'd ever seen, he can't let go of the connection. He embarks on a litle leg-work, checking at a the Waterdeep library and a couple of local temple's collection of tomes. Careful not to mention or be noticed searching for the wizard, his research confirmed this information:
@@ -8,7 +9,7 @@ Jarik can't shake *this whole Manshoon thing*, aside from being the creepiest th
 
 ## Writ of Parole
 
-25  Nightal 1492
+29  Nightal 1492
 
 **Barakka, Luzieros, Jarik and Ursula** have been summmoned to the Office of the Magister. When they arrive they find Captain Guryon, Sargent  Cromley, Barnibus Blastwind and Guard Aumarr (*Captain*) Shain Ravenhook waiting for them in the outer office of the Magister. They are escoted in, weapons and all, to Kylynne Silmerhelve's inner chamber. Silmerhelve, a stately, official-looking mature tiefling woman, wearing the standard black robes of her office bids the adventuers to sit down. She tells them that "they have been a very contested topic of conversation around these halls lately. That Waterdeep is a city of tradition and order, where the law is above all else. And, that since you've been here, you all seem to be oblivious to this or *perhaps are being drawn obliviously* into trouble."
 
@@ -19,6 +20,10 @@ She actually pauses for effect. *It works*, "There are some," she very purposefu
 "It has therefore been ordered that you be given **a Writ of Parole** which will give you the right to carry arms in the City of Waterdeep, for the expressed purposes of self-defense and to defend other Waterdavians in imminent danger. This writ does not bestow any martial or municipal powers and you are still subject to the laws of our land, with the caveat of the aforementioned **duties**. It has been requested that it be specified that you, as are all who are within our City limits, are forbidden from accosting, harassing or assualting *anyone*. But it is not this Office's intention to render you helpless, when it is clear that you have demonstrated yourselves a great *help* to us already."
 
 And with that Guryon produces **four** official writs and hands out one to each of you. The gathered officer offer you *congratulations, of sorts*, and you are turned out into the street without any further ado.
+
+## Softsongs & Xanyas
+
+## Jake & the Harpers
 
 
 
