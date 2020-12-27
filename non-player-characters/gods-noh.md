@@ -13,3 +13,7 @@ A muscular woman with dark, braided hair and chocolate skin. Projects the feelin
 A slender man with white hair, wide avian eyes, darkly tanned skin and a warm glow that radiates from every atom. Seems fragile yet projects quiet confidence. Wears light-colored silks and linens (shirtless) and carries a golden shepherd's crook. **Noh | Peace** is most commonly invoked for blessings in greetings and farewells. He is also called on to oversee treaty negotiations and war councils (if any attempt might be made to avoid war). Though technically not a god of death, his invocation is infrequently used at the end of life, usually when somone has been sick or in pain and seeks release.
 
 *OP NOTE: Noh is the perfect diety for an in-game Jedi, dedicated to peace but able to execute justice. Because of Noh's duality and broad spectrum of domain, use of their name has become as common and varied as "aloha."*
+
+
+
+# Excellent Moved to worlds-almanac/world-building
