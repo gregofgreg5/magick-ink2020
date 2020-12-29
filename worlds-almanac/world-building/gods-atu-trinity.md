@@ -1,0 +1,19 @@
+# Atu
+
+In the beginning there were three primal forces of creation: Earth, Fire and Chaos. Earth and Fire were the first to breach the Prime Material Plane. Earth was manifest as the world: the land, and all the flora and fauna that dwell there were a part of her nature. Fire was the elemental spark that brought life to the world, their great power that the beasts and brought life to the flowers and trees. Chaos saw what had become, jealous he seeped into the Prime Material Plane. In a split-second everything changed. The world was re-shaped as the magic of Chaos became one with the Fire of creation and the Earth, herself. The very land was reshaped, where there was once only beautifly fertile plains, forests and the glorious ocean, suddenly mountains violently erupted around the world, caverns, canyons and all the other features of the land were formed. Where the oceans were once as clear as the sky, beautifully separated only by the horizon, suddenly the ocean changed, it became darker and grew more colorful. The fusion not only changed the topography and features of the world but also affected the creatures that lived upon it as well. Diversity, some beautiful and glorious and some hideous and monstrous rose.
+
+Fused. Joined. The three primal forces of nature became one. Their powers and nature always at odds and always, symbiotically feeding one another. Where there were once three separate entities, from that moment on there was only one, with three distinct visages: Atu.
+
+As the three primal forces of the universe, their powers make up all of existence, but they seldom interact directly with it any longer. Instead, their powers are also called upon or channeled through other deities. It is typically those deities to whom temples and worship are directed.
+
+## Atu |  Fire
+
+A primal force, Fire has no true physical form, but manifests as energy. While they seldom appear as themselves, they are often represented as flame or light.  **Atu  |  Fire** are the natural energy forces of the world. They are represented by the elemental forces of nature: air, water and most importantly life. 
+
+## Atu |  Earth
+
+Earth is manifest in all the physical things in nature, specifically the land, and most basic flora and fauna. **Atu |  Earth** is the patron of the physical world, of health and wellbeing, of strength and endurance. She is the patron of the elements of earth, the mountains and harvest. While Fire’s energy brought life into the world, it is often Earth to whom folk call upon during times of sickness or injury, to strengthen the body.
+
+## Atu |  Chaos
+
+Like the other Atu aspects, **Atu |  Chaos** has no true form, but is rather a primal force. He has seldom taken physical form or manifest himself in a representative fashion.  Atu |  Chaos is the patron of change and magic, whose name is evoked in powerful force. Typically considered to be volatile and represented by unpredictable emotions like rage, anger, and passion. Some see Chaos as the vital force that has made the world what it is and cherish that. While others see Chaos’ work unfinished, held back by the forces of Fire and Earth, those who might move in the shadows or darkness, working  to continue to unleash their fury on the world. One of the most important and underlying principles of Chaos is his link to magic in the world. 
