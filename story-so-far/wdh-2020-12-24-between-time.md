@@ -1,4 +1,6 @@
-# What happens in between, part two
+# What happens in between
+
+Follows [Campaign Notes 12/23/2020](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/wdh-2020-12-23-campaign-note.md#campaign-notes-december-23-2020)
 
 ## *Marshoon, WHO...?*
 **Jarik**
@@ -6,6 +8,10 @@
 Jarik can't shake *this whole Manshoon thing*, aside from being the creepiest thing that he'd ever seen, he can't let go of the connection. He embarked on a litle leg-work, checking at a the Waterdeep library and a couple of local temple's collection of tomes. Careful not to mention or be noticed searching for the wizard, his research confirmed this information:
 
 >**Manshoon** (pronounced: /mɑːnˈʃuːn/ man-SHOON) was one of the original founders of the **Zentharim** or the **Black Network** (1261). Evil to the core, he made enemies all across Faerun, including other powerful spellcasters such as Khelben Arunsun and Elminster. Fearing that he might be destroyed by his foes, Manshoon magically crafted several clones-but a mishap caused all of them to be awakened at once, whereupon they tried to destroy one another in a series of conflicts that came to be known as the Manshoon Wars. All but three of the clones were destroyed. Two of those met their demise in their own adventures. The third, the last clone of Manshoon, had retreated into the Undermountain, where he had a final, fatal confrontation the rival sorceror Halastar Blackcloak, some time around 1370.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/classic-monshoon.jpg)
+
+
 
 ## Writ of Parole
 
@@ -21,11 +27,7 @@ She actually paused for effect. *It works*, "There are some," she very purposefu
 
 And with that Guryon produced **four** official writs and handed out one to each of you. The gathered officers offer you *congratulations, of sorts*, and you are turned out into the street without any further ado.
 
-## Softsongs & Xanyas
-
-## Jake & the Harpers
-
-
+**to be continued**
 
 
 
