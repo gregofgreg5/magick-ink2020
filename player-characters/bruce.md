@@ -16,7 +16,7 @@
 
 **Occupation:** *Training to be an assassin*, works in the world as a mercenary
 
-**Legal status:** He has forsworn any legal status, entering the Brotherhood of the [Red Knight](https://annex.fandom.com/wiki/Red_Knight_(Forgotten_Realms); publicly makes no claim to any legal status
+**Legal status:** He has forsworn any legal status, entering the Brotherhood of the [Red Knight](https://annex.fandom.com/wiki/Red_Knight_Forgotten_Realms); publicly makes no claim to any legal status
 
 **Personal wealth:** Although payment is a critical part of his employment, unknown to most he has forsworn monetary wealth and tithes any and all income to the Brotherhood
 
