@@ -10,7 +10,7 @@
 
 **Class:** Monk (*training in the shadow arts*)
 
-**Alignment:** Lawful Evil
+**Alignment:** Lawful Evil (*tries to pass for neutral*)
 
 ## Affiliations
 
