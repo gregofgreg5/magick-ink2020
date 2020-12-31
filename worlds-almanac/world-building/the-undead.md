@@ -15,3 +15,15 @@ The history of the Isle is steeped in mystery. No one quite knows when or how th
 ***
 
 *There legitimately are every imaginable form of undead on the island. They are in the complete service, of their lord Orcus, who continues to feed undead onto this island. While **Summerland** makes every effort to keep the undead from breaching the shore, they are blissfully unaware that there are tunnels that lead to/from the island to hundreds of passages all around the world. For the most part, surprisingly, the tunnels draw undead **from** the greater world. Still there are some, more ambitious denizens of the Isle that use the tunnels to make there presence felt on the *real world*.*
+
+***
+
+# The Other Undead
+
+The *Isle of the Damned* is not the only source of undead in the world. As anywhere else in the *multiverse* undead spawn as they would all around the world. The one distinction, outside of the *Isle* is that there is a hidden *undead sanctuary*, a legendary mountain where some of the lower undead hide and some of the greater undead make their fortified keeps. Hidden somehwere out amongst the world, away from the *Isle of the Damned*, this strange geographic artifiact is both a treasure and the thing of nightmares. It has spawned those whom would hunt it for it's very existance and those who are terrified that it is really a place in their world.
+
+While no one knows where it is, which indeed throws all accounts into question, it is said that undead from all over the world flock here, if they are not drawn to a more personal place amongst the living.
+
+Aside from the *Isle* and the mysterious santuary, there is a third variety of *undead* that walk the land. These are known as **freewill undead**, those who have either retained some, seldom all, of their former sentience or have, at the bare miniumum, broken free from the *hunger* and the *thrall* of the **dark lord Orcus** and are learning to *live again*. Freewill undead can be of any *type*, but tend to be of the *less terrifying* variety, as the liches and vampires appear to draw more power directly from darker places. Sometimes, seemingly *almost human*, the Freewill undead might even find that they can find a new existance in society, though they are still more outcast and moster than *people* in most circles.
+
+The Freewill undead, like all others, are found all over the world, but tend to be drawn to places of greater magic, where the *unsual* has a much broader range of acceptance. 
