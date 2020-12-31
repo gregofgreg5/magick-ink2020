@@ -6,7 +6,7 @@ Off the coast of (*B-SE*) is the ***Isle of the Damned***, where every variety o
 
 On the Isle of the Damned there are pockets of amination, where a more powerful force has created and rules over a small domain.
 
-To keep the denizens of the Isle in check, **the Silver Flame from the Citadel of Light**, *a unique cadre of freewill undead* do their best to keep the rest of the factions from trying to leave the island. Undead in their own right, the Silver Flame are sentient, if not completely of their living facilities, they have found their freedom from Orcus’ dominion. Allied with the actual Summerland, the Citadel of Light, their sole purpose is to fight back any efforts of the Undead Lords of this island, or the wandering undead, from reaching the mainland.
+To keep the denizens of the Isle in check, **Summerland,** ***the Silver Flame from the Citadel of Light***, *a unique cadre of freewill undead* do their best to keep the rest of the factions from trying to leave the island. Undead in their own right, the Silver Flame are sentient, if not completely of their living facilities, they have found their freedom from Orcus’ dominion. Allied with the actual Summerland, the Citadel of Light, their sole purpose is to fight back any efforts of the Undead Lords of this island, or the wandering undead, from reaching the mainland.
 
 The history of the Isle is steeped in mystery. No one quite knows when or how the undead came to dominate the land. Or how they seem to continuously increase in number. The island itself is warmer, by far, than they should be.
 
