@@ -2,7 +2,7 @@
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/isle-of-the-undead.jpg)
 
-Off the coast of (B-SE) is the ***Isle of the Damned***, where every variety of undead imaginable can be found. From the most docile zombie or ghost to the ever dangerous liches and vampires, you can find them all here. A strange, hideous, familiar hierarchy of service and community exists here, where the powerful rule over the lowly. And there are plenty of lowly, who wander this island and sometimes try to make their way to the mainland… where they can feed.
+Off the coast of (*B-SE*) is the ***Isle of the Damned***, where every variety of undead imaginable can be found. From the most docile zombie or ghost to the ever dangerous liches and vampires, you can find them all here. A strange, hideous, familiar hierarchy of service and community exists here, where the powerful rule over the lowly. And there are plenty of lowly, who wander this island and sometimes try to make their way to the mainland… where they can feed.
 
 On the Isle of the Damned there are pockets of amination, where a more powerful force has created and rules over a small domain.
 
