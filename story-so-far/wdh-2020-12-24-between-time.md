@@ -27,7 +27,38 @@ She actually paused for effect. *It works*, "There are some," she very purposefu
 
 And with that Guryon produced **four** official writs and handed out one to each of you. The gathered officers offer you *congratulations, of sorts*, and you are turned out into the street without any further ado.
 
-**to be continued**
+## Softsong & Fazzanachs
+
+With the deaths of Falrin & Casita Softsong and Joyius & Quiola Fazzanch,, the Tavern’s resident mistrels, in the fireball incident, being in or very-near their majority, Sanamin and her brother Ordin Softsong, and Xanyas Fazzanch have taken up living and working in Trollskull Manor.
+
+Following the death of their parents in the fireball incident Sanamin and her brother Ordin Softsong, and Xanyas Fazzanch have taken up living and working in Trollskull Manor. Sanmina and Xanyas had already reached their majority, by recognized halfling standards, Ordin is only a few years behind. The three of them had already been working in the Manor and it was easy for Hannah and company to make extra space for them to live.
+
+Sanamin and Ordin spend most of their time working: cleaning or cooking with Hannah. They seem to be focused on working their way through their grief. It is easy to see that both are still clearly devastated by their loss, but they appreciate the good-natured camaraderie in the tavern. Xanayas is a different story, he seems to be becoming more and more sullen with each passing day. His good nature and pleasant smile still fill any room he walks into, but beneath that thin veneer there is a palpable sadness. There have been times when he has even been *short* or snapped at someone, when he almost seems morose. Very uncharacteristic for the young halfling. He also seems to miss Borl. *There’s one in every crowd*.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/Peyton%20Song%20of%20Tyr.jpg)
+## The Arrival of Peyton Song of Tyr
+
+01 Hammer 1493
+
+Fresh on the morn, the spectacle of a lavish, albeit short priest and his retinue arrive at Trollskull Manor in search of Barakka. The priest introduces himself as “Peyton Song of Tyr, of the Hall of Justice in Neverwinter”, seemingly very proud of coming from the grand temple in Neverwinter. Peyton, an old *friend* of Barakka, has come to deliver a special gift, bestowed upon him by right and his personal honor. He invites everyone to a ceremony in morning in which he will bestow the might weapon ***MorningBlade*** upon Barakka.
+
+Barakka seems both irked and happy to see the diminutive priest, who had once been both his chaperone and mentor. However, Barakka is quite elated to learn that MourningBlade would finally passed to his hands.
+
+After Peyton and his entourage leave, Barakka explains that MourningBlade was created by the High Mage Alustriel Silverhand, when she was the ruler of Silverymoon, for his great, great, great grandfather Thorn Shieldstrong. Thorn had been a great warrior, champion in the Orc-Troll War. The sword has passed, through (he actually rolled his eyes) through a ritual process to the greatest warrior of his family. It was last weilded by his father’s father, Ord, over fifty years ago. It is easy to sense that Barakka sees this as a great honor, and equally that he believes that he should have had it before now.
+
+Those who wish to, attend the ceremony for Barakka at the Hall of Justice (Tyr’s temple here in Waterdeep also). It is long and as much about Peyton Song of Tyr as it is about Barakka, whose name it is revealed is actually **Leonard Shieldstrong**, a surprise to most of you. Equally surprising. Laeral Silverhand, the Open Lord of Waterdeep was chief of among the attendees at the ceremony. She seemed very familiar with Petyon and everyone was shocked when she greeted Barakka cordially, even friendlily!
+As it turns out, Peyton has accepted a position at the Waterdeep Hall of Justice and promises that he will frequently stop by the tavern to check in on Barakka!
+
+## The Adventure Continues
+
+Six days have passed since the clandestine agreement between the tavernlords and Marshoon. While busy investigating, few leads have turned up. Most discouraging, there has been absolutely no word on the whereabout of Urstel Floxin, the Zhent assassin seen fleeing Trollskull Alley the day of the fireball. It is also becoming clear that whatever Borl is up to, it is unlikely that any information from him will arrive in a timely manner. *Perhaps the team wants to investigate the House of Inspired Hands as well*…
+
+Here are some of the main options to consider next:
+* Investigate the automaton at House of the Inspired Hand
+* Previous inquiries to the Office of the Harbor Master have been, interesting, but not particularly useful. Though the team has realized that information and actual action on the docks changes frequently, so another visit might be in order.
+
+Or…?
+
 
 
 
