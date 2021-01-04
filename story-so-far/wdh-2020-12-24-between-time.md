@@ -55,7 +55,8 @@ Six days have passed since the clandestine agreement between the tavernlords and
 
 Here are some of the main options to consider next:
 * Investigate the automaton at House of the Inspired Hand
-* Previous inquiries to the Office of the Harbor Master have been, interesting, but not particularly useful. Though the team has realized that information and actual action on the docks changes frequently, so another visit might be in order.
+
+* While previous inquiries to the Office of the Harbor Master have been, interesting, but not particularly useful, today Chella came by and let the team know that there is gossip from the crew of the *Eyecatcher*, that they have one of the keys and believe that they are close to acquiring the Stone!  
 
 Or…?
 
