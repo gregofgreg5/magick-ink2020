@@ -29,8 +29,6 @@ And with that Guryon produced **four** official writs and handed out one to each
 
 ## Softsong & Fazzanachs
 
-With the deaths of Falrin & Casita Softsong and Joyius & Quiola Fazzanch,, the Tavern’s resident mistrels, in the fireball incident, being in or very-near their majority, Sanamin and her brother Ordin Softsong, and Xanyas Fazzanch have taken up living and working in Trollskull Manor.
-
 Following the death of their parents in the fireball incident Sanamin and her brother Ordin Softsong, and Xanyas Fazzanch have taken up living and working in Trollskull Manor. Sanmina and Xanyas had already reached their majority, by recognized halfling standards, Ordin is only a few years behind. The three of them had already been working in the Manor and it was easy for Hannah and company to make extra space for them to live.
 
 Sanamin and Ordin spend most of their time working: cleaning or cooking with Hannah. They seem to be focused on working their way through their grief. It is easy to see that both are still clearly devastated by their loss, but they appreciate the good-natured camaraderie in the tavern. Xanayas is a different story, he seems to be becoming more and more sullen with each passing day. His good nature and pleasant smile still fill any room he walks into, but beneath that thin veneer there is a palpable sadness. There have been times when he has even been *short* or snapped at someone, when he almost seems morose. Very uncharacteristic for the young halfling. He also seems to miss Borl. *There’s one in every crowd*.
