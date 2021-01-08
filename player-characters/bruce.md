@@ -1,3 +1,5 @@
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/bruuuce.jpg)
+
 # "Bruce" 
 
 **Public aliases:** 
