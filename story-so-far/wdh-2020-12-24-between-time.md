@@ -33,7 +33,7 @@ Following the death of their parents in the fireball incident Sanamin and her br
 
 Sanamin and Ordin spend most of their time working: cleaning or cooking with Hannah. They seem to be focused on working their way through their grief. It is easy to see that both are still clearly devastated by their loss, but they appreciate the good-natured camaraderie in the tavern. Xanayas is a different story, he seems to be becoming more and more sullen with each passing day. His good nature and pleasant smile still fill any room he walks into, but beneath that thin veneer there is a palpable sadness. There have been times when he has even been *short* or snapped at someone, when he almost seems morose. Very uncharacteristic for the young halfling. He also seems to miss Borl. *There’s one in every crowd*.
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/Peyton%20Song%20of%20Tyr.jpg)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/peyton-song-of-tyr.jpg)
 ## The Arrival of Peyton Song of Tyr
 
 01 Hammer 1493
