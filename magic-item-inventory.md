@@ -18,9 +18,6 @@ The bracer is made of a mysterious, undeniable precious metal with similarly rem
 
 **Chnnon's Remarkable Spell Cache can hold up to two spells, of up to 6th level**. Each spell can be cast once per day, for every two character levels (rounded down, with a minimum of once). Spells are at DC 12 (+Int Mod) or at the DC (spellcasting skill) of the wearer if they are the caster who imbued the spells into the bracer. Currently the bracer contains: [Mirror Image](https://www.dndbeyond.com/spells/mirror-imageImage) and [Thunder Wave](https://www.dndbeyond.com/spells/thunderwave)
 
-
-
-
 ### The Hysterical Mask of Tamon Ra
 
 Hysterical Mask of Tamon Ra was created during a period of fierce battle between the Lords of Faerun and an unusual alliance of three Dukes of Hells: ***Bitru*** (Dis), ***Balan*** (Phlegethos) and ***Abigor*** (Maldomini) [Nine Hells](https://forgottenrealms.fandom.com/wiki/Nine_Hells). Tamon Ra was a gnome sorcerer who created the mask to allow his master, who was in league with Balan, to commuicate with the devils. During a parlay gone wrong, the mask became imbued with unparalleled summoning powers. It requires a wearer of supreme dedication and focus and has been known to render its wearer insane.
@@ -29,6 +26,52 @@ Hysterical Mask of Tamon Ra was created during a period of fierce battle between
 ### Iron Coin of Protection
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi sapien, a tincidunt urna suscipit non. Vestibulum nec congue ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut viverra quam diam, sed tincidunt augue volutpat ullamcorper. Proin finibus tortor velit. Sed placerat venenatis ligula, a suscipit sapien feugiat sed. Donec pharetra sapien in tortor congue convallis. Donec id ex porttitor, tincidunt orci quis, pellentesque orci. Aenean malesuada ultricies erat at feugiat. Fusce egestas purus eget magna euismod ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean sed nisl ante. Duis eget imperdiet magna, eget condimentum magna. Vestibulum accumsan posuere lorem id luctus. Phasellus ultricies est at tempor aliquet. Nullam rhoncus dignissim elit non malesuada.
+
+## MorningBlade
+
+aka **Tyr's Morning Blade**
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/morningblade.jpg)
+
+**Description**: MorningBlade is a beauitfully ornate great sword, cast of the finest adamantine steel, trimmed with gold and a fiery ruby imbeded in the hilt.
+
+**History**: MorningBlade was ordered to be crafted by the High Mage [Alustriel Silverhand](https://forgottenrealms.fandom.com/wiki/Alustriel_Silverhand) for Thorn Shieldstrong, Barakka (Leonard)'s great, great, great, great grandfather. A reqard for his valor in the Orc-Troll War (1276). Once crafted and enchanted, the blade was sent to [The Hall of Justice](https://forgottenrealms.fandom.com/wiki/Hall_of_Justice), Tyr's temple in NeverWinter, to be blessed and consecrated. It has been in Shieldstrong family ever since, passing from hand to hand, from the one prominent warrior in the family to the next, always finding itself in the hands of the warrior who needs it the most, deserves it and can best carry out it's purpose.
+
+**Powers**
+
+**Holy Crusade** | In order to become attuned, MorningBlade must be bonded to the wielder by a cleric of Tyr **and** the bearer must use the weapon as their *divine focus*. Once MorningBlade becomes bonded to the weilder:
+>The weilder cannot be disarmed of MorningBlade unless he is incapacitated. If it is on the same plane of existence, Barakka can summon that weapon as a bonus action on his turn, causing it to teleport instantly to his hands (both).
+
+**Blessed Strike** | Add +2 to all attack and damage rolls made with this MorningBlade.
+
+**Cleansing Light** | The weilder can cast the Light cantrip at will while holding MorningBlade. The light always emits from the blade
+
+**Vile Enemy** | MorningBlade deals double-damage to Orcs, Undead and Trolls. Additionally Trolls cannot regenerate damage inflicted by MorningBlade or spells cast by MorninBlade.
+
+**Third Level** | **Fire of Justice**: The blade glows white hot like the sun. The next creature he kills starts to crack and blister before exploding in a burst of sunlight. All **hostile** creatures in a 10ft radius must make a constitution saving throw. On a failed save they take 2d6 radiant damange and are blinded. This feature can be used once per day and it recharges at dawn. This feature requires an action or bonus action to be activated, before the fatal blow is delivered.
+
+**Fourth Level** | Add +4 to all attack and damage rolls made with MorningBlade.**
+
+**Fifth Level** (uncommon) | **Blessed Warblade**: At fifth level, the weilder will be able to use the charges imbued in within MorningBlade. As an action Barakka will be able to expend these charges from the list below. MorningBlade regains it's full charges at dawn.
+ 1. [Guiding Bolt](http://dnd5e.wikidot.com/spell:guiding-bolt) (1 charge)
+ 2. [Branding Smite](http://dnd5e.wikidot.com/spell:branding-smite) (2 charges)
+ 3. [Crusaders Mantle](http://dnd5e.wikidot.com/spell:crusaders-mantle) (3 charges)
+ 
+**Seventh Level** | **TBD** *and* **Fire of Justice** can be used twice per day.
+
+**Ninth Level** (Rare) | At ninth level, the number of maximum charges per day increase to six.
+
+**Eleventh Level** | At eleventh level, the number of maximum charges per day increase to 10.
+
+**Thriteenth Level** (Very Rare) | MorningBlade gains the following spells, at the charge described below:
+
+ 4. [Sunbeam](http://dnd5e.wikidot.com/spell:sunbeam) (4 charges)
+ 5. [Sunburst](http://dnd5e.wikidot.com/spell:sunburst) (10 charges)
+ 
+**Fifteenth Level** | **TBD**
+
+**Seventeenth Level** (Legendary) | **TBD**
+
 
 ## Sinister Knives
 
