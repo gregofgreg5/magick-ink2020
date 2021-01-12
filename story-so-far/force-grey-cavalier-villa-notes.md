@@ -1,5 +1,7 @@
 # The Story So Far…
 
+## The Cavalier Villa - December 9, 2020
+
 The four of you are: **Goredon Ramsey** (minotaur/fighter), **Gunmetal Grey** (gnome/artificier), **Manny** (half-elf/rogue), and **Talib Beni-Asmodai** (tiefling/cleric), all members of **Force Grey**. Some of you have worked together (briefly) before, but this is your first time together. Gunmetal has a Steel Defender, a mechanical dog of sorts.
 At about 2 AM you were summoned to **Cavalier Villa**, where you met with Force Grey Captain Guryon.
 
