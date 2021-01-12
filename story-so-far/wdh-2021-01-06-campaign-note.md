@@ -61,4 +61,4 @@ Faced with Zord, three drow gunslingers, and two elite warriors, the team battle
 
 And...
 
-**to be continued**...**1/20/2021*
+*to be continued*... **1/20/2021**
