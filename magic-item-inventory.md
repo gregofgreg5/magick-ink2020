@@ -27,21 +27,6 @@ Hysterical Mask of Tamon Ra was created during a period of fierce battle between
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi sapien, a tincidunt urna suscipit non. Vestibulum nec congue ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut viverra quam diam, sed tincidunt augue volutpat ullamcorper. Proin finibus tortor velit. Sed placerat venenatis ligula, a suscipit sapien feugiat sed. Donec pharetra sapien in tortor congue convallis. Donec id ex porttitor, tincidunt orci quis, pellentesque orci. Aenean malesuada ultricies erat at feugiat. Fusce egestas purus eget magna euismod ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean sed nisl ante. Duis eget imperdiet magna, eget condimentum magna. Vestibulum accumsan posuere lorem id luctus. Phasellus ultricies est at tempor aliquet. Nullam rhoncus dignissim elit non malesuada.
 
-## MorningBlade
-
-aka **Tyr's Morning Blade**
-
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/morningblade.jpg)
-
-**Description**: MorningBlade is a beauitfully ornate great sword, cast of the finest adamantine steel, trimmed with gold and a fiery ruby imbeded in the hilt.
-
-**History**: MorningBlade was ordered to be crafted by the High Mage [Alustriel Silverhand](https://forgottenrealms.fandom.com/wiki/Alustriel_Silverhand) for Thorn Shieldstrong, Barakka (Leonard)'s great, great, great, great grandfather. A reqard for his valor in the Orc-Troll War (1276). Once crafted and enchanted, the blade was sent to [The Hall of Justice](https://forgottenrealms.fandom.com/wiki/Hall_of_Justice), Tyr's temple in NeverWinter, to be blessed and consecrated. It has been in Shieldstrong family ever since, passing from hand to hand, from the one prominent warrior in the family to the next, always finding itself in the hands of the warrior who needs it the most, deserves it and can best carry out it's purpose.
-
-**Powers**
-
->**Holy Crusade** | In order to become attuned, MorningBlade must be bonded to the wielder by a cleric of Tyr **and** the bearer must use the weapon as their *divine focus*. Once MorningBlade becomes bonded to the weilder:<br><br>The weilder cannot be disarmed of MorningBlade unless he is incapacitated. If it is on the same plane of existence, Barakka can summon that weapon as a bonus action on his turn, causing it to teleport instantly to his hands (both).<br><br>**Blessed Strike** | Add +2 to all attack and damage rolls made with this MorningBlade.<br><br>**Cleansing Light** | The weilder can cast the Light cantrip at will while holding MorningBlade. The light always emits from the blade<br><br>**Vile Enemy** | MorningBlade deals double-damage to Orcs, Undead and Trolls. Additionally Trolls cannot regenerate damage inflicted by MorningBlade or spells cast by MorninBlade.<br><br>**Third Level** | **Fire of Justice**: The blade glows white hot like the sun. The next creature he kills starts to crack and blister before exploding in a burst of sunlight. All **hostile** creatures in a 10ft radius must make a constitution saving throw. On a failed save they take 2d6 radiant damange and are blinded. This feature can be used once per day and it recharges at dawn. This feature requires an action or bonus action to be activated, before the fatal blow is delivered.<br><br>**Fourth Level** | Add +4 to all attack and damage rolls made with MorningBlade.**<br><br>**Fifth Level** (uncommon) | **Blessed Warblade**: At fifth level, the weilder will be able to use the charges imbued in within MorningBlade. As an action Barakka will be able to expend these charges from the list below. MorningBlade regains it's full charges at dawn.<br><br> 1. [Guiding Bolt](http://dnd5e.wikidot.com/spell:guiding-bolt) (1 charge)<br><br> 2. [Branding Smite](http://dnd5e.wikidot.com/spell:branding-smite) (2 charges)<br><br> 3. [Crusaders Mantle](http://dnd5e.wikidot.com/spell:crusaders-mantle) (3 charges)<br><br>**Seventh Level** | **TBD** *and* **Fire of Justice** can be used twice per day.<br><br>**Ninth Level** (Rare) | At ninth level, the number of maximum charges per day increase to six.<br><br>**Eleventh Level** | At eleventh level, the number of maximum charges per day increase to 10.<br><br>**Thriteenth Level** (Very Rare) | MorningBlade gains the following spells, at the charge described below:<br><br> 4. [Sunbeam](http://dnd5e.wikidot.com/spell:sunbeam) (4 charges)<br><br> 5. [Sunburst](http://dnd5e.wikidot.com/spell:sunburst) (10 charges)<br><br>**Fifteenth Level** | **TBD**<br><br>**Seventeenth Level** (Legendary) | **TBD**
-
-
 ## Sinister Knives
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mi sapien, a tincidunt urna suscipit non. Vestibulum nec congue ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut viverra quam diam, sed tincidunt augue volutpat ullamcorper. Proin finibus tortor velit. Sed placerat venenatis ligula, a suscipit sapien feugiat sed. Donec pharetra sapien in tortor congue convallis. Donec id ex porttitor, tincidunt orci quis, pellentesque orci. Aenean malesuada ultricies erat at feugiat. Fusce egestas purus eget magna euismod ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean sed nisl ante. Duis eget imperdiet magna, eget condimentum magna. Vestibulum accumsan posuere lorem id luctus. Phasellus ultricies est at tempor aliquet. Nullam rhoncus dignissim elit non malesuada.
@@ -63,23 +48,6 @@ A small, unassuming knife with a sinister black blade and a **diamond** jeweled 
 A small, unassuming knife with a sinister black blade and a **pearl** jeweled pommel.
 
 > You gain a **+2 bonus to attack and damage rolls made with this magic weapon**, when used as a melee weapon, this weapon will do no damage if thrown.
-
-
-## talons, Sinister Knives
-# Sinister Talon
-
-A set of unique daggers. Each dagger has a blade on each end of the grip. The design of the weapon allows a proficient wielder to strike twice with each blade in one hand and once with one of the blades in the other hand. Total of three strikes.
-
-The blades are not balanced to be thrown.
-
->Requires attunement. Can only be attuned by characters with an evil alignment. Non-evil characters can wield the weapon, but require martial proficiency to wield it effectively. Non-evil creatures must have a minimum strength of 12 to wield proficiently. Blades function as above, but are limited to +2.<br><br>**Level 1**: +2 to hit/damage<br><br>**Level 3**: Endow three additional first level spell slots and two additional second level spell slots<br><br>**Vampiric damage** (bonus action): 3x day wielder may elect to recover (or gain over natural hp) damage inflicted in the turn by one or both weapons. This action can be taken AFTER damage is determined. Temporary (over natural) hp at midnight, when the vampiric charges reset.<br><br>**If one of the blades is lost or destroyed, the attuned character can generate a second blade, with 24 hours of focus/concentration/meditation on the remaining blade**
-
-### viper, Sinister Knife
-
-A small, unassuming knife with a sinister black blade and an **emerald** jewelled pommel
-
-> You gain a **+1 bonus to attack and damage rolls made with this magic weapon.**<br> You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d4 poison damage and become poisoned for 1 minute. The knife can be used this way once per every three levels of a proficient weilder, and the venom cannot be reactivated again until the next dawn.
-
 
 ### Terrible Boots
 
