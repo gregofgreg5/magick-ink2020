@@ -22,10 +22,8 @@ Valetta recognized the Tavernlords at once and was happy to show them to the nim
 * A wooden flying machine has wings that flap when it
 * becomes airborne.
 * A miniature model of a mechanical dragon turtle miniature submersible has a brass plate affixed to its pedestal that reads, "Big Belchy. Sank in Deepwater Harbor on the Day of Wonders in 1363 DR." **Ursula found the submersible fascinating. Turns out that the submersible was real and really did sink.**
-* A functional "waking helmet" equipped with small,
-* articulated metal arms and hands that gently slap the
-* wearer if he or she falls asleep.
-* A miniature model of a red submarine shaped like a manta ray has a brass plate affixed to its pedestal that reads, "The Scarlet Marpenoth. Lantanese submersible. Launched in 1489 DR." **Like *Big Belchy* the Scarlet Marpenoth is real, it launched and has changed hands several times. The temple doesn't *exactly* know who owns it now**.
+* A functional "waking helmet" equipped with small, articulated metal arms and hands that gently slap the wearer if he or she falls asleep.
+* A miniature model of a red submarine shaped like a manta ray has a brass plate affixed to its pedestal that reads, "The Scarlet Marpenoth. Lantanese submersible. Launched in 1489 DR." **Like *Big Belchy*, *the Scarlet Marpenoth* is real, it was launched and has changed hands several times. The temple doesn't exactly know who owns it now.**
 
 ## Nim's Lair
 
@@ -43,9 +41,22 @@ It turned out that Nim had created a second nimblewright, broken and *less smart
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/nimblewright-detector.jpg)
 the nimblewright detector
 
-Tempers began to rise as Valetta grew angrier and angrier with Nim, it became clear that they would have to do something to save it. There was clearly no reasoning with Valetta, so Jarik, Barakka and company *insist/request* that Nim help lead them to the missing nimblewright.
+Tempers began to rise as Valetta grew angrier and angrier with Nim, it became clear that they would have to do something to save it. There was clearly no reasoning with Valetta, Jarik unleashed his fey presence, intimidating her, and company *insist/request* that Nim help lead them to the missing nimblewright.
 
 At first it seemed as if Valetta would reist, but in the end she dismissed them with a *"Just make sure to bring..."* seeing something that she didn't quite like, a trouble she didn't want to cross (right now), *"just go."*
 
 ## *The Eyecatcher*
 
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/the-eyecatcher.jpg)
+
+To no one's surprise, Nim led the Tavernlords to the dock ward The nimblewright detector led the party to ***The Eyecatcher*** at about twilight, where it looked liked activity was at a lull. There were a few deckhands on the ship, more milling about than being busy. After a brief *introduction* the party boarded and told them that they were looking for nimblewrights. One of the men went down and brought back their captain **Zardoz Zord** and a small contingent of his men back to the deck.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/zardoz-zord.jpg)
+
+Despite his best efforts to invite the Tavernlords to his cabin to discuss the matter, a battle broke out.  However before the first blow was struck, ***Talos struck*** and a bolt of lightning struck the ship, disabling the vessel's *disguise spell*, revealing that the crew (except for Zord) were actually drow! 
+
+Faced with Zord, three drow gunslingers, and two elite warriors, the team battled. Nim was sent to try to find the missing nimblewright.
+
+And...
+
+to be continued...**1/20/2021*
