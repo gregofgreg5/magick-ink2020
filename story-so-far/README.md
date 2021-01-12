@@ -4,4 +4,4 @@
 * [Force Grey][force-grey]
 
 [dragon-heist]: ./dragon-heist-module.md
-[force-grey]: ./fg-cavalier-villa adventure.md
+[force-grey]: ./fg-cavalier-villa-adventure.md
