@@ -76,5 +76,5 @@ Jarik, in a drunken state, took a while to remember where he had heard the name 
  
 
 **To be Continued... 1/6/2021**
-But before that, [here's what happened in between adventures.](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/wdh-2020-12-24-between-time.md#what-happens-in-between)
+But before that, [here's what happened in between adventures.](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2020-12-24-between-time.md)
 
