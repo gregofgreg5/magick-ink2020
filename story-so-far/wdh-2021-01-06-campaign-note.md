@@ -49,7 +49,9 @@ At first it seemed as if Valetta would reist, but in the end she dismissed them 
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/the-eyecatcher.jpg)
 
-To no one's surprise, Nim led the Tavernlords to the dock ward The nimblewright detector led the party to ***The Eyecatcher*** at about twilight, where it looked liked activity was at a lull. There were a few deckhands on the ship, more milling about than being busy. After a brief *introduction* the party boarded and told them that they were looking for nimblewrights. One of the men went down and brought back their captain **Zardoz Zord** and a small contingent of his men back to the deck.
+To no one's surprise, Nim led the Tavernlords to the dock ward The nimblewright detector led the party to ***The Eyecatcher*** at about twilight. The most extravagant, ostentatious even ship on the docks, the *Eyecatcher* stood out against the gray winter background of the harbor. Borl's information on ***The Sea Maidens Faire*** was that the *traveling circus* is made up of three ships: *Eyecatcher*, *Hearbreaker* and *Hellraiser*. *Eyecatcher* was the carnival's flagship, while the other two transported more of the business of the show.
+
+This evening, it looked liked activity was at a lull. There were a few deckhands on the ship, more milling about than being busy. After a brief *introduction* the party boarded and told them that they were looking for nimblewrights. One of the men went down and brought back their captain **Zardoz Zord** and a small contingent of his men back to the deck.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/zardoz-zord.jpg)
 
@@ -59,4 +61,4 @@ Faced with Zord, three drow gunslingers, and two elite warriors, the team battle
 
 And...
 
-to be continued...**1/20/2021*
+**to be continued**...**1/20/2021*
