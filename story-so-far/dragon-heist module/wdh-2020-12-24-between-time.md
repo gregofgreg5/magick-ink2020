@@ -59,6 +59,8 @@ Here are some of the main options to consider next:
 
 Or…?
 
+[Campaign notes](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2021-01-06-campaign-note.md)
+
 
 
 
