@@ -1,6 +1,6 @@
 # What happens in between
 
-Follows [Campaign Notes 12/23/2020](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/wdh-2020-12-23-campaign-note.md#campaign-notes-december-23-2020)
+Follows [Campaign Notes 12/23/2020](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2020-12-23-campaign-note.md)
 
 ## *Marshoon, WHO...?*
 **Jarik**
