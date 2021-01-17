@@ -87,26 +87,19 @@ Guarding and operating these portals they discovered two more ice kobolds, two i
 
 Unfortunately, as soon as she saw the portal floating in the back of the room, Ashani made a break for it. Talib, who had been near the portal, but not close enough to stop her watched as she jumped through, all *Guardian on the Edge of Forever style*. He reported that she leaped through and appeared, *what looked like* about 10-15 feet in the distance and kept on running.
 
-Talib saw that on the other side of the portal was a more rural area, no city roads and the only structures he could make out were in the distance and were much smaller than the large villas that surround Cavalier Villa outside. Wherever he was looking, wherever Ahsani had escaped to, was different. Even the weather, it was clearly no longer winter.
+Talib saw that on the other side of the portal was a more rural area, no city roads and the only structures he could make out were in the distance and were much smaller than the large villas that surround Cavalier Villa outside. Wherever he was looking, wherever Ahsani had escaped to, was different. Even the weather, it was clearly no longer winter on the other side of the portal.
 
-Meanwhile, Manny made sure that Eskander didn't also escape into the mysterious portal.
-
+Meanwhile, after Ashani's mad break, Manny made sure that Eskander didn't escape into the mysterious portal.
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/kobold-shaman-edel-llz.jpg) Edel'llz
 
-Drawn back into the battle, the kobolds and ice mephits were easily dispatched. Edel'llz was a different story, but despite his best efforts, he too was apprehended. Captured, not killed, the ice kobold sorcerer was interrogated.
-
-Intertwined in his many threats, Edel'llz mocked the team that they were too late! **Fleagal** a devil and her army from **Stygia**, one of the levels of Hell, had already breached the portal and escaped into Waterdeep. 
+Drawn back into the battle, the kobolds and ice mephits were easily dispatched. Edel'llz was a different story, but despite his best efforts, he too was apprehended. Captured, not killed, the ice kobold sorcerer was interrogated. Intertwined in his many threats, Edel'llz mocked the team that they were too late! **Fleagal** a devil and her army from **Stygia**, one of the levels of Hell, had already breached the portal and escaped into Waterdeep. 
 
 >"Your *City of Splendors* will fall into a frozen ruin! The icy grip of Fleagal and a legion of her warriors have already breached your *precious crown*!"
 
-It was clear that Edel'llz believed that the portal opened to Waterdeep. Talib knows many things and of the things that he is certain, wherever that portal opened up to, it was not where they were before they entered this cursed villa.
+It was clear that Edel'llz believed that the portal opened to Waterdeep. Talib knows many things and one of the things that he is certain, wherever that portal opened up to, it was not where they were before they entered this cursed villa. Edel'llz told them that the second portal,  was a passage to Stygia, the ice hell, where Fleagal reigned over legions of kobolds and frost giants alike. From what they gleaned from the sorcerer's ramblings, the devil has already taken an army, presumably kobolds through into *Waterdeep*
 
-The second portal, Edel'llz told them was a passage to Stygia, the ice hell, where Fleagal reigned over legions of kobolds and frost giants alike. From what they gleaned from the sorcerer's ramblings, the devil has already taken an army, presumably kobolds through into *Waterdeep*
-
-More utilitarian and less ornate than the floating portal, the portal to Stygia had some gear packs that had just been starting to get hauled up by the kobolds. About six feet across, the portal definitely did not look wide enough for a frost giant to cross through.
-
-As they inspected it and tried to come up with a way to block the portal, they noticed that they were beginning to see a floor in the pit. Where, at first, it seemed like a bottomless drop, a stone floor seemed to be rising. Before long the portal was sealed.
+More utilitarian and less ornate than the floating portal, the portal to Stygia had some gear packs that had just been starting to get hauled up by the kobolds. About six feet across, the portal definitely did not look wide enough for a frost giant to cross through. As they inspected it and tried to come up with a way to block the portal, they noticed that they were beginning to see a floor in the pit. Where, at first, it seemed like a bottomless drop, a stone floor seemed to be rising. Before long the portal was sealed.
 
 The cautious type, the party barricaded the portal with bookcases and a couch to be safe.
 
