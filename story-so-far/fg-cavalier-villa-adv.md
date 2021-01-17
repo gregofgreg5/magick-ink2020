@@ -1,6 +1,3 @@
----
-tags: the-story-so-far
----
 # Cavalier Villa Notes
 
 ## The Cavalier Villa - December 2, 2020
