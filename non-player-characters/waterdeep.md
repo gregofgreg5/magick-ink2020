@@ -68,7 +68,7 @@ Ktchcck a claw-foot raptor who is frequently seen with Chella. **What you know s
 ![image](/images/ktchcck-v2.jpg)
 
 ### Krentz
-Krentz was the leader of the Zhentarim thugs who were harassing Yagra at the Yawning Portal, your party dispatched them. Krentz and one of his men were allowed to retreat. *I’m sure that will go well for you*.
+Krentz was the leader of the Xanthar thugs who were harassing Yagra at the Yawning Portal, your party dispatched them. Krentz and one of his men were allowed to retreat. *I’m sure that will go well for you*.
 
 ![image](/images/krentz.jpg)
 
