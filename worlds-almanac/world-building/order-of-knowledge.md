@@ -63,3 +63,12 @@ One of an adept's most valuable skills is being able to recognize the interest i
 Player characters who are part of the order are typically going to be monks or bards, but can be of any class. What they do for the order is their driving force, but may not be something that any one else ever knows that they are doing.
 
 Typically characters of the order will be ***lawful*** and/or ***neutral***
+
+
+---
+### Some character concepts
+A half-elf monk who has honed his skill with his martial weapons to point that he can pass as a weapon master and has served as a lieutenant in the *palace guard* of an influential crimelord. His journal is filled with details about the crimelord, the local authorities that he has dealing with, the captain of the guard, and a tiefling artificer of particular note.
+
+A human artificer who spent 10 years studying and working at one of the *unwritten* monasteries and now serves in an *open* monastery. His training is in both magic and science, which allow him to better investigate and test the stories of the artifacts that are brought to him.
+
+
