@@ -263,7 +263,7 @@ After a brief discussion, Ursula swam to the  submarine hatch at the bottom of t
 
 ![](https://i.imgur.com/PqDMkHz.jpg)
 
-The polar bear swam out to the Scarlet Marpenoth and having retrieved it's frosty and wet saboteur, the vessel dove and headed out of port for deep water. Behind them, breached the hull and deck began to splinter and then suddenly Zord's the deck in Zord's cabin burst and was flooded. Slowly *Eyecatcher* began to gently to port...
+The polar bear swam out to the Scarlet Marpenoth and having retrieved it's frosty and wet saboteur, the vessel dove beneath the surface. Behind them, the breached the hull and deck began to splinter and then suddenly the deck in Zord's cabin burst and was flooded. Slowly *Eyecatcher* began to list gently to port as the Tavernlords, two (and a half) nimblewrights, five rock gnomes and a purloined submarine made for deep water.
 
 ---
 
