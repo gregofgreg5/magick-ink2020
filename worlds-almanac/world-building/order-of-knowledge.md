@@ -67,10 +67,10 @@ Typically characters of the order will be ***lawful*** and/or ***neutral***
 
 ---
 ### Some character concepts
-A half-elf monk who has honed his skill with his martial weapons to point that he can pass as a weapon master and has served as a lieutenant in the *palace guard* of an influential crimelord. His journal is filled with details about the crimelord, the local authorities that he has dealing with, the captain of the guard, and a tiefling artificer of particular note.
+**A half-elf monk** who has honed his skill with his martial weapons to point that he can pass as a weapon master and has served as a lieutenant in the *palace guard* of an influential crimelord. His journal is filled with details about the crimelord, the local authorities that he has dealing with, the captain of the guard, and a tiefling artificer of particular note.
 
-A human artificer who spent 10 years studying and working at one of the *unwritten* monasteries and now serves in an *open* monastery. His training is in both magic and science, which allow him to better investigate and test the stories of the strange items that are brought to him. His hobby, as is such the way with many artificers in the order, is to challenge the Diegesis by creating new or augmenting old things: pushing the barriers and sometimes ***connecting*** the spheres of science and magic.
+**A human artificer** who spent 10 years studying and working at one of the *unwritten* monasteries and now serves in an *open* monastery. His training is in both magic and science, which allow him to better investigate and test the stories of the strange items that are brought to him. His hobby, as is such the way with many artificers in the order, is to challenge the Diegesis by creating new or augmenting old things: pushing the barriers and sometimes ***connecting*** the spheres of science and magic.
 
-A dragonborn adventurer (monk) who spent his life searching the world for arcane items to bring back to the order to study. Some of the treasure that he recovered had significant historical value and his recount of their finding was invaluable to piecing together fragments of some other story. Some powerful magic to be inspected by the artificers and mages.
+**A dragonborn adventurer (monk)** who spent his life searching the world for arcane items to bring back to the order to study. Some of the treasure that he recovered had significant historical value and his recount of their finding was invaluable to piecing together fragments of some other story. Some powerful magic to be inspected by the artificers and mages.
 
 
