@@ -45,7 +45,8 @@ The connections that the order seek can come in any form. While some adepts are 
 * **Places**: Adepts will also chronicle details or histories about the places that they encounter. Places and their histories set the background, the stage for the Diegesis. Of course, this often includes how modern (or recently modern) people interact or influence the nature or interpretation of the location.
 
 * **Things**: Notable artifacts, both magical and mundane are documented by adepts. Some adepts are more skilled at this analysis than others. For example, there have been dozens of gnome adepts who have written vast catalogs of the engineering-level diagrams of equipment or tools. And of course how they function like or resemble other machines or stories, their connection to the Diegesis.
-* **Spheres** Knowledge
+
+* **Spheres of Knowledge**
     * Magic
     * Science
     * Nature
@@ -56,10 +57,9 @@ Some adepts specialize in the testing of various spheres. For example an adept m
 
 One of an adept's most valuable skills is being able to recognize the interest in a thing. Often times to see what is, or might be, special about a thing or person or how it may connect to another precept.
 
-
 ---
 ## Roleplaying
 
 Player characters who are part of the order are typically going to be monks or bards, but can be of any class. What they do for the order is their driving force, but may not be something that any one else ever knows that they are doing.
 
-Typically characters of the order will be ***lawful*** and/or ***ne
+Typically characters of the order will be ***lawful*** and/or ***neutral***
