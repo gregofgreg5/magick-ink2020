@@ -3,7 +3,7 @@
 An unspoken, not quite secret, order of devoted to gathering, protecting and understanding the universe through the Great Diegesis.
 
 ## The Great Diegesis
-At the center of everything is ***The Great Diegesis***. It is a tenant of the faith that all things are connected by a single narrative that runs through all the worlds. The goal of the order is to recording the ongoing elements of the Diegesis.
+At the center of everything is ***The Great Diegesis***. It is a tenant that all things are connected by a single narrative that runs through all the worlds. The goal of the order is to record the elements of the Diegesis.
 
 ### Lore
 The Great Diegesis (*sometimes just The Diegesis*) is the story of the universe. It has a finite beginning and stretches out from that point in space-time in infinite directions. Each person, every life tells a story that is interconnected with all life in the universe. The most sacred part of any life (or story) is how it is connected to others and to the Diegesis.
