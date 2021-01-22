@@ -268,6 +268,7 @@ The polar bear swam out to the Scarlet Marpenoth and having retrieved it's frost
 ---
 
 Did **Manshoon** (or anyone) else see the vision above the ship? 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*was there actually anything to see...?*
 
 Where did **Zardoz Zord** go and won't he be surprised when he gets back?
