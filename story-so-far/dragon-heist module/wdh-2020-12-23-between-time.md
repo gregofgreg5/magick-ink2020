@@ -1,6 +1,6 @@
 # What happens in between
 
-Follows [Campaign Notes 12/23/2020](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2020-12-23-campaign-note.md)
+Follows [Campaign Notes 12/23/2020](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2020-12-23-campaign-note.md#campaign-notes-december-23-2020)
 
 ## *Marshoon, WHO...?*
 **Jarik**
@@ -59,7 +59,7 @@ Here are some of the main options to consider next:
 
 Or…?
 
-[Campaign notes: January 6, 2021](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2021-01-06-campaign-note.md)
+[Campaign notes: January 6, 2021](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2021-01-06-campaign-note.md#campaign-notes-january-6-2021)
 
 
 
