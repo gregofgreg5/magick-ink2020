@@ -61,4 +61,4 @@ Faced with Zord, three drow gunslingers, and two elite warriors, the team battle
 
 And...
 
-*to be continued*... **1/20/2021**
+*to be continued*... [**1/20/2021**](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/dragon-heist%20module/wdh-2021-01-20-campaign-note.md#campaign-notes-january-20-2021)
