@@ -29,7 +29,7 @@ Depite Barakka's new appreciation for the submersible and its creators. The most
 
 First the Tavernlords irked the Xanthar, killing one of it's favorite lieutenants and then wound up on Manshoon's list, the ancient (long thought dead) wizard who founded the Zhentarim over two hundred years ago. And now this. *Jarlaxle Baenre* and the entire Bregan D'aerthe. On the bright side, no sign of Asmodeus (*yet*). 
 
-![](https://i.imgur.com/fuCLeoe.png) Jarlaxle Baenre
+![Jarlaxle Baenre](https://i.imgur.com/fuCLeoe.png)
 
 ## Journey's end
 
@@ -77,7 +77,7 @@ Everyone felt refreshed and relaxed, even. Luzeiros noticed that even the scrape
 
 Meanwhile, next to Borl **an ancient dwarf, in beautiful, ornate robes, with a powerful looking staff* appeared. Also, the landing on the left, north-west, was suddenly filled with gold. At last, for real, Neverember's dragons were indeed found.
 
-![](https://i.imgur.com/Zs1IaWM.jpg) Barok Clanghammer
+![Barok Clanghammer](https://i.imgur.com/Zs1IaWM.jpg)
 
 As the dwarf looked purposefully around the cavern, he asked "Who sent you?"
 
@@ -91,7 +91,7 @@ Realizing that they wer talking about two different people, Barakka exclaimed, "
 
 Luzeiros, trying to help out, with where they'd come from and why they were looking for the dragons, mentioned the crazy old *undead wizard* and suddenly something piqued in the old dwarf. He was on the other side of the mesa, working his way back around, with a few of the Tavernlords trying to keep up. 
 
-![](https://i.imgur.com/QyO0MQi.jpg) Clanghammer's staff
+![Clanghammer's staff](https://i.imgur.com/QyO0MQi.jpg)
 
 The old dwarf, dragging his staff or alternately using it as a walking stick, was a fast bugger. After getting what little else they knew about Dagul, he moved on to questioning them about the wizard.
 
@@ -99,7 +99,7 @@ Luzeiros and Jarik began telling him about the wizard, *Manshoon* and how he is 
 
 The dwarf stopped in his tracks at the name and seemed to grow agitated, "Wizard, tell me more about the wizard!" He walked around the mesa again, faster, his trailing Tavernlords having a harder time keeping up. This time, however by the time he reached the other side he had reverted to his true form and stood before them in all of his golden glory.
 
-![](https://i.imgur.com/fETIjOG.png) Aurinax
+![Aurinax](https://i.imgur.com/fETIjOG.png)
 
 He stood over 50 feet from his head to the ground and at least 70 feet long to his tail.  He stood menacing with his huge wings tucked against his body. Terrifying, impressive, towering... his solid black eyes gleamed in anger.
 
