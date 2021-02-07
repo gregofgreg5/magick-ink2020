@@ -5,7 +5,7 @@
 ### We all live on a manta-submarine...
 A few hours after sabotaging *Eyecatcher*, the Tarvernlords found themselves sitting a few meters beneath the surface of the ocean in the *Scarlet Marpenoth* with the newest employees renegotiating the terms of their service. Barakka, understanding that they might be in a bind if the gnomes found out that they were driving them to half a million gold pieces, for a measley 100 gp per day, sought to renegotiate. A wise move considering the only way back was likely to be this submarine. Learning the true objective, the gnomes huddled. **Screech**, the spokeman for the gnome's union started the negotiations at 100,000 gp. *Luzeiros* did not [Thunderwave](https://www.dndbeyond.com/spells/thunderwave) them. After a brief discussion, the sum of 15% (75,000 gp if the Tavernlords found the whole 500,000). In jest (?), Screech confided to Jarik that *they would have settled for 10k.* And they were off.
 
-![](https://i.imgur.com/39j0q0A.jpg) Screech
+![Screech "Screech"](https://i.imgur.com/39j0q0A.jpg)
 
 Jarik produced the *Stone of Golorr* and handed it to Screech. As before, the room filled with a pale green light, with dark green hues flying all around them. The stone rose into the air and the show repeated.
 
@@ -23,18 +23,19 @@ The only ones for whom the trip was worse was the four drow prisoners. Trapped i
 A guard was posted, usually Jarik (and by extension Ursula), but Luzeiros and Barakka also took their turn. It was very plain that the guard was as much to keep the drow in the room (which wasn't really an issue) as it was to keep Borl away from them.
 
 ## Jarlaxle Baenre 
-Barakka's tour and subquent ten-day education on the inner workings of the Scaret Marpenoth was useful. It didn't keep him for continually asking "Can't this thing go faster?" every couple days, the *Paladin equivalent* to *Are we there yet?*. In truth, Barakka did learn alot about the submarine and how it works. He learned enough to recognize an amazing amount of craftmanshipo in the Lantanese built ship. He quietly added Lantan to his list of places he'd like to visit one day. *Maybe sooner rather than later*, now that Peyton Song of Tyr has moved to Waterdeep.
+Barakka's tour and subquent ten-day education on the inner workings of the Scaret Marpenoth was useful. It didn't keep him for continually asking "Can't this thing go faster?" every couple days, the *Paladin equivalent* to *Are we there yet?*. In truth, Barakka did learn a lot about the submarine and how it works. He learned enough to recognize an amazing amount of craftsmanship in the Lantanese built ship. He quietly added Lantan to his list of places he'd like to visit one day. *Maybe sooner rather than later*, now that Peyton Song of Tyr has moved to Waterdeep.
 
-Depite Barakka's new appreciation for the submersible and it's creators. The most interesting bit of information on the voyage came from Screech. In his (*seemingly constant*) praise of his new employers, he related to thiem that the gnomes did not really like working for the previous owner of the Marpenoth. To no surprise, the flamboyant Zardoz Zord, who escaped their fury when they boarded *Eyecatcher* was the captain. To everyone's surpise, Zord was actually an alias for the legendary **Jarlaxle Baenre**. Baenre, also a drow, was the founder and leader of the Bregan D'aerthe. On the surface the Bregan D'aerthe are a *mercinary guild* and operate in cities (like Waterdeep) with at least some level of legitimacy. In fact, the Bregan D'aerthe are ruthless drow criminals, *slightly better* than the Zhentarim and Xanthar Guild.
+Depite Barakka's new appreciation for the submersible and its creators. The most interesting bit of information on the voyage came from Screech. In his (*seemingly constant*) praise of his new employers, he related to them that the gnomes did not really like working for the previous owner of the Marpenoth. To no surprise, the flamboyant Zardoz Zord, who escaped their fury when they boarded *Eyecatcher* was the captain. To everyone's surpise, Zord was actually an alias for the legendary **Jarlaxle Baenre**. Baenre, also a drow, was the founder and leader of the Bregan D'aerthe. On the surface the Bregan D'aerthe are a *mercenary guild* and operate in cities (like Waterdeep) with at least some level of legitimacy. In fact, the Bregan D'aerthe are ruthless drow criminals, *slightly better* than the Zhentarim and Xanthar Guild.
 
 First the Tavernlords irked the Xanthar, killing one of it's favorite lieutenants and then wound up on Manshoon's list, the ancient (long thought dead) wizard who founded the Zhentarim over two hundred years ago. And now this. *Jarlaxle Baenre* and the entire Bregan D'aerthe. On the bright side, no sign of Asmodeus (*yet*). 
 
-![](https://i.imgur.com/fuCLeoe.png) Jarlaxle Baenre
+![Jarlaxle Baenre "Jarlaxle Baenre"](https://i.imgur.com/fuCLeoe.png)
 
 ## Journey's end
-The end of the journey neared as the Scarlet Marpenoth followed the glowing orb into a chasm and then into a cave in the cliff-face. The submarine speed slowed to a drift as it continued to wind down into the cavern. Over an hour goes by, with the Marpenoth continuing to descend before it leveled off into a wider body of water, in still in unlit cavern. Abruptly the orb flies straight up. The sub comes to a frantic halt and the gnomes feverishly check their instruments. Screech peers up through the lookout canopy at the top of the bridge, shouting out numbers in gnomish.
 
-The cavern continued ahead of the Marpenoth, but the orb ascended through vertical a channel. After a brief moment of checking what they can see against their ship's charts, all four of the gnomes began to make adjustments on their instruments and controls. Slowly the sub began to angle *upward*, towards the narrow chimney. The Tavernlords found hand-holds or something to brace themselves as the nose of the submarine rises towards, what they assume is the surface.
+The end of the journey neared as the Scarlet Marpenoth followed the glowing orb into a chasm and then into a cave in the cliff-face. The submarine speed slowed to a drift as it continued to wind down into the cavern. Over an hour goes by, with the Marpenoth continuing to descend before it leveled off into a wider body of water, still in an unlit cavern. Abruptly the orb flies straight up. The sub comes to a frantic halt and the gnomes feverishly check their instruments. Screech peers up through the lookout canopy at the top of the bridge, shouting out numbers in gnomish.
+
+The cavern continued ahead of the Marpenoth, but the orb ascended through a vertical channel. After a brief moment of checking what they can see against their ship's charts, all four of the gnomes began to make adjustments on their instruments and controls. Slowly the sub began to angle *upward*, toward the narrow chimney. The Tavernlords found hand-holds or something to brace themselves as the nose of the submarine rises toward what they assume is the surface.
 
 Pitched in a 90-degree angle from their previous direction, it is a very nerve wracking thirty minutes. The passage widened and terrifyingly narrowed around the submarine. Finally they see the orb, *floating* above them. **Floating** above the water. Floating above the water... The gnomes burst into frenetic action again, shouting numbers in gnomish and curses at each other as the sub seemed to spin and twirl. Finally, the Tavernlords feel the sub level out. A quick check of the instruments and Screech told them that it appeared that they entered a large subterranean pool, about 100 feet deep. Looking out the view window they can see that the gnomes were able to park the sub in the only way that it fit in the pool.
 
@@ -76,7 +77,7 @@ Everyone felt refreshed and relaxed, even. Luzeiros noticed that even the scrape
 
 Meanwhile, next to Borl **an ancient dwarf, in beautiful, ornate robes, with a powerful looking staff* appeared. Also, the landing on the left, north-west, was suddenly filled with gold. At last, for real, Neverember's dragons were indeed found.
 
-![](https://i.imgur.com/Zs1IaWM.jpg) Barok Clanghammer
+![Barok Clanghammer](https://i.imgur.com/Zs1IaWM.jpg)
 
 As the dwarf looked purposefully around the cavern, he asked "Who sent you?"
 
@@ -90,7 +91,7 @@ Realizing that they wer talking about two different people, Barakka exclaimed, "
 
 Luzeiros, trying to help out, with where they'd come from and why they were looking for the dragons, mentioned the crazy old *undead wizard* and suddenly something piqued in the old dwarf. He was on the other side of the mesa, working his way back around, with a few of the Tavernlords trying to keep up. 
 
-![](https://i.imgur.com/QyO0MQi.jpg) Clanghammer's staff
+![Clanghammer's staff](https://i.imgur.com/QyO0MQi.jpg)
 
 The old dwarf, dragging his staff or alternately using it as a walking stick, was a fast bugger. After getting what little else they knew about Dagul, he moved on to questioning them about the wizard.
 
@@ -98,7 +99,7 @@ Luzeiros and Jarik began telling him about the wizard, *Manshoon* and how he is 
 
 The dwarf stopped in his tracks at the name and seemed to grow agitated, "Wizard, tell me more about the wizard!" He walked around the mesa again, faster, his trailing Tavernlords having a harder time keeping up. This time, however by the time he reached the other side he had reverted to his true form and stood before them in all of his golden glory.
 
-![](https://i.imgur.com/fETIjOG.png) Aurinax
+![Aurinax](https://i.imgur.com/fETIjOG.png)
 
 He stood over 50 feet from his head to the ground and at least 70 feet long to his tail.  He stood menacing with his huge wings tucked against his body. Terrifying, impressive, towering... his solid black eyes gleamed in anger.
 
