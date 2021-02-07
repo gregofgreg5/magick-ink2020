@@ -5,7 +5,7 @@
 ### We all live on a manta-submarine...
 A few hours after sabotaging *Eyecatcher*, the Tarvernlords found themselves sitting a few meters beneath the surface of the ocean in the *Scarlet Marpenoth* with the newest employees renegotiating the terms of their service. Barakka, understanding that they might be in a bind if the gnomes found out that they were driving them to half a million gold pieces, for a measley 100 gp per day, sought to renegotiate. A wise move considering the only way back was likely to be this submarine. Learning the true objective, the gnomes huddled. **Screech**, the spokeman for the gnome's union started the negotiations at 100,000 gp. *Luzeiros* did not [Thunderwave](https://www.dndbeyond.com/spells/thunderwave) them. After a brief discussion, the sum of 15% (75,000 gp if the Tavernlords found the whole 500,000). In jest (?), Screech confided to Jarik that *they would have settled for 10k.* And they were off.
 
-![Screech "Screech"](https://i.imgur.com/39j0q0A.jpg)
+![Screech](https://i.imgur.com/39j0q0A.jpg "Screech")
 
 Jarik produced the *Stone of Golorr* and handed it to Screech. As before, the room filled with a pale green light, with dark green hues flying all around them. The stone rose into the air and the show repeated.
 
@@ -17,19 +17,21 @@ The trip is wildly uneventful. The journey takes ten days. Ten long days of alte
 
 At one point during the journey, Luzeiros took some time to investigate the Stone of Golorr. It appeared like it would have a texture, it looked almost flesh-like, scaled, with three-eyes cared into the stone. The stone itself was otherwise unremarkable. Despite appearing to have different colors and textures, the stone appeared to be made of one contiguous rock, of some kind. While the firbolg was looking at it, Jarik realized that the stone had **changed shape**! It was about the same mass, but was more *squat*, had less length and more width. Shortly after it was returned to Jarik, while no one was watching it, it's shape returned to *normal*.
 
-### Drow prisoners 
+### Drow prisoners
+
 The only ones for whom the trip was worse was the four drow prisoners. Trapped in a small cabin, the Tavernlords kept them fed (bread) and watered. Enough nourishment to keep Barakka happy, but not enough that they'd likely be a problem down the road.
 
 A guard was posted, usually Jarik (and by extension Ursula), but Luzeiros and Barakka also took their turn. It was very plain that the guard was as much to keep the drow in the room (which wasn't really an issue) as it was to keep Borl away from them.
 
-## Jarlaxle Baenre 
+## Jarlaxle Baenre
+
 Barakka's tour and subquent ten-day education on the inner workings of the Scaret Marpenoth was useful. It didn't keep him for continually asking "Can't this thing go faster?" every couple days, the *Paladin equivalent* to *Are we there yet?*. In truth, Barakka did learn a lot about the submarine and how it works. He learned enough to recognize an amazing amount of craftsmanship in the Lantanese built ship. He quietly added Lantan to his list of places he'd like to visit one day. *Maybe sooner rather than later*, now that Peyton Song of Tyr has moved to Waterdeep.
 
 Depite Barakka's new appreciation for the submersible and its creators. The most interesting bit of information on the voyage came from Screech. In his (*seemingly constant*) praise of his new employers, he related to them that the gnomes did not really like working for the previous owner of the Marpenoth. To no surprise, the flamboyant Zardoz Zord, who escaped their fury when they boarded *Eyecatcher* was the captain. To everyone's surpise, Zord was actually an alias for the legendary **Jarlaxle Baenre**. Baenre, also a drow, was the founder and leader of the Bregan D'aerthe. On the surface the Bregan D'aerthe are a *mercenary guild* and operate in cities (like Waterdeep) with at least some level of legitimacy. In fact, the Bregan D'aerthe are ruthless drow criminals, *slightly better* than the Zhentarim and Xanthar Guild.
 
-First the Tavernlords irked the Xanthar, killing one of it's favorite lieutenants and then wound up on Manshoon's list, the ancient (long thought dead) wizard who founded the Zhentarim over two hundred years ago. And now this. *Jarlaxle Baenre* and the entire Bregan D'aerthe. On the bright side, no sign of Asmodeus (*yet*). 
+First the Tavernlords irked the Xanthar, killing one of it's favorite lieutenants and then wound up on Manshoon's list, the ancient (long thought dead) wizard who founded the Zhentarim over two hundred years ago. And now this. *Jarlaxle Baenre* and the entire Bregan D'aerthe. On the bright side, no sign of Asmodeus (*yet*).
 
-![Jarlaxle Baenre "Jarlaxle Baenre"](https://i.imgur.com/fuCLeoe.png)
+![Jarlaxle Baenre](https://i.imgur.com/fuCLeoe.png "Jarlaxle Baenre")
 
 ## Journey's end
 
@@ -39,17 +41,17 @@ The cavern continued ahead of the Marpenoth, but the orb ascended through a vert
 
 Pitched in a 90-degree angle from their previous direction, it is a very nerve wracking thirty minutes. The passage widened and terrifyingly narrowed around the submarine. Finally they see the orb, *floating* above them. **Floating** above the water. Floating above the water... The gnomes burst into frenetic action again, shouting numbers in gnomish and curses at each other as the sub seemed to spin and twirl. Finally, the Tavernlords feel the sub level out. A quick check of the instruments and Screech told them that it appeared that they entered a large subterranean pool, about 100 feet deep. Looking out the view window they can see that the gnomes were able to park the sub in the only way that it fit in the pool.
 
-The cavern was lit from the very base of the cave walls and through various cracks throughout the cavern. The light was bright enough to provide normal vision, green, but normal. 
+The cavern was lit from the very base of the cave walls and through various cracks throughout the cavern. The light was bright enough to provide normal vision, green, but normal.
 
 ![](https://i.imgur.com/OpEwOoG.jpg)
 
-The Marpenoth was on the surface of a large pool at the south-east corner of a very large subterranean cavern. In the center of the cavern is a elevated platform, a mesa about 55 wide and 35 feet across, an easy 35 feet above the ground. Above them, the walls of the cavern sloped up as if towards a dome, but the illumination didn't climb all the way to the top. On the opposite side of the chamber, to the north is another, smaller pool. On either side of that pool, there were landings. On the south-west side of the cavern, there was a huge carving of a dragon, in-laid in gold, that stretched for 50 feet around the cavern and stood 15 feet high. 
+The Marpenoth was on the surface of a large pool at the south-east corner of a very large subterranean cavern. In the center of the cavern is a elevated platform, a mesa about 55 wide and 35 feet across, an easy 35 feet above the ground. Above them, the walls of the cavern sloped up as if towards a dome, but the illumination didn't climb all the way to the top. On the opposite side of the chamber, to the north is another, smaller pool. On either side of that pool, there were landings. On the south-west side of the cavern, there was a huge carving of a dragon, in-laid in gold, that stretched for 50 feet around the cavern and stood 15 feet high.
 
 After a quick discussion, the drow prisoners were bound and dragged out of the sub and placed in front of the carved dragon. Screech and one of the gnome engineers were asked to accompany the Tavernlords into the cavern, *for their expertise* in... uhm, *strange glowing caverns*. No fool, Screech told the Tavernlords, that while it may seem that their loyalties wre for sale, that they had no allegiance to Baenre and frankly the drow, the behavior,* kind of creeped* the gnomes out. He explained that he still understood their concern and agreed to go with them and suggested that the rest of his team take the Marpenoth down a few feet, so that if the drow do get any ideas, it would be harder for them to the ship. They agreed.
 
 The main cavern appeared to be empty, The air was moist and smelled fresh, almost *too fresh*. There was a slight breeze that came from above. The ground was solid and felt soft beneath their boots. The team split up, their gnome companions in tow.
 
-Ursula, the huge polar bear and Luzieros, *who some consider big for a firbolg*, went to check out the landing on the left, to the north-west of the second pool. At first, both found the walls more slick and slimy than they had anticipated and came crashing to the damp ground. *At first you don't succeed*, the two made the 15 foot climb to the landing more uneventfully on the second try. 
+Ursula, the huge polar bear and Luzieros, *who some consider big for a firbolg*, went to check out the landing on the left, to the north-west of the second pool. At first, both found the walls more slick and slimy than they had anticipated and came crashing to the damp ground. *At first you don't succeed*, the two made the 15 foot climb to the landing more uneventfully on the second try.
 
 Along the walls of the cavern were dust-covered frescoes of ceramic, stone and metal depicting six heroes clad in ornate armor with swords, axes, shields and a variety of weapons. In the center of them there was an iron fresco of a dwarf smith at work in their forge and an inscription carved into the walls in dwarvish: *"Let hearts be lifted and battles won."* The landing followed along the cavern to a small alcove with about a foot drop and three inches of *clear* liquid covering the floor. Otherwise they found this side of the landing was empty and unremarkable. Ursula slid down the side of the wall and bounded over to check on Jarik. Luzeiros was less graceful, but was too firbolg to rub the small wound on his posterior.
 
@@ -59,7 +61,7 @@ While Borl and Barakka inspected the carving of the dragon (which was just a sto
 
 Luzeiros climbed down the rickety ladder and tried to make out the depth, but all he could tell, was that it was *really, really deep*. But he didn't touch it, just hung there above it. *Not that we're making any judgment here.*
 
-Meanwhile, Jarik and the gnomes had come back over to the pool. Looking down, with gold dragons in their eyes, Jarik devised a plan to retrieve them, without testing the waters. *Again, no judgment...*. 
+Meanwhile, Jarik and the gnomes had come back over to the pool. Looking down, with gold dragons in their eyes, Jarik devised a plan to retrieve them, without testing the waters. *Again, no judgment...*.
 
 Hearing the giants description of the two landings, Barakka, climbed up to the landing on the left (north-west), where he investigated the frescos and carvings on that side more closely. Looking at the iron dwarf carving, he noticed that there was something more interesting about the hammer in the dwarf's hands. He noticed clearly that there was a separation between the hammer and the wall. He *jiggled it*. By then, Ursula had joined him and assisted him pulling the hammer out of the wall.
 
@@ -77,7 +79,7 @@ Everyone felt refreshed and relaxed, even. Luzeiros noticed that even the scrape
 
 Meanwhile, next to Borl **an ancient dwarf, in beautiful, ornate robes, with a powerful looking staff* appeared. Also, the landing on the left, north-west, was suddenly filled with gold. At last, for real, Neverember's dragons were indeed found.
 
-![Barok Clanghammer](https://i.imgur.com/Zs1IaWM.jpg)
+![Barok Clanghammer](https://i.imgur.com/Zs1IaWM.jpg "Barok Clanghammer")
 
 As the dwarf looked purposefully around the cavern, he asked "Who sent you?"
 
@@ -89,9 +91,9 @@ Borl quickly replied "No one. We.." When it didn't appear that the answers that 
 
 Realizing that they wer talking about two different people, Barakka exclaimed, "No, Renear! Not Dagul!" And he went on to explain that they thought that Dagul was dead. Or at least presumed dead.
 
-Luzeiros, trying to help out, with where they'd come from and why they were looking for the dragons, mentioned the crazy old *undead wizard* and suddenly something piqued in the old dwarf. He was on the other side of the mesa, working his way back around, with a few of the Tavernlords trying to keep up. 
+Luzeiros, trying to help out, with where they'd come from and why they were looking for the dragons, mentioned the crazy old *undead wizard* and suddenly something piqued in the old dwarf. He was on the other side of the mesa, working his way back around, with a few of the Tavernlords trying to keep up.
 
-![Clanghammer's staff](https://i.imgur.com/QyO0MQi.jpg)
+![Clanghammer's staff](https://i.imgur.com/QyO0MQi.jpg "Clanghammer's staff")
 
 The old dwarf, dragging his staff or alternately using it as a walking stick, was a fast bugger. After getting what little else they knew about Dagul, he moved on to questioning them about the wizard.
 
@@ -99,7 +101,7 @@ Luzeiros and Jarik began telling him about the wizard, *Manshoon* and how he is 
 
 The dwarf stopped in his tracks at the name and seemed to grow agitated, "Wizard, tell me more about the wizard!" He walked around the mesa again, faster, his trailing Tavernlords having a harder time keeping up. This time, however by the time he reached the other side he had reverted to his true form and stood before them in all of his golden glory.
 
-![Aurinax](https://i.imgur.com/fETIjOG.png)
+![Aurinax](https://i.imgur.com/fETIjOG.png "Aurinax")
 
 He stood over 50 feet from his head to the ground and at least 70 feet long to his tail.  He stood menacing with his huge wings tucked against his body. Terrifying, impressive, towering... his solid black eyes gleamed in anger.
 
@@ -123,7 +125,7 @@ The Tavernlords were silent and did their best to keep Borl silent. "Do you swea
 
 He looked at the drow and the pool, where the submarine lay beneath the surface, "How do I know I can trust you?"
 
-Almost in unison, four of the Tavernlords produced their Writs from the Open Lord of Waterdeep, proclaiming their deputized status. All of them except for Borl, who looked both irritated and embarassed not to have a warrant of his own. 
+Almost in unison, four of the Tavernlords produced their Writs from the Open Lord of Waterdeep, proclaiming their deputized status. All of them except for Borl, who looked both irritated and embarassed not to have a warrant of his own.
 
 Deeming those were acceptable, he told them to free the drow and stand away. Without question Luzieros and Jarik freed them. As soon as they were free and began to move about, their mouths ungagged, but before they could speak, the dragon let loose it's terrible fiery breath. A blistering heat filled the cavern and in an instant the drow were gone!
 
@@ -138,6 +140,7 @@ Everyone nodded, even Borl.
 In a blink the gargantuan dragon was gone and the humble, noble looking dwarf stood in his place, holding his mighty staff. They watched as he walked to the landing on the north-east and then held up the staff and levitated to the shelf. His staff glowing, he walked to the portal, tapped the end of it to the top of the doorway and left.
 
 ## Some loose ends
+
 # Screech & the gnomes
 
 Again, deciding what to do with these guys came down to *how much can we trust them*? After all they worked for the drow for who knows how long.
@@ -155,38 +158,35 @@ As a compromise, Screech went back to the Marpenoth, which he now recognized as 
 Again, Screech offered a reasonable and unassailable offer. Jarik thought that Screech might be good to have around sometime. The Tavernlords accepted.
 
 ## Back at the manor
+
 When Barakka stepped through the portal into the cellar, the first of the Tavernlords to make the trip, it had been over 11 day since they'd last been in the Manor.
 
 In quieter, more civil times perhaps, if the proprietors of the manor or tavern were gone for a week or ten days and their staff were left appraised, or sometimes even not, that would be unremarkable. These are not those times, nor are these those owners.
 
 ### The Zhents
-Every morning the Zhentarim agents still showed up. They began to become more unruly on the third morning. That morning, Jake happened to be at the tavern having breakfast with his parents and the Softsongs. The next morning Renear and two, very nondescript, *Harpers* showed up to *have breakfast* and conduct their morning business, quietly at one of the corner tables. From that time on, a rotating selection of Harpers could be found hanging out at the tavern, usually at that table. 
+
+Every morning the Zhentarim agents still showed up. They began to become more unruly on the third morning. That morning, Jake happened to be at the tavern having breakfast with his parents and the Softsongs. The next morning Renear and two, very nondescript, *Harpers* showed up to *have breakfast* and conduct their morning business, quietly at one of the corner tables. From that time on, a rotating selection of Harpers could be found hanging out at the tavern, usually at that table.
 
 It's the Harpers business to react to evil doing, to correct it. Prevention typically isn't their forte. But for Neverember, this was personal. Despite any misgivings, he has never taken his rescue lightly.
 
-The Zhentarim still came by every morning, waiting for the Tavernlords return, but they did so much, much more civilly . 
+The Zhentarim still came by every morning, waiting for the Tavernlords return, but they did so much, much more civilly .
 
 ### Softsong & Fazzanachs
+
 In the absence of the Tavernlords, the Softsongs stood up and picked up more work around the tavern. Slowly, they seemed to be adjusting to their new lives. Many of the patrons of the tavern come looking forward to the camaraderie and friendship of the Softsongs. In the last week or so they really seem to be clearing from the understandably, ever-present fog that they'd been under.
 
 Xanyas Fazzanch was another matter entirely. While, for the most part he still lived at the manor and showed up for most of his shifts, he had become even more dark and sullen. He even disappeared for two days entirely, missing one of his shifts. Hannah and Emmett had become very worried about the young halfling.
 
 ## The end is near
-* So here we are. The Tavernlords, or half of them at least, have found **Neverember's coveted Dragon Horde**. 
 
-* They've returned with two and half nimblewrights in tow. 
-
-* **Vallera** at the House of Inspired Hands *is not their biggest fan.* 
-
+* So here we are. The Tavernlords, or half of them at least, have found **Neverember's coveted Dragon Horde**.
+* They've returned with two and half nimblewrights in tow.
+* **Vallera** at the House of Inspired Hands *is not their biggest fan.*
 * There is an *ancient gold dragon* on the hunt for **Manshoon**, which one would hope might keep him busy for awhile, if not solve that problem.
-
 * It's reasonable to expect some fallout from the sinking of *Eyecatcher*.
-
 * Certainly part of that will be coming from the **Bregan D’aerthe**. *Whoever they are*
- 
 * And, the **Xanthar Guild** still wants a piece of the Tavernlords.
- 
-* And **no one knows** that you have the dragons. And 
+* And **no one knows** that you have the dragons. And
 
 ***What's next...???***
 
