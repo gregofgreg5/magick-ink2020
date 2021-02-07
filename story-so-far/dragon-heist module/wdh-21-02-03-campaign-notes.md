@@ -5,7 +5,7 @@
 ### We all live on a manta-submarine...
 A few hours after sabotaging *Eyecatcher*, the Tarvernlords found themselves sitting a few meters beneath the surface of the ocean in the *Scarlet Marpenoth* with the newest employees renegotiating the terms of their service. Barakka, understanding that they might be in a bind if the gnomes found out that they were driving them to half a million gold pieces, for a measley 100 gp per day, sought to renegotiate. A wise move considering the only way back was likely to be this submarine. Learning the true objective, the gnomes huddled. **Screech**, the spokeman for the gnome's union started the negotiations at 100,000 gp. *Luzeiros* did not [Thunderwave](https://www.dndbeyond.com/spells/thunderwave) them. After a brief discussion, the sum of 15% (75,000 gp if the Tavernlords found the whole 500,000). In jest (?), Screech confided to Jarik that *they would have settled for 10k.* And they were off.
 
-![](https://i.imgur.com/39j0q0A.jpg) Screech
+![Screech](https://i.imgur.com/39j0q0A.jpg)
 
 Jarik produced the *Stone of Golorr* and handed it to Screech. As before, the room filled with a pale green light, with dark green hues flying all around them. The stone rose into the air and the show repeated.
 
