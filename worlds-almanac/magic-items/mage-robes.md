@@ -9,12 +9,12 @@ The wearer gains an **AC equals 10 +  spellcasting ability modifier**. Whenever 
 ___
 
 **Left**
- * Top:(Spell components): this pocket can hold a small backpack (up to 100 gp) of spell components without adding enbumberance. 
+ * Top: (Spell components): this pocket can hold a small backpack (up to 100 gp) of spell components without adding enbumberance. 
  * *The other two pockets on this side seem like a regular interior pocket*
 ___
  
 **Right**
- * Top:(Weapon): this pocket can hold a weapon up to the size of a greatsword (up to 10 gp of weight). It can only hold one weapon. It requires a *magic word* to pull out the weaopn and requires a bonus action. 
+ * Top: (Weapon): this pocket can hold a weapon up to the size of a greatsword (up to 10 gp of weight). It can only hold one weapon. It requires a *magic word* to pull out the weaopn and requires a bonus action. 
  * *The other two pockets on this side seem like a regular interior pocket*
  
  ```
