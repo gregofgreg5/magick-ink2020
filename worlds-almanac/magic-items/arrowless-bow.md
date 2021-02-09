@@ -1,4 +1,4 @@
-# Arrowless Bow (Gunmetal Grey)
+# Arrowless Bow
 *Wonderous item weapon, rare*
 ___
 
