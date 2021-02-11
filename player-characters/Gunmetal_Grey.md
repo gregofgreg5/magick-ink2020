@@ -2,31 +2,31 @@
 
 **Pronunciation:** [IPA][ipa] _pronunciation_
 
-**Public name:** _name_
+**Public name:** Gunmetal Grey
 
 **Public aliases:** _list of aliases_
 
-**Real name:** _real name_
+**Real name:** Gattlack Bronzebender
 
 ## Basics
 
-**Race:**
+**Race:** Forest Gnome
 
-**Class:**
+**Class:** Artificer
 
-**Alignment:**
+**Alignment:** Neutral good
 
 ## Affiliations
 
-**Occupation:**
+**Occupation:** Fixer upper, Handy man, tool maker, weapon maker
 
-**Legal status:**
+**Legal status:** Not wanted by the law
 
-**Personal wealth:**
+**Personal wealth:** OK but not great
 
-**Base of operations:**
+**Base of operations:** Workshop in Waterdeep
 
-**Group affiliations:**
+**Group affiliations:** Force Grey
 
 **Place of birth:**
 
@@ -40,9 +40,9 @@
 
 **Physical description:**
 
-**Height:**
+**Height:** 4'
 
-**Weight:**
+**Weight:** 80 lbs
 
 **Eye color:**
 
