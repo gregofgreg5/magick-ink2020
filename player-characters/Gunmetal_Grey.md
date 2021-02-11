@@ -34,7 +34,7 @@
 
 **Other relationships:**
 
-**Religion/Deity(s):**
+**Religion/Deity(s):** Gond
 
 ## Physical attributes
 
