@@ -39,10 +39,9 @@ Joser Fastfoot
 | Feature | Name (distance/by foot) |
 | -------- | -------- |
 | The main road:     | *the Long Road*     |
-| A nearby forest:     | *the High Forest* (9 days)|
+| A nearby forest:     | *Kryptgarden Forest* (4 days)|
 | A nearby water source:     | *Great Ocean*  (two hours)|
-| A nearby village(s):     | Melairbode (5 days)     |
+| A nearby village(s):     | Melairbode (2 days)     |
 | A distant city     | Morinden (48 days)     |
 | A local nuisance:     | orcs, kobolds     |
-
 
