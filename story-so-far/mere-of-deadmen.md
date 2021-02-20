@@ -1,5 +1,7 @@
 # Mystery of the Mere of Dead Men
-## February 17, 2021
+
+## The Advventure begins
+### February 17, 2021
 
 It began on the 17th of Nightal 1492, when the ***mysterious*** Jubelle Excelon paid a visit to Trollskull Manor. It was the morning after the tavern was firebombed and no one was at their best. Also, no one was quite ready for the news that Jubble brought with him. He had made an arrangement with the city officials of Waterdeep for Erethil, Sufari, Grunddle and Vold to take on a special assignment.The mission: investigate some missing cargo shipments between Waterdeep and Leilon over the past month.
 
