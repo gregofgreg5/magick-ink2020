@@ -55,6 +55,7 @@ The orc raiding party came from the north, but went behind the low hills to the 
 
 Talib unleashed his flaming mace.
 ![](https://i.imgur.com/mhLlK8o.jpg)
+
 The head of the mace burst into flames! The tiefling and his fiery weapon cut a terrifying image in the pasture, swinging (and unfortunately missing) at the lumbering orc menace. However, Talib found that his aim with his [spectral weapon](https://www.dndbeyond.com/spells/spiritual-weapon) spell was on-track and deadly. Manny took the the orcs with his bracer of of blades and his devastating dagger work. Meanwhile, Gunmetal found his new bow, a gift from Daerin Stonebottom, a little more tricky than it was in practice and Doggo had an even worse time. A novelty, drawing the attention of the orcs, the mechanical canine was knocked down, quickly trussed and thrown into the wagon!
 
 Their numbers dwindling quickly, three orcs planned to make a hasty retreat with their robotic prize. But Grosh, as expected, had been excelling in the melee and saw the wagon about to depart. Fearlessly, the mighty minotaur clad in his gorgeous plate armor, lowered his head and charged across the field. Grosh hit the wagon square with a horn and his broad, armored shoulder. He tore into the back of the wagon, crushing the left-rear wheel and the cargo bed above it. Saved, of a sort, but still bound, Doggo flopped unceremoniously to the turf!
@@ -63,6 +64,7 @@ Gunmetal, Grosh and company made quick work of the remaining orcs, intentionally
 
 With fresh, very clear tracks to follow, in the winter grass, the team consulted with the council of Tyr's Burden and let them know their plan to give pursuit. They outfitted the wagon and stock that they had been given by the town for the mission and Gunmetal quickly repaired the smashed wagon the orcs had left behind. With the two wagons ready to go, they team head off into the morning light.
 
+### Orc Hunt
 They traveled for about a day, trading off resting and guiding the wagons, with Doggo out front following the orc's trail. Even over a day old, the trail was fairly easy to follow in the tall grass. The orcs initially headed out east, but turned sharply north, *ducking behind* the low hills skirting Tyr's Burden. 
 
 The trail abruptly ended at a large patch of grass that was mysteriously darker than the rest of grass leasing up to it. Talib dropped a shower of [sacred flame](https://www.dndbeyond.com/spells/sacred-flame) which appeared to dance along the surface of the grass and then extinguish as if the surface were damp. It did look darker, but did not look *exactly* damp. Manny stabbed at the grass and reported that it felt soft, almost spongy and found that it was difficult to pull his weapon out. Grosh, noticed that the darker grass appeared to sit on top of the lighter grass, and probed between with one of the orc's disgarded javelins. It went about a foot and then stopped, he pushed the javelin further into the flora. Gorsh and Manny used the javelin like a lever and tried to move the mysterious grass, to no avail.
