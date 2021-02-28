@@ -76,8 +76,9 @@ February 24, 2021!**
 
 # Waterdeep circa -750DR part 02
 February 24, 2021
-
 ## Who would name a place *Squalor*?
+
+### Orc encampment
 After careful scrutiny, Force Grey decided to leave the creature, *whatever it was* behind and carry on following the orc tracks. The trail went on winding through the hills and low lands until it led to the top of the hills.
 
 Below, they could see the base of what was clearly once a great tower surrounded by the rancid squalidness of the orc tribe. Refuse and broken parts of various plundered items lay strewn all about he area around the ruins. Four wolves were feasting on a handful of various carcasses. They could see two more wagons, one tethered to a horse and another sitting beside it. They could hear horses on the other side of the tower. Walking around the site were three orcs.
