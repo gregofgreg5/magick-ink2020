@@ -1,7 +1,7 @@
 # Waterdeep circa -750DR part 01
 
 ## *Orcs are big too? WTF.* 	
-### Orc Hunt (February 10, 2021)
+### Tyr's Burden (February 10, 2021)
 
 ### Preface
 >A band of orcs had been raiding the outskirts or *easy targets* around **Tyr's Burden**. The raids started in the farms and area in the north east and have moved down south and back up again. The raids have occured about once a month. Usually about a dozen orcs come through and are easily fended off by the constable,  his deputies and (a lot of) brave citizens. *Folk in Tyr's Burden aren't anyone's victims!*
