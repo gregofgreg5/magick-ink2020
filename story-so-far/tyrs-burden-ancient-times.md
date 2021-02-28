@@ -54,6 +54,7 @@ After all was said and done, they waited over a week before they saw any action.
 The orc raiding party came from the north, but went behind the low hills to the east to the farms on the South East. There were a dozen orcs and they had brought a wagon drawn by two horses.
 
 Talib unleashed his flaming mace.
+
 ![](https://i.imgur.com/mhLlK8o.jpg)
 
 The head of the mace burst into flames! The tiefling and his fiery weapon cut a terrifying image in the pasture, swinging (and unfortunately missing) at the lumbering orc menace. However, Talib found that his aim with his [spectral weapon](https://www.dndbeyond.com/spells/spiritual-weapon) spell was on-track and deadly. Manny took the the orcs with his bracer of of blades and his devastating dagger work. Meanwhile, Gunmetal found his new bow, a gift from Daerin Stonebottom, a little more tricky than it was in practice and Doggo had an even worse time. A novelty, drawing the attention of the orcs, the mechanical canine was knocked down, quickly trussed and thrown into the wagon!
