@@ -141,6 +141,8 @@ The discussion continued, on and on. Finally, Talib cast [Augury](https://www.dn
 
 And it was decided, the agents of Force Grey turned back into the cavern and travelled back down the cavern. They travelled through the main chamber and back into the ice parlor and then into the library. Everything was just as they had left it. The portal that once lead to Styggia was still covered by a pile of bookcases, presumably still closed. The other, the ice portal, also remained open. On the other side, they could see the same sunny, rural area that they saw before.
 
+## Through the portal
+
 They tested the portal again, this time Grosh put a crossbow bolt through and brought it back, without breaching the portal himself. Gunmetal sent *doggo* through with instructions to come back, but it went through and stood there, with it's metal tail wagging. Boldly, Grosh stepped through the portal and stood next to doggo. He found himself in a rural countryside, with a small villiage down the road and a mountain range to the north (west). To his dismay, he turned and saw that there was no portal.
 
 In, I'd like to say *desperation* or *an abundance of concern* but..., Gunmetal attached a rope to a bolt and fired it at Doggo, hoping to be able to give Grosh a line back to them. But the bolt flew into the countryside, hit the end of the rope and dropped to the ground. They couldn't see it near Grosh and Grosh couldn't see it.
@@ -170,4 +172,4 @@ A deal was struck.
 If there are any other **specific** things that anyone would like to do, or try to learn, let me know.
 Otherwise:
 
-***ORC-HUNT begins on February 10th***
+[***ORC-HUNT begins on February 10th***](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/tyrs-burden-ancient-times.md#waterdeep-circa--750dr-part-01)
