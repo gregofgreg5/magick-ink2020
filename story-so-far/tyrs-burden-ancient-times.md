@@ -122,7 +122,7 @@ At the end, Force Grey stood victorious, the orc pack and two strange beasts lay
 
 While Grosh went to investigate the tower, Talib went into search the shaman's cave. No stranger to magic and an experienced Waterdeep investigator, Talib was initially taken aback. Floating above a pit with green flame and embers was a staff. Illuminated in the same eerie glow, two creatures were beginning to form beneath it, in front of the pit.
 
-![](https://i.imgur.com/OykPZI0.jpg)
+![](https://i.imgur.com/Gl5V62n.jpg)
 
 Without hesitation, Talib reached out and grabbed the staff. There was some resistance, it held firm for a split second and then came free. The pit went dark, the glow dissipated and the staff went from hot to lukewarm to cold in his hands in seconds.
 
