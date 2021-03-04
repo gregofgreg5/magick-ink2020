@@ -28,11 +28,11 @@
 
 **Group affiliations:** Force Grey
 
-**Place of birth:**
+**Place of birth:** Gnomercy
 
-**Family:**
+**Family:** none
 
-**Other relationships:**
+**Other relationships:** Exiled from Gnomercy
 
 **Religion/Deity(s):** Gond
 
@@ -44,15 +44,15 @@
 
 **Weight:** 80 lbs
 
-**Eye color:**
+**Eye color:** Blue
 
-**Hair color:**
+**Hair color:** Black
 
 ## Plot Hooks
 
-**Short term goals:** _(current motivation)_
+**Short term goals:** _(current motivation)_ Perfect his craft as an artificer and make a home for himself in Waterdeep along the way.
 
-**Long term goals:** _(what do you want to be when you grow up?)_
+**Long term goals:** _(what do you want to be when you grow up?)_ Maybe gain respect with the Warforged Artificer to maybe find a way back to Gnomercy.
 
 **Plots You Would Like to See Your Character Experience:** _(where do we go from here?)_
 
