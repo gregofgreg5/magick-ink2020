@@ -50,13 +50,15 @@
 
 ## Plot Hooks
 
-**Short term goals:** _(current motivation)_ Perfect his craft as an artificer and make a home for himself in Waterdeep along the way.
+**Short term goals:** Perfect his craft as an artificer and make a home for himself in Waterdeep along the way.
 
-**Long term goals:** _(what do you want to be when you grow up?)_ Maybe gain respect with the Warforged Artificer to maybe find a way back to Gnomercy.
+**Long term goals:** Maybe gain respect with the Warforged Artificer to maybe find a way back to Gnomercy.
 
 **Plots You Would Like to See Your Character Experience:** _(where do we go from here?)_
 
-**Tell your story:** _(history)_
+**Tell your story:** In a Far away land TBD, in the realm of the artificers, there is a mountain home of Gnomercy.  Here Here the gnomes join the dwarves and other races that masters of tool and ore to make their wonderous inventions and weapons of dread.
+
+Gunmetal has a habit having his mouth write a check his ass can't cash.  Since he's good at his work and is actually kinda smart, he usually gets himself out of trouble.  
 
 **Preferred weapon:**
 
