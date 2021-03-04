@@ -85,6 +85,6 @@ Once set up in his new shop, Gunmetal started making improvements to Robo-Doggo 
 He is determined to make himself a new future to atone for his past.  He clearly has his father’s ability for making weapons, but is tempered by the memory of his mother’s kindness and humbled by his exile.  But sometimes – sometimes – that mouth still needs help with editing.
 
 
-**Preferred weapon:**
+**Preferred weapon:**  It was his greeat axe and returning hand axe, but now he has this arrowless bow...
 
 [ipa]: https://en.wikipedia.org/wiki/Help:IPA/English
