@@ -1,6 +1,6 @@
 # Diegesis Academy
 
->"Knowledge is at the heart of all true power." - **Sena**, First Curator of the *College of Archemi*, 817 AC
+>"Knowledge is at the heart of all true power." - **Sena**, First Curator of the *College of Achemi*, 817 AC
 
 **The Academy** is devoted to the gathering, protecting and understanding the universe through the Great Diegesis.
 
