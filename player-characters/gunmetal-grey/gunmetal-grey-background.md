@@ -1,4 +1,4 @@
-# Character name
+# Gunmetal Grey
 
 **Pronunciation:** [IPA][ipa] _pronunciation_
 
