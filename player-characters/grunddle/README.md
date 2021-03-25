@@ -1,4 +1,4 @@
-Grunddle files
+# Grunddle (*Tavernlords*)
 
 [background](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/grunddle/grunddle-background.md#grunddle)
 
