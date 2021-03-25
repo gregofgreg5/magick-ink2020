@@ -1,6 +1,4 @@
-Manny
-
-Force Grey
+Manny (*Force Grey*)
 
 Items
 
