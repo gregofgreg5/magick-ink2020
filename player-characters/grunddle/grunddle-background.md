@@ -1,3 +1,4 @@
+# Grunddle
 ![Grunddle](https://github.com/losttrain68/character-ideas/blob/main/images/Grunddle_portrait.jpg)
 
 **Public name:** *(Displayed name)* Grunddle
