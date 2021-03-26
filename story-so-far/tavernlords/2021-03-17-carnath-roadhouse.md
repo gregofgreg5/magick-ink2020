@@ -2,7 +2,7 @@
 
 ## The road to the Roadhouse (March 17, 2021)
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/roadhouse.jpg?raw=true)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/mere-of-deadmen.jpg?raw=true)
 
 Recovering from the battle, the Tavernlords decided to hold up overnight to rest and recover, in case they encountered more trouble on the road. Sufari, only needing four hours to recover, decided to scout ahead to try to unearth any danger. She traveled about thirty minutes and then waited, when it was safe, she'd move on again. Thirty minutes or so at a time.
 
