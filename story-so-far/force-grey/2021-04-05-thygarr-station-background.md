@@ -11,6 +11,7 @@ While Thygarr Station is off of the main line of the thruway, it still connects 
 
 # Station Personnel
 ## Senior Station Superintendent Hycks
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/sr-station-super-hycks.jpg?raw=true)
 A drow, many people believe that Hycks is descendant of the dark elves who helped establish Thyrgarr Station on this plane, although no one really knows for sure and he has never confirmed nor denied his lineage.
 
 Hycks has been a presence in Thyrgarr Station for over two hundred years. He worked in various roles throughout the station, including posts in security and a long stint as Deputy Station Master. His quiet and pleasant demeanor barely conceals a fierce and deadly set of skills.
@@ -18,14 +19,15 @@ Hycks has been a presence in Thyrgarr Station for over two hundred years. He wor
 A private man, with seeming little interests outside of his work, like most employees, he lived in a stateroom on the station. 
 
 ## Deputy Station Manager Yr'ylleh
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/deputy-yr'ylleh.png?raw=true)
 Yr'ylleh, a mindflayer, has worked in the Astral Thruspace for over 75 years. He is a *regular company man* who has climbed the ranks in about half a dozen different enterprises, before settling in with the Thyrgarr Thruspace Engineers, LLC. about 15 years ago. He has a reputation throughout Thruspace as being a particularly efficient and effective administrator.
 
 He is considered a *consummate administrator*, a true bureaucrat at heart. Many see him as a creature of rules and a bastion or order. Ever guarded, he has always hidden his true self beneath his professional façade.
 
 On the surface, he appears as ice cold as any Illithid, but deep down a fiery passion burns.
 
-
 ## Deputy Station Manager Grunthraxx
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/deputy-gruntharaax.jpg?raw=true)
 Gruntharaax seems like a rarity among his kind. His intelligence is staggering for a barlgura. Known throughout the lower hells as much for their brutality as their dim wit, barlgura are considered experts at guerilla warfare and excellent scouts. Gruntharaxx, however is no ordinary barlgura. The story goes, Gruntharaax had been part of a scout unit that had been sent through one of the portals before Thyrgarr station was established. He had been *lost*, trapped in-between portals for centuries before one day he emerged from the *time pool* with a sheer cunning and intellect. 
 
 Gruntharaxx has worked on the station for almost 30 years. He started as a member of station security and worked his way up to Deputy Station Master. He is also has developed connections to any number of cartels and criminal organizations throughout the thruway.
@@ -33,6 +35,7 @@ Gruntharaxx has worked on the station for almost 30 years. He started as a membe
 As the Deputy Station Master he is regarded as fierce and inflexible. While only Hycks and Yr'ylleh for sure, it is believed that Gruntharaxx employs about two hundred security guards of dozens and dozens of races.
 
 ## Dispatcher Raahzz
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/raahzz.jpg?raw=true)
 Raahzz is an ogre slug. A dedicated and hard-working employee of Thyrgarr Thruspace for as long as she can remember, she worked temp job after temp job until she started working dispatch. She worked dispatch for two other stations before coming to this one. 
 
 In the center of the lobby, many frequent travelers and members of administration view her as the actual center of the station. Gruff and, at the same time friendly, she remembers the name of everyone she meets and *something about them*. Sometimes it's even something that's true.
