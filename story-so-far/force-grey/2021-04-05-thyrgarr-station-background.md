@@ -1,4 +1,4 @@
-# History of the Station
+# Thyrgarr Station Background
 >Thyrgrarr Station has been owned and operated by  Thyrgarr Thruspace Engineers, LLC. for almost two thousand consecutive planar years. Serving as your *prime material* connection to the Astral Thruway.
 >
 >***From here you can go anywhere*** has been the motto of this humble *can do* little station. 
