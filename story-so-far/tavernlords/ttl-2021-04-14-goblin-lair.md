@@ -64,4 +64,5 @@ At the end of the raid on the outpost the Tavernlords had a gob and ogre prisone
 
 
 *Fat Cobra is waiting*
-![image](![](https://i.imgur.com/MBkMBdJ.png)
+
+![image](https://i.imgur.com/MBkMBdJ.png)
