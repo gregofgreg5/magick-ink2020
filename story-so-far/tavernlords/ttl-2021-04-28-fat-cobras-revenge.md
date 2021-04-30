@@ -17,6 +17,8 @@ Just like that the serenity of the afternoon was broken by a hail of violence. S
 
 The glade fell eerily silent and still as the mighty dragonborn strode into the battlefield. Then suddenly another volly of projectiles filled the air. Sufari and Vold both took hits. As Vold grew angrier, Sufari was once again beginning to re-think this whole *going first* thing, or maybe she wasn't.
 
+![image](https://media.giphy.com/media/uBcJXf8yuHqAo/giphy.gif)
+
 Meanwhile, below on the stairs, Grunddle cast a [sanctuary](https://www.dndbeyond.com/spells/sanctuary) spell on Erethil, giving the ever-dangerous shapeshifter that much more protection befor he slid out, in giant spider form onto the field.
 
 Erethil wasted no time, shifting quickly into panther form and leaping into the tree line, the bolting up into the canopy of low branches. From his new vanatage point he could see two goblin archers taking aim and firing at his friends.
