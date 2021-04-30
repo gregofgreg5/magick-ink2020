@@ -46,7 +46,9 @@ So now they knew that not all of their foes were real, but which was real and wh
 
 Below, Grunddle and *Bandit* the flying monkey woke Sufari. Just in time to see the hatch open and the captain, Gerrish peer down at them and toss in another ball of yarn!
 
-One of the goblins got off a clean blow with his scimitar and knocked the Trollskull mimic out cold. Even more enraged Vold tore straight through the Gob.
+One of the goblins got off a clean blow with his scimitar and knocked the Trollskull mimic out cold. Even more enraged Vold tore straight through the Gob. Getting into the *spirit* of the moment and the atmosphere Erethil shifted into giant toad! Fierce and menacing, the *Ere-toad* chomped one of the last goblins. As Vold dispatched the last of them.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/giant%20toad.jpg?raw=true)
 
 Sufari managed to avoid being put to sleep by Gerrish for a third time. Grunddle was not so lucky. The goblin captain advanced on them with his gleaming handaxe. Sufari stepped back and fired her bow, after helping Grunddle come back around.
 
