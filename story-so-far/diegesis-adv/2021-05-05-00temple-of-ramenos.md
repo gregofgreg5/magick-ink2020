@@ -17,6 +17,8 @@ They were part of a team of adventurers who had been together for almost five ye
 And then they were gone. Over a year went by and no one heard hide nor hair of any of them. Least of all Tal or Einric. That was 70 years ago.
 
 ## Eklas Kisri
+![image](https://user-images.githubusercontent.com/75657964/116946509-23438500-ac2f-11eb-9b19-34e9f0a621d2.png)
+
 About a year ago an adept in Leilon reported to the Academy that she believed that she had recovered equipment that may have belonged to an adept and he continued to scour the area and eventually found three tomes hidden a cave, concealed, buried in a wall: Einric's last journals. In them, she recounted that the two legendary adepts had indeed found something astonishing.
 
 A veteran adept, Eklas Kisri and two couriers were dispatched at once to retrieve the tomes. Shortly after they took possession of the tomes, trouble began along the High Road between Leilon and Waterdeep, where they were expected to book passage on a ship back to Westgate. However, not wanting to risk the raiders, and being experienced travelers in the Mere, Kisri felt the safer choice would be to travel off of the beaten path. 
@@ -40,9 +42,11 @@ Scholars had determined that the staff was once powerful, but appeared to have l
 
 The experts had determined that it had it's origins in the Mere. And because of it's simplicity, it's lack of apparent purpose or even fashion, that it was unlikely to have belonged to the Dragon Cult. They could not even imagine a plausible use for it in the hands of lizardfolk, unless it was some kind shamanic tool. It was ruled out as being shamanic by it's lack of detailing or ornament. In fact the only distinguishing features that were still visible to either mundane or magical eye were a few, slight and inobvious carvings. Almost more random scratches than intentional carvings, only their briefly repeated pattern suggested that they held any significance. Harriet spent a week staring at them, researching them, re-drawing them, trying to make something out of them, but alas, filed her musings with the rest of the notes that would accompany the relic.
 
-If not the dragons or lizardfolk, the staff's origin pointed to one of the other long-time consistent resident of the Mere, bullywugs. But the wugs had been observed to be less organized, with a distinct lack of social or cultural, communal development characterized their nomadic groupings. The most obvious permanent, non-transient, remnant of any wug *society* was the loose connection to the ruins of the Temple of Ramenos. Ramenos was a grotesque deity whose time in the Mere waned at the dawn of the Dragon Age. Little was known about the workings of, the goings on, in the Temple of Ramenos, when it was active. To the Academy's knowledge there were no writings from the era, no oral history that anyone knew of, only the legends that the bullywugs were part of the order whom worshiped the deity, who was best characterized by it's horribleness, in form and function.
+If not the dragons or lizardfolk, the staff's origin pointed to one of the other long-time consistent resident of the Mere, bullywugs. But the wugs had been observed to be less organized, with a distinct lack of social or cultural, communal development characterized their nomadic groupings. The most obvious permanent, non-transient, remnant of any wug *society* was the loose connection to the ruins of the Temple of Ramenos. 
 
 ![image](https://user-images.githubusercontent.com/75657964/116943497-8b429d00-ac28-11eb-8144-7915fe75ab4f.png)
+
+Ramenos was a grotesque deity whose time in the Mere waned at the dawn of the Dragon Age. Little was known about the workings of, the goings on, in the Temple of Ramenos, when it was active. To the Academy's knowledge there were no writings from the era, no oral history that anyone knew of, only the legends that the bullywugs were part of the order whom worshiped the deity, who was best characterized by it's horribleness, in form and function.
 
 It was in the margins of a note about the Temple of Ramenos that Harriet had found a crude sketch, a doodle or a scribble almost. A scribble that was similar, very similar to some of markings on the petrified staff that she had so recently been studying. Different, for sure, but similar. Similar enough to make the connection. 
 
@@ -50,5 +54,6 @@ Given the connection that she discovered, Harriet was asked to go investigate th
 
 Four seasoned adepts did indeed seem like overkill for this particular mission, to investigate a trail that had gone cold almost half a century earlier. But there was a significant gravity to anything that had anything to do with Einric, especially since it involved traveling into the wilds of the Mere. 
 
+![image](![image](https://user-images.githubusercontent.com/75657964/116946454-ff803f00-ac2e-11eb-9b53-fae3224e61cf.png)
 
 **To Be Continued**
