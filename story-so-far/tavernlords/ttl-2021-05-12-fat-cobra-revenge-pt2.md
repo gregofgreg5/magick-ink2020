@@ -61,6 +61,7 @@ Sufari let loose another arrow, at the remaining goblin. The goblin continued, G
 ## Aftermath
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/weeping-willow-fall02-sm.png?raw=true)
+
 With the immediately threat apparently dispatched, the team looked around and could detect no further danger. Vold went to kick in the front door, but it was already smashed in. Inside they saw another dead orc, *Lev*, lay dead in the middle of the room. Around the room they saw two more goblins, a strangely armored kenku, a similarly armored skeleton and standing in the back of the room was Harry Stamph, the son of the Lady Grace, the Inn's proprietor. He was shouting up the stairs...
 >You can't hide forever mother! We've killed all of your babysitting orcs! Is that stinking gnome still alive up there? We're coming mother! You can't stop us! No one can!!!
 
