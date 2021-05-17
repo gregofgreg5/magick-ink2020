@@ -72,6 +72,7 @@ With the immediately threat apparently dispatched, the team looked around and co
 ***No one?...***
 <br>
 **What will these guys have to *say* to anyone who tries...?**
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/weeping-willow-fall-samurai-team.jpg?raw=true)
 <br>
 **Find out if anyone does on 5/26/2021!!!**
