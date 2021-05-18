@@ -38,9 +38,9 @@ In the road before them was one of the Inn's *protector Orc's*, Chick the trio's
 
 Erethil and Vold saw at least two goblins and menacing the door was an ogre. Vold signaled to the rest of the team as they emerged from the elemental.
 
-Enthusiastically, Sufari lead off with an arrow into the ogre. One of the goblins returned fire and dug an arrow into Sufari. Erethil cast [moonbeam](https://roll20.net/compendium/dnd5e/Moonbeam#content) and an agonizing, blazing light seared into the ogre. Enraged the ogre closed on Sufari and smashed her with his club.
+Enthusiastically, Sufari lead off with an arrow into the ogre. One of the goblins returned fire and dug an arrow into Sufari. Erethil cast [moonbeam](https://roll20.net/compendium/dnd5e/Moonbeam#content) and an agonizing, blazing light seared into the ogre. Enraged the ogre closed on Sufari and smashed her with his club. From the distance, where he and Erethil had been making cover, the Mighty Vold reared back, took a running start and then leaped, clear over Sufari and Erethil covering the distance between himself and the goblin in a single bound!
 
-The mimic reached out and struck the first goblin. A second goblin popped out and fired an arrow at Vold, who deftly missed it. Sufari stepped away to create space to fire again and the ogre clubbed her again. She spun and fired another arrow into the ogre. The ogre continued pounding on her as Grunddle's flying monkey came over to render aid to Sufari's attacks.
+Upon landing, the mimic reached out and struck the first goblin. A second goblin popped out and fired an arrow at Vold, who deftly missed it. Sufari stepped away to create space to fire again and the ogre clubbed her again. She spun and fired another arrow into the ogre. The ogre continued pounding on her as Grunddle's flying monkey came over to render aid to Sufari's attacks.
 
 A third goblin emerged and attacked Vold with a scimitar, but missed. The first goblin closed again and continued it's attack on Sufari, cutting into her with his scimtar. 
 
