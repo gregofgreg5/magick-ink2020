@@ -1,4 +1,6 @@
 # The Temple of Ramenos (part 2)
+Continued from [*The Temple of Ramenos (part 1)*](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/diegesis-adv/2021-05-05-the-temple-of-ramenos.md#2021-05-05-the-temple-of-ramenos)
+
 ## Lorath
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/lorath-sm.jpg?raw=true)
 
