@@ -130,7 +130,7 @@ The Sword surrounded them and drew their wagon and *warhorse*... Vold didn't rem
 **What about the Sword of Leilon?**
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/sword-logo-framed-sm.jpg?raw=true)
 
-**And what about *AJ*?...***
+**And what about *AJ*?...**
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/aj-framed.jpg?raw=true)
 
 
