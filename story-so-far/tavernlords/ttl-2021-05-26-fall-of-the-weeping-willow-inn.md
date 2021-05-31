@@ -139,7 +139,7 @@ The Sword surrounded them and drew their wagon and *warhorse*... Vold didn't rem
  * Decide on some venture capital projects
  * Talk about what they've been up to and what they might want to do next
 
-All in preparation for the upcoming ***Finaleof the *Waterdeep Heist/Manshoon* adventure!***
+All in preparation for the upcoming ***Finale of the *Waterdeep Heist/Manshoon* adventure!***
 *Which couldn't possibly have anything to do with the Mere of Deadmen, could it?*
 
 **Coming Soon!**
