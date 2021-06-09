@@ -7,8 +7,10 @@
 
 1. **Trollskull Manor/Tavern**
 	1. Intro: Lubash & Splinters
-	1. Gone missing: Xanyas Fazzanch
- 
+	1. An accusation (edited)
+	2. Gone missing: Xanyas Fazzanch
+	3. Trouble brewing. It's a light roast.
+
 1. **House of Inspired Hands**
 	1. The Quest for Nim
 	2. Making Amends
