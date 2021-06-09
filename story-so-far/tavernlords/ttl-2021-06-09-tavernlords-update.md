@@ -1,4 +1,7 @@
 # 2021-06-09-tavernlords-update
+## Leveling
+1. One level for the completion of the Waterdeep Heist
+2. One level for *in-between time*, including what happens next and the ramifications
 
 # Tavernlords 6/9/2021 Outline
 
@@ -8,7 +11,7 @@
  
 1. **House of Inspired Hands**
 	1. The Quest for Nim
-		2. Making Amends
+	2. Making Amends
 	3. Intro: The Tinkersmith
 
 1. **Expansion!**
