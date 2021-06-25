@@ -19,6 +19,6 @@ Guryon or one of his team recognized two of the *Jons* as having open warrants o
 
 The Tavernlords helped search the *house*, which may have once been a decent boarding house, but was barely holding itself together now. 
 
-Rummaging through one of the rooms, a room no different than any of the others, Jarik found a hidden space between the floorboards. In the space, he found a bag with the unmistakable remains of a nimblewright... their friend *Min*.
+Rummaging through one of the rooms, a room no different than any of the others, Jarik found a hidden space between the floorboards. In the space, he found a bag with the unmistakable remains of a nimblewright... their friend *Min*. The last the Tavernlords knew, Min was on a mission with Nim...
 
 Looks like the hunt for another taproom would have to wait.
