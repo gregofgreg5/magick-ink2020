@@ -13,7 +13,7 @@ Guryon, his three Watchmen and the Tavernlords breached the front door.The propr
 
 The pamphlets had some kind of cryptic riddle. Ursula *pocketed* one of them.
 
-The others were performing some kind naming ceremony on some random cutlery. They rattled off about a dozen names, some of them even recognizable: dark deities, strange gods and would-be greater powers.
+The others were performing some kind naming ceremony on some random cutlery. They were invoking about a dozen names, some of them even recognizable: dark deities, strange gods and would-be greater powers.
 
 Guryon or one of his team recognized two of the *Jons* as having open warrants or being criminals at large. They decided that they didn't like anything that's going on here and that they were going to take the whole lot of these clowns in for questioning or imprisonment for the good of the city. 
 
