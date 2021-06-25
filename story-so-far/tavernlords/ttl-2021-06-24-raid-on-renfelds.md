@@ -1,5 +1,5 @@
 # Raid on Renfeld Manor
-1493-01-16
+1493-01-18 (two days after they began to look for the missing halfling, Xanas)
 
 In the morning, Luzieros and Jarik rounded-up Ursula and Barakka and set out to look at a property that Jarik had found near the southern-end of docks. When they arrived Barakka could immediately see why the price was so attractive, the price was the only attractive thing about building that was once, at best, a dive-bar. Unoccupied and barely standing on it's own, Ursula opted to wait outside while the others went in cautiously with the landlord.
 
