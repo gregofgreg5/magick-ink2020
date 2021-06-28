@@ -63,13 +63,13 @@ The team used stealth to approach the camp and get a better look. There were thr
 ```Gnolls: 3, Quasits: 2, Armanite: 1```
 
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/armanite.png?raw=true)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/armanite.png?raw=true) Armanite
 
 Quickly a plan was hatched, using the same opening salvo as they used in the glades, Remeele cast [hypnotic pattern](https://www.dndbeyond.com/spells/hypnotic-pattern) at the encampment. This time, only two of the creatures fell under her spell, one of the gnolls and one of the quasits.
 
 ```Gnolls: 2(1), Quasits: 1(1), Armanite: 1```
 
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/quasit-sm.png?raw=true)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/quasit-sm.png?raw=true) Quasit
 
 Irasav stepped out of cover and unleashed a flurry of blows, demolishing one of the quasits.  Harriet and Irasav saw something dark and foreboding moving around the battlefield, right before the armanite attacked. Shiluo managed to dodge the hooves, but the creature's serrated tail slashed out, cutting into him.
 
