@@ -74,7 +74,7 @@ And with that the Tavernlords were *unarmed, unarmored and captured*. Of course 
 
 The Tavernlords were brought to a group of four half-orcs, huge muscles and bare-chested, the half-orc used some tools to unlatch two contraptions on each side a large (10x10 foot) square in the ground. Then it took all four of them and all of their strength to lift a giant slab on a hinge, revealing a stairway into the compound's prison.
 
-![image](https://i.imgur.com/eMvAcG5.png](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/fc-prison-escape-start.JPG?raw=true)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/fc-prison-escape-start.JPG?raw=true)
 
 The prison had to be at least 30 feet underground. It was cold and dark, there was absolutely no light, the guards and their bosses being half-orcs and goblins, they didn't need light to see in the dark. There were at least four of them, they moved around a lot as the outside guards brought the Tavernlords down into the prison, making it more difficult to count their number.
 
@@ -284,7 +284,7 @@ The goblin went over to stare at Tal and drifted dangerously close to Vold's cag
 
 The goblin mocked Vold and he spewed another fiery snot and then a punch. His grin turning more fierce and angry.
 
-Meanwhile, in his cell, Grunddle lay down and cast an [minor illsion](https://www.dndbeyond.com/spells/minor-illusion) of himself, lying on the floor. Then cast [reduce/enlarge] (https://roll20.net/compendium/dnd5e/Enlarge%20Reduce#content) on himself, shrinking to much less continable size. He snuck over to the corner of his cage and peered out. He watched as the goblin taunting Vold started walking back towards him and the front of the prison. Grunddle waved his hands and cast [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) with material components pinched from one his Mage Robe's pockets. Suddenly the hallway lit up with a blinding light, piercing through the darkness. 
+Meanwhile, in his cell, Grunddle lay down and cast an [minor illsion](https://www.dndbeyond.com/spells/minor-illusion) of himself, lying on the floor. Then cast [reduce/enlarge](https://roll20.net/compendium/dnd5e/Enlarge%20Reduce#content) on himself, shrinking to much less continable size. He snuck over to the corner of his cage and peered out. He watched as the goblin taunting Vold started walking back towards him and the front of the prison. Grunddle waved his hands and cast [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) with material components pinched from one his Mage Robe's pockets. Suddenly the hallway lit up with a blinding light, piercing through the darkness. 
 
 Using the moment after, as the creatures with darkvision re-adjusted to the darkness, Grunddle slipped through his bars and ran down the corridor to Vold's cell.
 
