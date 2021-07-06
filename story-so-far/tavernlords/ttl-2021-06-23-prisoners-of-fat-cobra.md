@@ -284,15 +284,14 @@ The goblin went over to stare at Tal and drifted dangerously close to Vold's cag
 
 The goblin mocked Vold and he spewed another fiery snot and then a punch. His grin turning more fierce and angry.
 
-Meanwhile, in his cell, Grunddle lay down and cast an [minor illsion](https://www.dndbeyond.com/spells/minor-illusion) of himself, lying on the floor. Then cast [reduce/enlarge](https://roll20.net/compendium/dnd5e/Enlarge%20Reduce#content) on himself, shrinking to much less continable size. He snuck over to the corner of his cage and peered out. He watched as the goblin taunting Vold started walking back towards him and the front of the prison. Grunddle waved his hands and cast [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) with material components pinched from one his Mage Robe's pockets. Suddenly the hallway lit up with a blinding light, piercing through the darkness. 
+Meanwhile, in his cell, Grunddle lay down and cast an [minor illsion](https://www.dndbeyond.com/spells/minor-illusion) of himself, lying on the floor. Then cast [reduce/enlarge](https://roll20.net/compendium/dnd5e/Enlarge%20Reduce#content) on himself, shrinking to much less continable size. He snuck over to the corner of his cage and peered out. He watched as the goblin taunting Vold started walking back towards him and the front of the prison. Grunddle waved his hands and cast Prestidigitation! Suddenly the hallway lit up with a blinding light, piercing through the darkness. 
 
 Using the moment after, as the creatures with darkvision re-adjusted to the darkness, Grunddle slipped through his bars and ran down the corridor to Vold's cell.
 
 The goblin, dazed by the lights staggered back towards Vold. Hollering at him in goblin, blaming him for the fireworks.
 
-Gunddle stepped behind the mighty dragonborn. Across the aisle, in the cell to the right, Tal saw what was coming and even though her cell wasn't exactly in the line of fire, she moved over to the other side, just in case.
+Gunddle, having moved under the door to Vold's cell and cast the Tavernlord's trademark [thunderwave](https://www.dndbeyond.com/spells/thunderwave) at the goblin. The devastating spell blew the steel door off it's hinges and smashed the goblin against the cell across the corridor and then smashed and impaled it with the remnants of Vold's cell bars! 
 
-Vold just grinned again and cut loose with his fiery breath. The burst of fire tore through the cage, ripping the bars into shred and send the goblin staggered back, smashing it into the cage across from Vold, just about exploding aginst the bars.
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/tal-double-bladed-scimitar.png?raw=true) 
 
 reddit: u/Bone_Merch
