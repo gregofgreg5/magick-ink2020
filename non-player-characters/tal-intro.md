@@ -1,3 +1,6 @@
+# Tal
+*Adept from the Westgate Academy of the Diegesis*
+
 * Tal is a 279 year old elf. 
 * She is an adept from the Diegesis Academy in Westgate. 
 * She had *recently* been studying under an adept adventurer, Einrich.
