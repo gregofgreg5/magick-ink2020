@@ -49,7 +49,7 @@ Vold continued his attack, tearing into the advancing boss, putting all of his s
 
 Seeing the two elfin women slaughter two of his guards, the last boss, pulled out a ball of yarn from his belt. It laughed at them and mockingly tossed the yarn between them. A burst of dust exploded from the ball of yarn... a sleep spell. Immune... Tal just laughed. Sufari just shook it off, dropped the scimitar, reached down picked up the poor excuse for a short bow that the goblin had carried and grabbed what passed for an arrow out of it's quiver. She somersaulted into the middle of the hallway and fired a fatal shot through the half-orc's forehead and into the wall, way behind him.
 
-Vold taunted the last half-orc, he took a moment to open his arms wide, expanding his chest, baring his teet, "Look around!" and then with lightning speed, shoved his fingers through the guard's eyes, killing him instantly.
+Vold taunted the last half-orc, he took a moment to open his arms wide, expanding his chest, baring his teeth, "Look around!" and then with lightning speed, shoved his fingers through the guard's eyes, killing him instantly.
 
 In their cells for less than ten minutes, the Tavernlords found themselves, already freed.
 
