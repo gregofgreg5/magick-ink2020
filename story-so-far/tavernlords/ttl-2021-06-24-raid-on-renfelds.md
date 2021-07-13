@@ -22,3 +22,10 @@ The Tavernlords helped search the *house*, which may have once been a decent boa
 Rummaging through one of the rooms, a room no different than any of the others, Jarik found a hidden space between the floorboards. In the space, he found a bag with the unmistakable remains of a nimblewright... their friend *Min*. The last the Tavernlords knew, Min was on a mission with Nim...
 
 Looks like the hunt for another taproom would have to wait.
+
+## Poor Nim
+Nim was obviously heartbroken when the Tavernlords brought back the remains of Min. At the suggestion that *it would be alright* and that they would help him rebuild his friend, Nim (even more) silently rummaged through the bag until he found a particular chunk of wood with some strange metal *screws* (?) sticking out of it. Without acknowledging them, he took the treasure and sulked back to the cellar, glancing back only once to look quickly at Splinters.
+
+A few hours later, as the Tavern crowd was just starting to fill out, Nim returned. He found Luzeiros, Barakka, Jarik and Usula at the bar. He gently put himself into the middle of the group and pulled out a parchment with a sketch. He pointed at each of them and then the paper and held up two fingers. *Min II, Avenger*. He looked up towards Splinters and nodded then circled the symbol that he had painted at the bottom of the page... the mark of ***The House of Inspired Hands***.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/new-min.jpg?raw=true)
