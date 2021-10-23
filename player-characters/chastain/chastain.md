@@ -31,7 +31,7 @@
  
 **Place of birth:** Born in the fishing village [Jigow](https://criticalrole.fandom.com/wiki/Jigow), of the Kyrn Dynasty. 
 
-**Family:** Father, mother, sister (all in Jigow) that he hadn’t seen since joining the Aurora Watch
+**Family:** Father, mother, sister (all in Jigow) that he hasn’t seen since joining the Aurora Watch
 
 **Other relationships:** Friends with Grace and others from Four Corners; client of Ganthet the Quick who provides him with stimulants and other drugs to stay awake.
 
