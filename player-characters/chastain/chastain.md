@@ -51,9 +51,13 @@
 
 ## Plot Hooks
  
-**Short term goals:** *(current motivation)* His daily goal is to do good and try to help others; his personal motivations are also driven by a fear of falling asleep and waking somewhere else.
+**Short term goals:** *(current motivation)* 
 
-**Long term goals:** *(what do you want to be when you grow up?)* There is a part of Chastain that would like to go back to his life in the Kryn Empire. On the other hand, while he excelled at and enjoyed the life of a soldier, he has found that he also relishes the simple life that he has created in Elturel. He likes his work, his friends and most of all the excitement (and glory) of adventuring with the team. When he can no longer adventure he would like to buy stake Four Corners or some other business, settle down and have children.
+His daily goal is to do good and try to help others; his personal motivations are also driven by a fear of falling asleep and waking somewhere else.
+
+**Long term goals:** *(what do you want to be when you grow up?)* 
+
+There is a part of Chastain that would like to go back to his life in the Kryn Empire. On the other hand, while he excelled at and enjoyed the life of a soldier, he has found that he also relishes the simple life that he has created in Elturel. He likes his work, his friends and most of all the excitement (and glory) of adventuring with the team. When he can no longer adventure he would like to buy stake Four Corners or some other business, settle down and have children.
 
 **Plots You Would Like to See Your Character Experience:** *(where do we go from here?)*
 
