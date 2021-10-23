@@ -66,7 +66,7 @@ Chastain struggles with dread of sleeping, tries to stay awake. Take drugs, supp
 Develop more powers related to [Dunmancy](https://criticalrole.fandom.com/wiki/Dunamancy), particularly his ***unique connection*** to the timestream (let’s just say it, ***multiverse***).
   * Echo gains a HD every once in awhile. In game terms the effect will be to allow the *echo* to take a hit (or two) before being disappated and having to be recalled. Character-wise, his connection to his echoes is growing stronger, in a more unique way than most Echo Knights' leveling because of his backstory.
   * Develop [**Shadow Touched**](http://dnd5e.wikidot.com/feat:shadow-touched): *Invisibility* is his ability to move slightly out of time. The other spell (illusion/necromancy) will be similarly related to his relationship to time.
-  * Gain the ability of [**Precognition**](https://www.dandwiki.com/wiki/Precognition_(5e_Feat)
+  * Gain the ability of [**Precognition**](https://www.dandwiki.com/wiki/Precognition_(5e_Feat))
   * Gain the ability to [**Read Object**](https://www.5esrd.com/spellcasting/3pp-spells/spells-open-design-llc/read-object/) *third party* 2nd level divination spell
 
 **Tell your story:** *(history)*
