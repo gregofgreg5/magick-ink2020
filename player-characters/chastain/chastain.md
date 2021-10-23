@@ -78,4 +78,4 @@ One night he dreamt of a battle. The other him switched places with the echo jus
 Startled awake, Chastain found that he was now that other version of him in a far off land, with surroundings and comrades he barely knew. So far he's been able to convince them that everything is fine. But some are starting to suspect that something's off.
 
 **Preferred weapon:**
-Chastain fights with a long sword in each hand (*Feat:*[Dual Wielder](http://dnd5e.wikidot.com/feat:dual-wielder))
+Chastain fights with a long sword in each hand (*Feat:* [Dual Wielder](http://dnd5e.wikidot.com/feat:dual-wielder) & Two-weapon Fighting sytle)
