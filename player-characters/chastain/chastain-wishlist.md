@@ -11,5 +11,6 @@
 ### He'd like platemail (currently wearing chain)
  * [Last Stand Plate](http://dnd5e.wikidot.com/wondrous-items:last-stand-armor) Explorer's Guide to Wildemount
  * [Mizzium Plate](http://dnd5e.wikidot.com/wondrous-items:mizzium-armor) Guildmaster's Guide to Ravinca
- * magic long swords (he fights with one in each hand)
+
+
 
