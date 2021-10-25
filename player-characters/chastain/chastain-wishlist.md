@@ -12,5 +12,8 @@
  * [Last Stand Plate](http://dnd5e.wikidot.com/wondrous-items:last-stand-armor) Explorer's Guide to Wildemount
  * [Mizzium Plate](http://dnd5e.wikidot.com/wondrous-items:mizzium-armor) Guildmaster's Guide to Ravinca
 
-
+### Miscellaneous
+ * [Stormgirdle (dormant)](http://dnd5e.wikidot.com/wondrous-items:stormgirdle) Explorer's Guide to Wildemount *a reminder he already has a 20 str*
+ * [Cloak (cape) of Displacement](https://www.dndbeyond.com/magic-items/cloak-of-displacement) DM's Guide
+ * [Cape of Mountebank](https://www.dndbeyond.com/magic-items/cape-of-the-mountebank) DM's Guide
 
