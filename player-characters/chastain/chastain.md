@@ -27,7 +27,7 @@
 
 **Base of operations:** Four Corners (usually the tavern)
 
-**Group affiliations:** Valued employee of Four Corners Enterprises; member of whatever we’re calling our group
+**Group affiliations:** Valued employee of Four Corners Enterprises; member of whatever we’re calling our group. Works with the ***Harpers*** (contact: Arabak) and ***The Order of the Gauntlet*** (contact: Harmon Clearsworn)
  
 **Place of birth:** Born in the fishing village [Jigow](https://criticalrole.fandom.com/wiki/Jigow), of the Kyrn Dynasty. 
 
@@ -75,7 +75,9 @@ Chastain was a Knight Sergeant in the ranks of the Kryn’s Aurora Watch. A fier
 
 One night he dreamt of a battle. The other him switched places with the echo just as a magical explosion ripped through them both. 
 
-Startled awake, Chastain found that he was now that other version of him in a far off land, with surroundings and comrades he barely knew. So far he's been able to convince them that everything is fine. But some are starting to suspect that something's off.
+Startled awake, Chastain found that he was now _that other version of himself_ in a some far off land, with surroundings and comrades he barely knew. So far he's been able to convince them that everything is fine. But some are starting to suspect that something's off.
+
+Or maybe he's just crazy, but then where did he learn the ***Echo*** and_ how to fight with it...?_
 
 **Preferred weapon:**
 Chastain fights with a long sword in each hand (*Feat:* [Dual Wielder](http://dnd5e.wikidot.com/feat:dual-wielder) & Two-weapon Fighting sytle)
