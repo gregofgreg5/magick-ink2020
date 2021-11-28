@@ -54,8 +54,11 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
  * Ne'aroff is also employed by at the **_Old Xoblob's_ ** curious shop
 
 > **Who killed Eleventoes?**
+> 
 > **Does Eskander really have the Infernal Register?**
+> 
 > *Is the Infernal Register real?*
+> 
 > *...and what about Eskander?*
 > 
 > 
