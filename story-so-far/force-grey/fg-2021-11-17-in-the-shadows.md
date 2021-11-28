@@ -53,6 +53,7 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
  * The BD think very little of him, in fact, he has been hired to do the occassional, very minor errand - like accompanying others to deliver a message to *bulk up the entourage*
  * Ne'aroff is also employed by at the **_Old Xoblob's_ ** curious shop
 
+## A genuine Force Grey mystery...
 > **Who killed Eleventoes?**
 > 
 > **Does Eskander really have the Infernal Register?**
