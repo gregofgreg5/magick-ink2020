@@ -41,10 +41,10 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
  
 ### Skewered Dragon
  * Gunmetal met a human and half-orc team who told him that Ne'aroff had been coming in regularlly talking about his *big score*
+ * Gunmetal's new friends told him that Ne'aroff tries to *be a big man*, but is often broke, claims to work with the Bregan D'aerthe
 
-### The Order of the
- * Manny found that Barnabus was not available, but his retainer was willing to help him find Eleventoes' killer
- * Despite any *misigivings* the Order might have about Manny in general
+### The Order of Magists and Protectors
+ * Manny found that Barnabus was not available, but his retainer was willing to help him find Eleventoes' killer, despite any *misigivings* the Order might have about Manny in general
  * Manny asked about weapons that could drain the blood of their victims
  * He learned that there are many weapons that can do that, but none specifically that are known to be out in the world right now
 
@@ -52,3 +52,8 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
  * Talib learned that Ne'aroff is known at the guild and isn't highly respeccted
  * The BD think very little of him, in fact, he has been hired to do the occassional, very minor errand - like accompanying others to deliver a message to *bulk up the entourage*
  * Ne'aroff is also employed by at the **_Old Xoblob's_ ** curious shop
+
+## Who killed Eleventoes?
+## Does Eskander really have the Infernal Register?
+*Is the Infernal Register real?*
+*...and what about Eskander?*
