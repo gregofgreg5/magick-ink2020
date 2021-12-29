@@ -84,8 +84,8 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
 ### The Docks
 * The team followed Krentz and his squad to the docks, where they stumbled upon them breaking and entering a broken down warehouse on a pier.
 * ***Talib*** recognized the company name on the warehouse as being one that had been associated with Eskander's import business.
-
-> We adjourned as Force Grey was about to enter the building.
+* With Eskander's boat set on fire as a distraction, **Mannny** swam over and snuck into the building to reconoiter.
+* There were six villains, including two left outside on the pier. And... hiding in the boxes was... Ne'aroff!
 > And we all no nothing good ever happens in games like this,  in *warehouses*…
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/EskanderWarehouseMap01.JPG?raw=true)
