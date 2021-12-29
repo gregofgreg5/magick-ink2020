@@ -68,21 +68,24 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
 ### Everyone rendezvoused at the Skewered Dragon
 * Talib sent Manny to Xobolob's Old Oddities and Curios Shop.
 * Xoblob's is a known fence/trafficker in stolen items: mostly mundane stuff. For the most part the magic items he deals in are moved legitimately (the Order of...) keep a pretty close eye on that part of his traffic.
-* Manny saw Krentz, a known Zhentarim tough guy, talking to Xoblob
-* Xoblob is complaining that this guy hasn't found Ne'aroff he's supposed to find
-* Ne'aroff often worked out of an abandoned warehouse on the docks
+* Manny saw Krentz, a known Zhentarim tough guy, talking to Xoblob.
+* Xoblob is complaining that this guy hasn't found Ne'aroff he's supposed to find.
+* Ne'aroff often worked out of an abandoned warehouse on the docks.
+* It was known that Eskander also worked out of at least one warehouse on the docks.
 
 ### Back at the Skewered Dragon
-* Gunmetal spent too much time at the Skewered Dragon and is two sheets to the wind
-* Talib wondered, if everyone was looking for him, *why would Ne'aroff show up here?*
-* Gunmetal suggested that they go look at wealthy folk who might be looking to purchase magic items
-* Talib said he’d check with *his sources*
+* Gunmetal spent too much time at the Skewered Dragon and is two sheets to the wind.
+* Talib wondered, if everyone was looking for him, *why would Ne'aroff show up here?*.
+* Gunmetal suggested that they go look at wealthy folk who might be looking to purchase magic items.
+* Talib said he’d check with *his sources*.
 * While they continued to wait, Krentz and a couple of his team showed up at the Dragon.
 * Two drow also showed up and parked themselves conspicuously at the bar, watching the comings and going of the other patrons.
 
 ### The Docks
 * The team followed Krentz and his squad to the docks, where they stumbled upon them breaking and entering a broken down warehouse on a pier.
+* ***Talib*** recognized the company name on the warehouse as being one that had been associated with Eskander's import business.
 
 > We adjourned as Force Grey was about to enter the building.
 > And we all no nothing good ever happens in games like this,  in *warehouses*…
 
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/EskanderWarehouseMap01.JPG?raw=true)
