@@ -53,7 +53,7 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
  * The BD think very little of him, in fact, he has been hired to do the occassional, very minor errand - like accompanying others to deliver a message to *bulk up the entourage*
  * Ne'aroff is also employed by at the **_Old Xoblob's_ ** curious shop
 
-## A genuine Force Grey mystery...
+### A genuine Force Grey mystery...
 > **Who killed Eleventoes?**
 > 
 > **Does Eskander really have the Infernal Register?**
@@ -63,3 +63,26 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
 > *...and what about Eskander?*
 > 
 > 
+## Part Two (Decembrer 8. 2021) 
+### On the trail of Ne'aroff 
+### Everyone rendezvoused at the Skewered Dragon
+* Talib sent Manny to Xobolob's Old Oddities and Curios Shop.
+* Xoblob's is a known fence/trafficker in stolen items: mostly mundane stuff. For the most part the magic items he deals in are moved legitimately (the Order of...) keep a pretty close eye on that part of his traffic.
+* Manny saw Krentz, a known Zhentarim tough guy, talking to Xoblob
+* Xoblob is complaining that this guy hasn't found Ne'aroff he's supposed to find
+* Ne'aroff often worked out of an abandoned warehouse on the docks
+
+### Back at the Skewered Dragon
+* Gunmetal spent too much time at the Skewered Dragon and is two sheets to the wind
+* Talib wondered, if everyone was looking for him, *why would Ne'aroff show up here?*
+* Gunmetal suggested that they go look at wealthy folk who might be looking to purchase magic items
+* Talib said he’d check with *his sources*
+* While they continued to wait, Krentz and a couple of his team showed up at the Dragon.
+* Two drow also showed up and parked themselves conspicuously at the bar, watching the comings and going of the other patrons.
+
+### The Docks
+* The team followed Krentz and his squad to the docks, where they stumbled upon them breaking and entering a broken down warehouse on a pier.
+
+> We adjourned as Force Grey was about to enter the building.
+> And we all no nothing good ever happens in games like this,  in *warehouses*…
+
