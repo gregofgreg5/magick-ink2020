@@ -63,7 +63,7 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
 > *...and what about Eskander?*
 > 
 > 
-## Part Two (Decembrer 8. 2021) 
+## Part Two (December 8, 2021) 
 ### On the trail of Ne'aroff 
 ### Everyone rendezvoused at the Skewered Dragon
 * Talib sent Manny to Xobolob's Old Oddities and Curios Shop.
