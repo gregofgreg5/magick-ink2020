@@ -1,6 +1,6 @@
 # Clara (“Dark Claw”)
 ## Bonus actions:
-[Dash]*(https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#dash), [Disengage](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#disengage)*, [Hide](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#hide)* or Steady Aim
+[Dash*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#dash), [Disengage*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#disengage), [Hide*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#hide) or Steady Aim
 
 Telekinetic shove
 _* = usually "actions"_
