@@ -23,6 +23,8 @@ Move: 30x2= 60' (Dash: 120!) Climb: 20x2=40
 ## Combat - once per turn
 **_Sneak attack_ allows her to deal an extra 1d6 (/turn), if you have advantage (which you can get as a bonus action using _Feline Agility_) or if there is another enemy within 5' of your target!**
 
+If you use Feline Agility you **cannot** make a second blade attack
+
 ### Steady Aim (Bonus Action)
 Give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 ***Don't use if you have two enemies within 5ft of each other***
