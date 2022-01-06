@@ -26,9 +26,6 @@ She can make two psychic blade attacks per round.
 
 > If she uses Steady Aim she **cannot** make a second blade attack
 
-*You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.*
-
-
 ## Psionic Power
 > Starting at 3rd level, you harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 > 
@@ -66,11 +63,16 @@ She can make two psychic blade attacks per round.
 ---
 Ignore below this line. Links to info, for above:
 #### Steady Aim (Bonus Action)
-> Give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
-***Don't use if you have two enemies within 5ft of each other***
+> _3rd-level rogue feature_
+> As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+
+**Don't use for Sneak Attack if you have an enemy within 5ft of the target**
 
 #### and Sneak Attack
-> Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. (Psychic blades count as *finesse* and *ranged* weapons!)
+> Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+>
+>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
 #### Cunning Action
@@ -99,7 +101,6 @@ As a **bonus action**, you can try to telekinetically shove one creature you can
 
 #### Psychic Blade
 _3rd-level Soulknife feature_
-
 
 You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the Attack action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
 
