@@ -17,20 +17,14 @@ _* = from [Cunning Action](https://github.com/gregofgreg5/magick-ink2020/blob/ma
 > 
 > Move: 30x2= 60' (Dash: 120!) Climb: 20x2=40 
 
+**Cannot move and use Steady Aim**
 
 ## Combat - once per turn
-**_Sneak attack_ allows her to deal an extra 1d6 (/turn), if you have advantage (which you can get as a bonus action using _Feline Agility_) or if there is another enemy within 5' of your target!**
+She can make two psychic blade attacks per round.
 
-If you use Feline Agility you **cannot** make a second blade attack
+**_Sneak attack_ allows her to deal an extra 1d6 (/turn), if she has advantage** (which she can get as a bonus action using _Steady Aim_) **or if there is another enemy within 5' of your target!**
 
-### Steady Aim (Bonus Action)
-> Give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
-***Don't use if you have two enemies within 5ft of each other***
-
-### and Sneak Attack
-> Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. (Psychic blades count as *finesse* and *ranged* weapons!)
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
-
+> If she uses Steady Aim she **cannot** make a second blade attack
 
 *You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.*
 
@@ -71,6 +65,14 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 
 ---
 Ignore below this line. Links to info, for above:
+#### Steady Aim (Bonus Action)
+> Give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+***Don't use if you have two enemies within 5ft of each other***
+
+#### and Sneak Attack
+> Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. (Psychic blades count as *finesse* and *ranged* weapons!)
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+
 #### Cunning Action
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action
 
