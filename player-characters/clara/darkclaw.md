@@ -15,6 +15,7 @@ _* = usually "actions"_
 
 ### Feline Agility (Use this with Disengage or Dash)
 When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
+
 Move: 30x2= 60' (Dash: 120!) Climb: 20x2=40 
 
 ### Steady Aim (Bonus Action)
