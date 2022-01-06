@@ -57,6 +57,15 @@ You can establish telepathic communication between yourself and others — perfe
 The first time you use this power after each long rest, **you don't expend the Psionic Energy die.** All other times you use the power, you expend the die.
 
 
+
+
+
+
+
+
+
+
+
 ---
 Ignore below this line. Links to info, for above:
 
