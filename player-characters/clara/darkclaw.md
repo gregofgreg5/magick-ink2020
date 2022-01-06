@@ -8,7 +8,7 @@
 * Attack with a second [Psychic Blade](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#psychic-blade)
 
 
-_* = usually "actions"_
+_* = from Cunning Action, usually "actions"_
 
 
 
@@ -69,9 +69,10 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 \
 \
 \
-\
 ---
 Ignore below this line. Links to info, for above:
+#### Cunning Action
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action
 
 **Actions**
 #### Dash
