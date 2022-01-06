@@ -22,7 +22,7 @@ _* = from [Cunning Action](https://github.com/gregofgreg5/magick-ink2020/blob/ma
 ## Combat - once per turn
 She can make two psychic blade attacks per round.
 
-**_[Sneak attack](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#steady-aim-bonus-action)_ allows her to deal an extra 1d6 (/turn), if she has advantage** (which she can get as a bonus action using _Steady Aim_) **or if there is another enemy within 5' of your target!**
+**_[Sneak attack]_ allows her to deal an extra 1d6 (/turn), if she has advantage** (which she can get as a bonus action using [Steady Aim](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#steady-aim-bonus-action)) **or if there is another enemy within 5' of your target!**
 
 > If she uses Steady Aim she **cannot** make a second blade attack
 
