@@ -11,7 +11,7 @@ _* = usually "actions"_
 
 *Can use Feline Agility or Steady Aim each turn, not both! (Because of movement)*
 ## Combat - once per turn
-**Sneak attack allows her to deal an extra 1d6 (/turn), if you have advantage (which you can get as a bonus action using Feline Agility) or if there is another enemy within 5' of your target!**
+**_Sneak attack_ allows her to deal an extra 1d6 (/turn), if you have advantage (which you can get as a bonus action using _Feline Agility_) or if there is another enemy within 5' of your target!**
 
 ### Feline Agility (Use this with Disengage or Dash)
 When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
