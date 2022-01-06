@@ -15,9 +15,9 @@ _* = usually "actions"_
 *Can use Feline Agility or Steady Aim each turn, not both! (Because of movement)*
 
 ## Feline Agility (Use this with Disengage or Dash) NOT a BONUS Action
-When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
-
-Move: 30x2= 60' (Dash: 120!) Climb: 20x2=40 
+> When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
+> 
+> Move: 30x2= 60' (Dash: 120!) Climb: 20x2=40 
 
 
 ## Combat - once per turn
@@ -26,56 +26,50 @@ Move: 30x2= 60' (Dash: 120!) Climb: 20x2=40
 If you use Feline Agility you **cannot** make a second blade attack
 
 ### Steady Aim (Bonus Action)
-Give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+> Give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 ***Don't use if you have two enemies within 5ft of each other***
 
 ### and Sneak Attack
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. (Psychic blades count as *finesse* and *ranged* weapons!)
-
-
-*You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
-
+> Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. (Psychic blades count as *finesse* and *ranged* weapons!)
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
+
+*You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.*
+
+
 ## Psionic Power
-Starting at 3rd level, you harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+> Starting at 3rd level, you harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+> 
+> Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
+> 
+> When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
+> 
+> The powers below use your Psionic Energy dice.
 
-Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
+#### Psi-Bolstered Knack. 
+> When your nonpsionic training fails you, your psionic power can help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy die and add the number rolled to the check, potentially turning failure into success. **You expend the die only if the roll succeeds.**
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
+### Psychic Whisper (Action required to start)
+> You can establish telepathic communication between yourself and others — perfect for quiet infiltration. As an action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy die.**For a number of hours equal to the number rolled**, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
+> 
+> The first time you use this power after each long rest, **you don't expend the Psionic Energy die.** All other times you use the power, you expend the die.
 
-The powers below use your Psionic Energy dice.
-
-##### Psi-Bolstered Knack. 
-
-When your nonpsionic training fails you, your psionic power can help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy die and add the number rolled to the check, potentially turning failure into success. **You expend the die only if the roll succeeds.**
-
-#### Psychic Whisper (Action required to start)
-
-You can establish telepathic communication between yourself and others — perfect for quiet infiltration. As an action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy die.**For a number of hours equal to the number rolled**, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
-
-The first time you use this power after each long rest, **you don't expend the Psionic Energy die.** All other times you use the power, you expend the die.
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 ---
 Ignore below this line. Links to info, for above:
 
