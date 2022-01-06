@@ -4,7 +4,7 @@
 
 [Telekinetic shove](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#telekinetic-shove)
 
-**Attack with a second Psychic Blade**
+**Attack with a second [Psychic Blade](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#psychic-blade)**
 _* = usually "actions"_
 
 
