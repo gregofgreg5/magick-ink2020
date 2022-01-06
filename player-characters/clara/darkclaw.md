@@ -8,7 +8,7 @@
 * Attack with a second [Psychic Blade](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#psychic-blade)
 
 
-_* = from Cunning Action, usually "actions"_
+_* = from [Cunning Action](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#cunning-action), usually "actions"_
 
 
 
@@ -54,6 +54,7 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 > 
 > The first time you use this power after each long rest, **you don't expend the Psionic Energy die.** All other times you use the power, you expend the die.
 
+
 \
 \
 \
@@ -68,6 +69,8 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 \
 \
 \
+\
+
 ---
 Ignore below this line. Links to info, for above:
 #### Cunning Action
