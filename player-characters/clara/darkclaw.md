@@ -68,7 +68,6 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 \
 \
 \
-\
 ---
 Ignore below this line. Links to info, for above:
 #### Cunning Action
