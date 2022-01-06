@@ -3,6 +3,8 @@
 [Dash*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#dash), [Disengage*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#disengage), [Hide*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#hide) or [Steady Aim](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#steady-aim-bonus-action)
 
 [Telekinetic shove](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#telekinetic-shove)
+
+**Attack with a second Psychic Blade**
 _* = usually "actions"_
 
 
@@ -23,7 +25,9 @@ Give yourself advantage on your next attack roll on the current turn. You can us
 ***Don't use if you have two enemies within 5ft of each other***
 
 ### and Sneak Attack
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. (Psychic blades count as *finesse* and *ranged* weapons!)
+
+
 *You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
@@ -51,3 +55,13 @@ You learn to move things with your mind, granting you the following benefits:
 
 #### Telekinetic Shove
 As a **bonus action**, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
+
+
+#### Psychic Blade
+_3rd-level Soulknife feature_
+
+
+You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the Attack action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
+
+
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.
