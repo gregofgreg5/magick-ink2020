@@ -30,7 +30,7 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 
 
 ---
-Links to info, for above:
+Ignore below this line. Links to info, for above:
 
 **Actions**
 #### Dash
