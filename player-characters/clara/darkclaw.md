@@ -1,10 +1,13 @@
 # Clara (“Dark Claw”)
-## Bonus actions:
-[Dash*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#dash), [Disengage*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#disengage), [Hide*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#hide) or [Steady Aim](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#steady-aim-bonus-action)
+## Bonus action
+* [Dash*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#dash)
+* [Disengage*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#disengage)
+* [Hide*](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#hide)
+* [Steady Aim](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#steady-aim-bonus-action)
+* [Telekinetic shove](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#telekinetic-shove)
+* Attack with a second [Psychic Blade](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#psychic-blade)
 
-[Telekinetic shove](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#telekinetic-shove)
 
-**Attack with a second [Psychic Blade](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#psychic-blade)**
 _* = usually "actions"_
 
 
