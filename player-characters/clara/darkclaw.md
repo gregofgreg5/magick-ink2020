@@ -1,6 +1,7 @@
 # Clara (“Dark Claw”)
 ## Bonus actions:
-Dash*, Disengage*, Hide* or Steady Aim
+[Dash]*(https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#dash), [Disengage](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#disengage)*, [Hide](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/clara/darkclaw.md#hide)* or Steady Aim
+
 Telekinetic shove
 _* = usually "actions"_
 
@@ -11,10 +12,10 @@ When you move on your turn in combat, you can double your speed until the end of
 Move: 30x2= 60' (Dash: 120!) Climb: 20x2=40 
 
 ## Combat - once per turn
-Steady Aim (Bonus Action)
+### Steady Aim (Bonus Action)
 Give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
-and Sneak Attack
+### and Sneak Attack
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
