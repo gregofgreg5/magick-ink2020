@@ -1,6 +1,6 @@
 # In The Shadows of Waterdeep
-## Part One (November 17. 2021) 
-### The murder of Delfh Eleventoes
+## Chapter One: The murder of Delfh Eleventoes
+### Part One (November 17. 2021) 
 ### The fifth day of Hammer in the year 1493
 Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An old friend of Manny's, Delfh Eleventoes, a known ne'er-do-well and scoundrel, was found murdered.
  * Eleventoes was a known scoundrel and ne'er-do-well around Waterdeep.
@@ -89,3 +89,40 @@ Six days after Manny, Talib and Gunmetal saved the world from Cavalier Villa. An
 > And we all no nothing good ever happens in games like this,  in *warehouses*…
 
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/EskanderWarehouseMap01.JPG?raw=true)
+
+## Part Three (January 12, 2022)
+## Warehouse Ambush: Ambushing the ambush
+* Manny continued his stealth-antics and "Come with me if you want to live" Ne'aroff. The two them made a mad dash escape into the hole in the floor.
+* Gunmetal was still inebriated, but the Robo-raptor pulled it's weight.
+* Talib made the most of the cover around the dock.
+* Manny reached the dock and demanded the Zhents surrender to their authority.
+	* ***Krentz*** retreated into the warehouse.
+	* Given the opportunity escape, ***Lu Siphor*** swam off.
+	* ***The Eel***, one of the more dangerous of Krentz crew, had exhausted his primary arsenal, and surrendered.
+	* ***One-eyed Charlie***, overwhelmed by the dwindling numbers on his side, surrendered.
+	* ***Lucky*** made a break for it and raced away into the night.
+	* ***Sticky*** didn't make it long enough to surrender.
+
+### The Bladewraith
+Manny & Talib went after Krentz in the warehouse. They found him dead, with a wound cut into his chest, similar to the two that struck down Eleventoes.
+They were able to surprise the *sheet of darkness* and slay the Bladewraith. To their surprise, upon it's defeat, it turned into a simple blade!
+
+* Ne'aroff reluctantly surrendered into the custody of Force Grey and began singing like a canary.
+	* Ne'aroff claimed to be working **with** Eleventoes!
+	* He had known Eskander for a long time, so when he the smuggler showed up last week with a scheme that sounded like a windfall.
+	* But Eskander was different and seemed to grow darker and more disturbing each time he met with him.
+	* He became even more dismayed when it started to sound like that Eskander was looking for something other than gold.
+	* He was supposed to deliver something from Xoblob to Eskander, but Eskander didn't show.
+	* Ne'aroff started to work with Eleventoes to get out the scheme.
+	* He was there when Eleventoes was killed. He told them that he was killed by this living darkness.
+	* He has a list of the people that Eleventoes was investigating.
+
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/eleventoes-list.png?raw=true)
+
+### Mysteries remain.
+* Force Grey has a pretty good idea of **how** Eleventoes was killed and by ***what***...
+* It was surmised that this *thing* (the Bladewraith) was doing someone else's bidding, **but who???**
+* **Where is Eskander? And what is he up to?**
+* Oh yeah, and then there's the business of this **Infernal Register*...
+
+
