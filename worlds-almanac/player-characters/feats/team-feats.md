@@ -4,7 +4,7 @@ https://www.reddit.com/user/FalconAt/
  
 
 Teamwork Feats
-Teamwork feats are feats that the whole party gets at once. This feat is granted to all members of the team, current and future. Parties with teamwork feats are hereafter referred to as "teams." Teams tend to only include player characters and any bonded creatures/NPCs (such as familiars) and not random NPCs or incidental allies. There must be at least two members of the team active in combat in order to use these feats.
+Teamwork feats are feats that the whole party gets at once. This feat is granted to all members of the team, current and future. Parties with teamwork feats are hereafter referred to as "teams." Teams tend to only include player characters and any bonded creatures/NPCs (such as familiars) and not random NPCs or incidental allies. In order to learn the team feat (s) the character/npc must train/adventure with the team for a *reasonable* amount of time or exerience. There must be at least two members of the team active in combat in order to use these feats
 
 ## Team Initiative:
 Your party have learned to intuitively cooperate during battle. This feat allows the party to act on the same turn, using the same initiative slot. Movement and actions may be discussed and executed in any order within that initiative slot. Members can choose to act outside of their team's turn if they wish, either by readying an action, or by rolling their own initiative. Players may leave or rejoin the team initiative at any time, so long as they do not gain any extra actions or get their turn sooner.
