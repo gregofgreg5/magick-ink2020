@@ -138,9 +138,13 @@ Lee Dohm (*Isarav*), Andy Smith (*Harriet* & *Shiluo*), Carter Smith (*Remeele*)
 * **Grunddle's** inspection activated a recorded message:
 
 >Whoever receives this message. There is a terrible alliance that must be stopped at all costs. It endangers all of Faerun, perhaps the entire plane of existence. Batrachi have returned and have a legion of bullywugs, they are allied with Yuan-ti, and have awakened the ancient, deity **Ramenos**.
+>
 >It appears that they have opened a rupture in the universe and unspeakable creatures... oh, creatures beyond the imagination are manifest. Even in their great numbers, the batrachi and their allies are over-matched, but the damage is done. They have awakened the sleeping Ramenos and torn a hole in the sky, unleashing who knows what.
+>
 >There is a portal at the Tower of Darkness that leads to ***Smaragd***, beneath the giant's skeleton. I believe that there are more of them on the other side... Smaragd. They must be stopped.
+>
 >Do not go to West Harbor for aid or succor, they are also aligned with this dark menace. I know not their intentions, but the authorities at Waterdeep or Leilon should be made to know of their conspiracy with this.
+>
 >I am **Einrich**, an adapt from the Diegesis of Westgate. I have been mortally wounded and these are my final words.
 * The looming darkness and foreboding shapes moving in the sky filled them with dread, but it was decided that they needed to follow-up on Einrich's message and investigate the Illefarn Portals (his last known location) and seek out whatever was happening in the East... where the *monstrosity had come from*.
 * The teams re-traced the Diegesis team's route back into the tower, over **the strange chasm of chaos** and through the free-standing doorway.
