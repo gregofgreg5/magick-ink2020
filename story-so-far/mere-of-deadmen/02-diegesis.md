@@ -10,6 +10,7 @@ Lee Dohm (*Isarav*), Andy Smith (*Harriet* & *Shiluo*), Carter Smith (*Remeele*)
 * **Shiluo de Lung** is from the *T'u Long *region, where he studied at the local Diegesis college. When Shiluo was about to begin his career as an adept of the order, tragedy struck. Without explanation, he and others were evacuated from the college just before raiders descended on it, razing the buildings, burning the library and books, and killing all that remained. They would later learn that the Diegesis was forewarned of the attack and had secretly relocated the library's most precious tomes and scholars weeks ahead of the raid. Those that had remained at the school were volunteers and retirees who sacrificed themselves to keep the secret library safe and make the attackers believe that they had accomplished their nefarious goal. Some of those evacuated traveled to other colleges to continue their study, but most drifted out into the world to seek other fortunes.
 * Shiluo found his way to the coast, embraced life as a sailor, and found what he believed to be his true calling as a wanderer of the seas. Though Shiluo has not adopted a new College, he is willing to give safe harbor and training to young adepts that find him.
 * **Irasav** (bronze dragonborn) is an adept monk from the Diegesis College in Westgate, who had until very recently been traveling back East. An experienced adept and master of martial arts, he is already in his sixties (dragonborn typically live to about 80), he has had a career that has covered ground from the Sword Coast to Murghôm and points in-between. 
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/diegesis-cast.jpg?raw=true)
 
 ## The mystery
@@ -26,6 +27,7 @@ Lee Dohm (*Isarav*), Andy Smith (*Harriet* & *Shiluo*), Carter Smith (*Remeele*)
 * **Shiluo** served as one of the Ship's *Sea Masters* on the ***Admiral's Yalman***, the vessel which **Irasav** had also signed on to a few years before.
 * They picked up **Remeele** and **Harriet** at Westgate.
 * The four of them took a dinghy to the Mere, at the shore of the Temple of Ramenos, with plans to meet the Yalman at West Harbor in 15 days. The Yalman would wait two days and then continue on their way, to return two months later to pick-up **Shiluo** (and **Irasav**).
+
 ![Image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/chester-sm.jpg?raw=true)
 * Their first encounter was a ***Chester***, a magnificent tree that loomed in the middle of the clearing, speaking to them in a booming, friendly voice, it warned them that death lay ahead and offers to tell them one truth each - that he is incapable of lying or telling half-truths.
 	* He tells Irasav that the best way to meet their goals would be to turn back, but if they insisted on moving forward, that they should trust nothing else in the Mere, other than itself.
@@ -33,11 +35,15 @@ Lee Dohm (*Isarav*), Andy Smith (*Harriet* & *Shiluo*), Carter Smith (*Remeele*)
 	* Shiluo it warned that danger lurked behind every branch and bubbling swamp and still water. It warned of traps and foes at every turn.
 	* It told Remeele that bullywugs are always going back and forth, but there have been other *miscreants* with them lately.
 * In the glade that separated Chester, the talking tree, and the ruins they encountered a more vicious giant sentient tree and seven bullywugs and their batrachi leader.
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/friendly-tree-sm.jpg?raw=true)
+
 	* Remeele dispensed with he wugs with a hypnotic pattern spell.
 	* And for the first time in a century, a batrachi was found on the material plane.
 	* Batarchi were legendary servants of the deity Ramenos who vanished when their liege was banished.
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/batrachi.png?raw=true) **Batrachi**
+	
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/batrachi.png?raw=true) 
+**Batrachi**
 ## Ruins of the Temple of Ramenos
 * The area immediately around the ruins had a more dense atmospheric pressure. 
 * The most remarkable parts of the ruins were a large stone arch and a stone-ringed (empty) pool beside it.
@@ -65,10 +71,12 @@ Lee Dohm (*Isarav*), Andy Smith (*Harriet* & *Shiluo*), Carter Smith (*Remeele*)
 * Their planned layover at the Carnath Roadhouse was derailed. They discovered that the Sword of Leilon had taken over and closed the "always open to everyone" way-station.
 	* They were allowed to continue on their way once the Sword determined that Irsav was not the bronze dragon, *Vold*, that they were looking for.
 
-## Illefarn Portals
+## Approaching Illefarn
 * The Illefarn Portals ruins were less *ruins* and more a historic location. All that remained of the ruins were a few stones on top of a plateau. *Or so anyone has believed for centuries*.
 * Upon arriving at the base of the plateau they found a camp that had been beset upon by demonic raiders: an Armanite commanding three gnolss and two quasits, whom they had to dispatch. 
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/illefarn-camp-sm.jpg?raw=true)
+
 * The encampment was littered with dozens of crates and boxes of loot hijacked from the High Road robberies. There were also the slaughtered bodies of a dozen bullywugs, five yuan-ti, two batrachi and a few more gnoll corpses.
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/armanite.png?raw=true) **Armanite**
 * They interrogated their gnoll prisoner, using *Charm Person* and were able to find out that the raiding party had come from *The Seeping Woods* (Yeenogough's domain), through a portal that they stumbled upon. A portal on top of the plateau.
@@ -76,14 +84,18 @@ Lee Dohm (*Isarav*), Andy Smith (*Harriet* & *Shiluo*), Carter Smith (*Remeele*)
 
 ## The Illefarn Portals
 * At the top of the plateau, they found the familiar stones arrayed the site but also a stone arch and pool, like the one that they had seen at the Ramenos ruins.
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/illefarn-top-sm.jpg?raw=true)
+
 * In the pool was the same clear liquid, with a murky cloud of white beneath the surface.
 * Inside the portal they peered into a subterranean landscape that hadn't seen the surface of the material plane for centuries.
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/illefarn-entry.jpg?raw=true)
 * A lush green, forested area with a steep set of stairs leading down to a small stone, ornamental building and then continuing down into a cavernous wilderness.
 	* A stream, apparently some kind of mountain run-off, stalactites and stalagmites through the cavern. They even saw strange, unidentifiable flying creatures in the cavern above.
 * Inside the building the team found what was once the engine that powered the famed Illefarn Portals.
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/illefarn-portals-sm.jpg?raw=true)
+
 * Guarding the portals were two batrachi ("Galungorm" and "Cyan'dar") and two yuan-ti, shapeshifted to appear like elves. Three of them were dispatched and the fourth, a yuan-ti, escaped through one of the portals.
 * There were two portals and a door. Through one portal they could see what looked like the ruins of the Temple of Ramenos (that they had just left). The one that the yuan-ti ran through looked out into a dark field, filled with some kind of mist with various shapes moving around in the fog.
 * **Remeele**, attached to a tether, went through to the Temple ruins, where she found everything much like they had left it. *Bravely* she dipped her hand into the pool and it killed her, her life essence drew out of her like it was running through a drain. The team pulled her through and helped her recover. Returned to life, she found herself changed, her body aging backwards through time. In her early thirties when the entered the portal, when she awoke her body, had regressed to the age of 14.
