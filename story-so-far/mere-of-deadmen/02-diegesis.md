@@ -148,5 +148,5 @@ Lee Dohm (*Isarav*), Andy Smith (*Harriet* & *Shiluo*), Carter Smith (*Remeele*)
 * Outside the Engine, they found the eldritch forest still thriving could see the doorway that lead to the top of the Illefarn Portals ruins.
 
 ## To be continued!
-
+[***The Temple of Ramenos***](link)
 
