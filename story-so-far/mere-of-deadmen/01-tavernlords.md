@@ -98,5 +98,5 @@ Lee Dohm (*Erethil* & *Tal*), Donavan Hoepcke (*Vold & Xzet*), Andy Smith (*Grun
 * The Tavernlords and **Tal** began to prep to rescue **Erethil**, **Taklak** (and **Stupid**) and **Xzet**. And, of course their gear.
 
 ## To be continued...
-The Diegesis Adventure
+[The Diegesis Adventure](https://github.com/gregofgreg5/magick-ink2020/blob/main/story-so-far/mere-of-deadmen/02-diegesis.md#the-diegesis-adventure)
 
