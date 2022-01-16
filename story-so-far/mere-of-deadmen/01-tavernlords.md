@@ -32,7 +32,9 @@ Lee Dohm (*Erethil* & *Tal*), Donavan Hoepcke (*Vold & Xzet*), Andy Smith (*Grun
 * The previous day, the ogres had rescued **Eklas Kisri** (halfling Diegesis adept) and **Riziasi** (tabaxi Diegesis adept), who had been brought in near death. 
 	* Still not quite road ready, Kisri explained that she and her team had been on a mission to recover three tomes. They were attacked by goblins who stole a pendant with a large ruby and inset diamonds and emeralds around the frame and the three tomes. She was desperate to get them back and promised a reward for their return.
 * The team met **AJ Frost**, clearly a professional, likely some kind of mercenary or *sell-sword*, who had been at the Inn waiting for some associates.
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/aj-framed.jpg?raw=true)
+
 * A casual discussion around the bar suggested that the goblins belonged to Fat Cobra, a dwarf who ran a *small time* crime syndicate around the Mere. Frost told them that for a cut of their earnings that he would lead them to a know den of Fat Cobras, not more than a day away.
 ## Fat Cobra's Den
 * AJ Frost showed the Tavernlords a *known secret*, and revealed that there were hidden glyphs on many trees and larger fixtures in Mere, these glyphs seemingly direct travelers to various locations, fascilitating safe travel through the quagmire.
