@@ -18,7 +18,7 @@
 ## [Wildfire Spirit](https://github.com/gregofgreg5/magick-ink2020/raw/main/images/wildfire-spirit.png?raw=true)/ Hunter's Mark
 1. Move the companion into position.
 2. Move yourself into _flanking_ position.
-3. Attack with your main hand **and** off hand.
+3. Attack with your main hand **and** off hand. Add [Dreadful Strike](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/not-chastain/n-cee.md#dreadful-strike) to one **hit** per turn.
 4. Move closer to your companion and use its **action to teleport** 15 feet away, exploding on your enemies.
 
 
