@@ -12,7 +12,7 @@
 1. Move the companion into position next to enemy(ies).
 2. Use your bonus action to cast **Hunter's Mark.**
 3. Move yourself into a _flanking position_ with your companion so that you have _advantage_ on attack rolls.
-4. Attack with your main hand. Add Dreadful Strike to one **hit** per turn.
+4. Attack with your main hand. Add [Dreadful Strike](https://github.com/gregofgreg5/magick-ink2020/blob/main/player-characters/not-chastain/n-cee.md#dreadful-strike) to one **hit** per turn.
 5. Move closer to your companion and **teleport **15 feet away, exploding on your enemies.
 
 ## [Wildfire Spirit](https://github.com/gregofgreg5/magick-ink2020/raw/main/images/wildfire-spirit.png?raw=true)/ Hunter's Mark
