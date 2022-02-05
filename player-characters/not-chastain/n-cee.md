@@ -22,7 +22,12 @@
 4. Move closer to your companion and use its **action to teleport** 15 feet away, exploding on your enemies.
 
 
-
+# Technically what's happening on a typical round is:
+YOU: Hold your movement and action until your buddy is in position.
+BUDDY: Move into position and hold it's action until you're close enough to teleport.
+YOU: Move in and make with the stabbing. Move over next to your buddy.
+BUDDY: Teleport you both away in a fiery explosion.
+EVERYONE: Ooooooh! AAaaaaaaH!
 
 ----
 ## Wildfire Spirit
