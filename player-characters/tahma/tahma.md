@@ -35,7 +35,7 @@ EVERYONE: Ooooooh! AAaaaaaaH!
 
 ----
 ## Wildfire Spirit
-![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/wildfire-spirit.png?raw=true)
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/wildfire-spirit-fgu.png?raw=true)
 
 ## Dreadful Strike
 At 3rd level, you can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1d4 psychic damage to the target, which can take this extra damage only once per turn.
