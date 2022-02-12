@@ -28,9 +28,13 @@
 
 # Technically what's happening on a typical round is:
 YOU: Delay your movement and action until your buddy is in position.
+
 BUDDY: Move into position and hold it's action until you're close enough to teleport.
+
 YOU: Move in and make with the stabbing (ACTION). Move over next to your buddy.
+
 BUDDY: (BONUS ACTION) Teleport you both away in a fiery explosion.
+
 EVERYONE: Ooooooh! AAaaaaaaH!
 
 ----
