@@ -9,7 +9,7 @@
 3. Wait until next round to attack.
 
 ## [Wildfire Spirit](https://github.com/gregofgreg5/magick-ink2020/raw/main/images/wildfire-spirit.png?raw=true)/ No Hunter's Mark
-1. Move the companion into position next to enemy(ies) **Does damage**
+1. Move the companion into position next to enemy(ies)
 2. Use your BONUS ACTION to cast **Hunter's Mark.**
 3. Move yourself into a _flanking position_ with your companion so that you have _advantage_ on attack rolls.
 4. ACTION: Attack with your main hand. 
