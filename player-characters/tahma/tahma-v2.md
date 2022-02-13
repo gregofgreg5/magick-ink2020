@@ -36,3 +36,24 @@ Replace both scimitars with:
 It doesn't say it, but I think it should be +1, like the scmitars were. With a +1 bonus would be:
 +8 to hit (1d6+5), bonus attac: +8 to hit (1d6) - but  would only use the bonus when they're not moving/attacking their spirit.
 
+
+---
+
+## Option #2: Shielded
+### AC: 17
+No armor (AC 10) + Dex (+4) +2 shield (no magical bonus) + 1 fighting style
+
+## Weapon
+Replace one scimitar with the **Wardancer's spear** (see above)
+
+## Shield
+Replace other scimitar with **Recoil shield**
+![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/recoil-shield.png?raw=true)
+>
+> This gnomish tinker shield has a spring-loaded plate on the front that can be used to knock a foe flat. This shield has 3 charges and regains 1 charge at dawn. While wielding this shield when a creature misses with a melee attack, you can use a reaction to expend and force the creature to make a DC 15 Strength saving throw. On a failed save, their attack recoils off the spring loaded front of the shield and knocks them prone.
+
+## Fighting Style
+Switch Two weapon fighting for *Defensive*
+> While you are wearing armor you get a +1 bonus to AC.
+*Shields apparently count as **armor**.*
+
