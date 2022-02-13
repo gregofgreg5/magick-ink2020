@@ -48,12 +48,22 @@ Replace one scimitar with the **Wardancer's spear** (see above)
 
 ## Shield
 Replace other scimitar with **Recoil shield**
+
 ![image](https://github.com/gregofgreg5/magick-ink2020/blob/main/images/recoil-shield.png?raw=true)
 >
 > This gnomish tinker shield has a spring-loaded plate on the front that can be used to knock a foe flat. This shield has 3 charges and regains 1 charge at dawn. While wielding this shield when a creature misses with a melee attack, you can use a reaction to expend and force the creature to make a DC 15 Strength saving throw. On a failed save, their attack recoils off the spring loaded front of the shield and knocks them prone.
 
 ## Fighting Style
-Switch Two weapon fighting for *Defensive*
+Switch Two weapon fighting for ***Defensive***
 > While you are wearing armor you get a +1 bonus to AC.
 *Shields apparently count as **armor**.*
 
+
+---
+
+## Option #3: Ted comes up with something!!!
+I'm less interested in the shiled idea, only because I don't like shields in general. Specifically, I don't really like it for the classes/character build, just one more thing to have to hide when they're trying to shapechange themselves into someone else! But I'm not completely opposed to it.
+
+I moved away from the scimitar, for no real reason other than *why a scimitar*...? 
+
+I searched around for a different finesse weapon. I came up with a sickle and a this spear. I liked the spear better. I imagine them using it like the Dora Milajae from the Black Panter use their spears! But I'm not married to that either. Though, what I did like about the spear is it lets them escape a little, for when they don't have their spirit around to teleport. It wouldn't let them get out of melee range, but would at least move them away.
