@@ -11,5 +11,4 @@
 * He has a great hatred of the Cassalanters.
 * He feels alone and **always will** - he is incapable of bonding with others.
 * The only thing more pimportant to him than his drive for power is his desire for self-preservation.
-
-
+* He doesn't want to use it, but **will 100% use *Retreat Into Darkness*** to escape before dying.
