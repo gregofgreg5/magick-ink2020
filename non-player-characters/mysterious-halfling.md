@@ -10,5 +10,6 @@
 * He has more power than access to capital/gold.
 * He has a great hatred of the Cassalanters.
 * He feels alone and **always will** - he is incapable of bonding with others.
+* The only thing more pimportant to him than his drive for power is his desire for self-preservation.
 
 
