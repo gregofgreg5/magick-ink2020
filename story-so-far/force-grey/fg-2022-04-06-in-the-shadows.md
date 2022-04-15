@@ -10,7 +10,7 @@ They found succor in the recently established colony of *Tyr's Burden*, less tha
 
 The hunt led them to the *Legendary Tower of Darkness* where they discovered a long forgotten gateway to the Interplanar Port of *Thyrgarr Station*. 
 
-The station quickly well under lockdown and the team found themselves embroiled in the middle of a murder mystery and a coup that threatened existance across the interplanar thruway. They used their ingenuity to solve the mystery and foil the invasion and were able to book passage on a vessel that returned them... and Eskander! to their previous time and place.
+The station quickly went into a lockdown and the team found themselves embroiled in the middle of a murder mystery and a coup that threatened existance across the interplanar thruway. They used their ingenuity to solve the mystery and foil the invasion and were able to book passage on a vessel that returned them... and Eskander! to their previous time and place.
 
 In the chaos of dispatching Delaurents coven, Eskander, *taking the shape of Manny,* telling the Watch that the rest of the party was dead, he escaped into the night.
 
